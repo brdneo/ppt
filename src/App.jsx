@@ -25,6 +25,12 @@ import imgSales from './assets/modules/sales.png';
 import imgSpreadsheet from './assets/modules/spreadsheet.png';
 import imgFiscal from '../modulos/fiscal_dashboard.png';
 
+// Novos módulos e imagens adicionados
+import imgEcossistema from './assets/modules/ecossistema.png';
+import imgFunilVendas from './assets/modules/funil-vendas.png';
+import imgMarketing from './assets/modules/marketing.png';
+import imgStudio from './assets/modules/studio.jpg';
+
 const MulticompanyFlow = () => (
   <div className="mc-flow-container">
     {/* Step 1: Vendedor */}
@@ -78,246 +84,272 @@ function App() {
       badge: null,
       title: "NEXT FOODS",
       logos: [bioLogo, capelinhaLogo, refazendaLogo],
-      description: "Imagine as nossas 5 empresas conectadas em um único ecossistema. Sem retrabalho, sem informações desencontradas e com uma fluidez incrível. Chegou a hora de dar o próximo passo e preparar a nossa casa para um crescimento sem limites.",
+      description: "Um ecossistema empresarial totalmente conectado. Informações centralizadas, processos fluidos e zero retrabalho, preparando a infraestrutura tecnológica para um crescimento sustentável.",
       modules: ["O Ecossistema", "Alta Performance"],
       features: [
-        "Fim das planilhas isoladas que ninguém sabe quem atualizou",
-        "Tchau Bitrix e Monday: tudo o que precisamos, em um só lugar",
-        "Visão transparente e em tempo real de cada braço da holding"
+        "Fim das planilhas isoladas e descentralizadas",
+        "Centralização das ferramentas de gestão em uma única plataforma",
+        "Visão gerencial em tempo real de todas as operações do grupo"
+      ]
+    },
+    {
+      id: "ecossistema",
+      badge: "Visão Geral",
+      title: "O Ecossistema",
+      description: "Um ambiente onde todos os módulos conversam nativamente entre si. A informação flui de maneira inteligente, garantindo que o dado inserido em uma ponta atualize toda a cadeia de processos.",
+      image: imgEcossistema,
+      modules: ["Integração", "Ecossistema"],
+      features: [
+        "Integração nativa sem necessidade de conectores complexos",
+        "Experiência de usuário padronizada em todos os departamentos",
+        "Arquitetura escalável desenhada para acompanhar o crescimento da holding"
       ]
     },
     {
       id: "multi-empresa",
       badge: "Arquitetura de Vendas",
       title: "Operação Multi-Empresas",
-      description: "Nossa operação comercial unificada é o grande diferencial desse ecossistema. Facilitamos a vida do vendedor, otimizamos o Centro de Distribuição e cumprimos as obrigações fiscais sem nenhum atrito.",
+      description: "A operação comercial unificada é o grande diferencial deste modelo. Facilita o processo de vendas, otimiza o Centro de Distribuição e garante o cumprimento das obrigações fiscais sem atritos.",
       customRightContent: <MulticompanyFlow />,
       modules: ["Multi-Company", "Vendas", "Estoque"],
       features: [
-        "Venda consolidada na ponta: o cliente não sofre com burocracia",
-        "Logística inteligente: uma única entrega otimiza frete e tempo",
-        "Separação fiscal perfeita: cada empresa fatura apenas o que vendeu"
+        "Venda consolidada na ponta: experiência sem burocracia para o cliente",
+        "Logística inteligente: consolidação de entregas otimizando frete e tempo",
+        "Separação fiscal automatizada: cada CNPJ fatura apenas as suas respectivas vendas"
       ]
     },
     {
       id: "fiscal",
       badge: "Conformidade e Segurança",
       title: "Fiscal",
-      description: "Garantir que a holding opere 100% dentro das normas é fundamental. O módulo fiscal automatiza cálculos complexos, emissões de notas e a geração nativa do SPED, blindando as nossas 5 empresas contra multas.",
+      description: "Garantir que a operação ocorra em total conformidade com as normas é fundamental. O módulo fiscal automatiza cálculos complexos, emissão de notas e a geração nativa do SPED, blindando as empresas contra passivos fiscais.",
       image: imgFiscal,
       modules: ["Localização Fiscal", "Emissão de Notas"],
       features: [
-        "Cálculo automático de ICMS, PIS, COFINS na compra e venda",
-        "Emissão de NF-e, NFC-e e NFS-e totalmente nativa",
-        "Geração direta de arquivos SPED sem intervenção manual"
+        "Cálculo automático de impostos (ICMS, PIS, COFINS) nas operações",
+        "Emissão de NF-e, NFC-e e NFS-e de forma nativa e integrada",
+        "Geração de arquivos SPED diretamente pelo sistema"
       ]
     },
     {
       id: "whatsapp",
       badge: "Comunicação Inteligente",
       title: "WhatsApp",
-      description: "Se 90% das nossas conversas com clientes já acontecem no WhatsApp, por que deixá-las isoladas em celulares? Ao integrar nosso canal mais forte diretamente no sistema, nossa equipe ganha tempo e a Next Foods ganha controle.",
+      description: "A integração do canal de comunicação mais utilizado diretamente no ERP permite que o histórico de conversas não fique isolado em dispositivos móveis. A equipe ganha produtividade e a empresa ganha controle e rastreabilidade.",
       image: imgWhatsapp,
       modules: ["API do WhatsApp Business"],
       features: [
-        "A equipe atende pelo sistema, sem precisar de apps paralelos",
-        "Histórico de conversas salvo diretamente no perfil do cliente",
-        "Envio de boletos e orçamentos direto no chat, sem fricção"
+        "Atendimento centralizado pelo sistema, sem aplicativos paralelos",
+        "Histórico de conversas salvo diretamente no cadastro do cliente",
+        "Envio automatizado de boletos e orçamentos diretamente no chat"
       ]
     },
     {
       id: "ecommerce-website",
-      badge: "Nossa Vitrine Digital",
+      badge: "Presença Digital",
       title: "E-commerce & Website",
-      description: "Nossa presença digital deve trabalhar para nós. Um site que capta visitantes e os transforma em leads no CRM, aliado a uma loja online onde cada pedido já atualiza o estoque e o financeiro em tempo real. É vender e sorrir.",
+      description: "A presença digital trabalha em sincronia com o backoffice. Um site focado em captação de leads conectado ao CRM, aliado a um e-commerce onde cada pedido atualiza estoques e o fluxo financeiro instantaneamente.",
       image: imgEcommerce,
-      modules: ["Comércio Eletrônico (e-Commerce)", "Site (Website)"],
+      modules: ["Comércio Eletrônico", "Website"],
       features: [
-        "Vendeu online? O estoque da fábrica já é ajustado na hora",
-        "Captura de leads conectada magicamente ao funil comercial",
-        "Criação de páginas e campanhas promocionais em minutos"
+        "Sincronização em tempo real de vendas online com o estoque físico",
+        "Captação de leads conectada diretamente ao funil comercial",
+        "Criação ágil de landing pages e campanhas promocionais"
       ]
     },
     {
       id: "crm",
-      badge: "Relacionamento de Ouro",
+      badge: "Gestão de Relacionamento",
       title: "CRM",
-      description: "Chegou o momento de nos despedirmos do Bitrix. Vamos receber contatos do WhatsApp e do site em um funil de vendas intuitivo, onde nenhum cliente é esquecido e o acompanhamento flui com naturalidade.",
-      image: imgCRM,
-      modules: ["CRM", "Funil de Vendas (Leads)"],
+      description: "Uma evolução na gestão de clientes. Contatos provenientes do WhatsApp e do site são direcionados para um funil de vendas visual e intuitivo, garantindo que todas as oportunidades de negócio sejam acompanhadas de perto.",
+      image: imgFunilVendas,
+      modules: ["CRM", "Funil de Vendas"],
       features: [
-        "Quadro visual (Kanban) super prático para os vendedores",
-        "Lembretes e automações para aquele follow-up certeiro",
-        "Integração perfeita com orçamentos e conversas do WhatsApp"
+        "Visualização em Kanban para acompanhamento prático do pipeline de vendas",
+        "Automações e lembretes para cadência de follow-ups",
+        "Integração nativa com orçamentos e histórico de comunicações"
       ]
     },
     {
       id: "sales-pos",
       badge: "Força Comercial",
       title: "Vendas & PDV",
-      description: "Seja na rua com nossos vendedores externos enviando cotações elegantes pelo celular, ou no balcão das lojas físicas com o PDV rápido, toda venda cai no mesmo banco de dados, alinhando a matriz em segundos.",
+      description: "Tanto a força de vendas externa realizando cotações via mobile, quanto o atendimento em lojas físicas via PDV, convergem para a mesma base de dados. As informações são sincronizadas com a matriz em questão de segundos.",
       image: imgSales,
-      modules: ["Vendas", "Cotações", "Ponto de Venda (PDV)"],
+      modules: ["Vendas", "Ponto de Venda (PDV)"],
       features: [
-        "Transforme cotação em pedido de produção com 1 clique",
-        "PDV que continua operando normalmente mesmo sem internet",
-        "Sistema inteligente de recompensas e fidelização no balcão"
+        "Conversão de cotações em pedidos de produção com apenas um clique",
+        "PDV com operação offline e sincronização em segundo plano",
+        "Programas de fidelidade e recompensas integrados ao balcão"
       ]
     },
     {
       id: "manufacturing-quality",
-      badge: "O Coração da Next Foods",
+      badge: "Produção Industrial",
       title: "Fabricação & Qualidade",
-      description: "A cozinha da nossa holding! Controlar as ordens de produção ficou transparente. E como comida é coisa séria, inserimos pontos de controle de qualidade direto no fluxo, garantindo que só o melhor chegue aos clientes.",
+      description: "Controle total sobre as ordens de produção e rastreabilidade dos ingredientes. Pontos de controle de qualidade são inseridos diretamente no fluxo produtivo para assegurar o mais alto padrão nos produtos finais.",
       image: imgManufacturing,
-      modules: ["Fabricação (MRP)", "Controle de Qualidade"],
+      modules: ["Fabricação (MRP)", "Qualidade"],
       features: [
-        "Receitas e Listas de Materiais (BOM) que guiam o chão de fábrica",
-        "Rastreabilidade lote a lote, da matéria-prima até a mesa",
-        "Alertas preventivos e checklists caso algo fuja do padrão"
+        "Gestão de Receitas e Listas de Materiais (BOM) para o chão de fábrica",
+        "Rastreabilidade ponta a ponta, da matéria-prima até o produto final",
+        "Checklists e alertas preventivos de controle de qualidade"
       ]
     },
     {
       id: "plm-maintenance",
       badge: "Engenharia e Estrutura",
       title: "PLM & Manutenção",
-      description: "Lançar uma nova receita ou atualizar embalagens exige o PLM para não bagunçar a operação. Em paralelo, o módulo de Manutenção cuida das nossas máquinas, evitando paradas de surpresa na produção.",
+      description: "O lançamento de novos produtos e atualizações de embalagens são geridos via PLM para manter a organização da operação. Simultaneamente, a manutenção preventiva garante a disponibilidade contínua dos maquinários.",
       image: imgPLM,
-      modules: ["Gestão do Ciclo de Vida (PLM)", "Manutenção"],
+      modules: ["Ciclo de Vida (PLM)", "Manutenção"],
       features: [
-        "Fluxos de aprovação inteligente para criar novas receitas",
-        "Agendamento de manutenção preventiva sem parar a fábrica",
-        "Sintonia total com Fabricação: inovação e máquinas em dia"
+        "Fluxos estruturados de aprovação para criação e revisão de receitas",
+        "Agendamento de manutenções sem impacto não planejado na produção",
+        "Sincronia completa com o setor de Fabricação e ordens de serviço"
       ]
     },
     {
       id: "purchase",
       badge: "Abastecimento Estratégico",
       title: "Compras",
-      description: "Comprar bem é o primeiro passo para lucrar bem. Automatizamos os pedidos para nossos fornecedores e amarramos o recebimento de mercadorias com a nossa equipe de qualidade.",
+      description: "Otimização do ciclo de suprimentos. Automação de pedidos de compra baseados em regras de estoque e integração do recebimento de mercadorias com as diretrizes da equipe de qualidade.",
       image: imgPurchase,
       modules: ["Compras"],
       features: [
-        "O sistema avisa (e sugere) quando precisamos comprar algo",
-        "Comparativo fácil de preços em negociações grandes (Tenders)",
-        "Transparência total na relação com nossos fornecedores"
+        "Sugestões automatizadas de ressuprimento baseadas na demanda e lead time",
+        "Gestão de acordos de compra e concorrências de preços (Tenders)",
+        "Portal do fornecedor para maior transparência e agilidade"
       ]
     },
     {
       id: "inventory",
-      badge: "Controle Absoluto",
+      badge: "Controle Operacional",
       title: "Inventário",
-      description: "Nosso estoque é o nosso dinheiro na prateleira. Precisamos de uma visão cristalina sobre as transferências entre as 5 empresas, rastreando lotes e garantindo que nunca falte (ou sobre) produto.",
+      description: "Precisão na gestão de materiais e produtos acabados. Visibilidade completa das transferências entre as unidades do grupo, rastreamento de lotes e validade para garantir o nível ideal de estoque.",
       image: imgInventory,
       modules: ["Gestão de Inventário"],
       features: [
-        "Um estoque unificado para a holding, mas separado por empresa",
-        "Apoio nativo a leitores de código de barras",
-        "Inteligência para reposição automática baseada na demanda"
+        "Estoque unificado no nível do grupo, porém segmentado por empresa",
+        "Operações logísticas suportadas nativamente por coletores de código de barras",
+        "Regras inteligentes para rotatividade e reposição de produtos"
       ]
     },
     {
       id: "fleet",
-      badge: "Nossa Logística",
+      badge: "Logística",
       title: "Frota (Fleet)",
-      description: "A logística da Next Foods não para de crescer, e ter nossos caminhões na rua exige cuidado. Rastrear rotas, manutenções e o combustível é essencial para entregar rápido e gastar menos.",
+      description: "A gestão logística demanda controle rigoroso dos ativos. O rastreamento de manutenções, contratos e consumo de combustível é fundamental para otimizar rotas e reduzir custos operacionais.",
       image: imgFleet,
       modules: ["Frota"],
       features: [
-        "Toda a papelada de contratos e licenciamentos em dia",
-        "Acompanhamento direto do consumo de combustível e odômetro",
-        "Visão clara de quais veículos rodam mais eficientemente"
+        "Gestão centralizada de contratos, apólices de seguro e licenciamentos",
+        "Monitoramento do consumo de combustível e registros de odômetro",
+        "Análise de eficiência e custo por veículo da frota"
       ]
     },
     {
       id: "project",
-      badge: "Mãos à Obra",
+      badge: "Gestão Estratégica",
       title: "Projetos",
-      description: "O Monday cumpriu seu papel, mas agora precisamos de algo nosso. Vamos gerenciar todas as demandas internas, novos projetos e entregáveis sem perder prazos e, o principal, linkados ao ERP.",
+      description: "Gestão completa de demandas internas, implantações e novos desenvolvimentos. Os projetos e entregáveis são monitorados quanto a prazos e orçamentos, integrados diretamente ao ERP.",
       image: imgProject,
       modules: ["Gestão de Projetos"],
       features: [
-        "Quadro Kanban, Gantt e visualização fácil do que está pendente",
-        "Controle preciso do tempo que cada equipe dedica aos projetos",
-        "Adeus reuniões improdutivas: tudo documentado e claro"
+        "Visualizações em Kanban e Gráfico de Gantt para acompanhamento visual",
+        "Registro de apontamento de horas das equipes alocadas em projetos",
+        "Centralização da documentação e comunicação de cada projeto"
       ]
     },
     {
       id: "documents",
-      badge: "A Nuvem Next Foods",
+      badge: "Gestão Eletrônica",
       title: "Documentos",
-      description: "Salvar arquivos na área de trabalho e perder a última versão? Passado. Vamos ter uma central na nuvem, acessível, segura e super inteligente para lidar com toda a papelada da holding.",
+      description: "Um repositório em nuvem centralizado, seguro e inteligente para toda a documentação corporativa. A eliminação do papel e a facilidade de acesso remoto modernizam os processos burocráticos.",
       image: imgDocuments,
       modules: ["Documentos em Nuvem"],
       features: [
-        "Ele 'lê' notas fiscais usando IA (Reconhecimento de Texto OCR)",
-        "Fluxos de aprovação de contratos a distância com um clique",
-        "Nossos diretores acessam tudo sem precisar pedir por e-mail"
+        "Leitura inteligente de faturas através de Inteligência Artificial (OCR)",
+        "Assinatura digital e fluxos de aprovação remotos com um clique",
+        "Níveis de acesso seguros e compartilhamento simplificado com a diretoria"
       ]
     },
     {
       id: "discuss",
-      badge: "Sintonia Interna",
+      badge: "Comunicação Corporativa",
       title: "Discuss",
-      description: "Enquanto o WhatsApp brilha lá fora com os clientes, o Discuss é o nosso ambiente seguro e organizado aqui dentro. Uma comunicação de equipe fluida que fica gravada no histórico da empresa para o futuro.",
+      description: "Um ambiente de colaboração interno seguro e organizado. A comunicação entre as equipes flui de forma nativa no sistema, mantendo o histórico de decisões e alinhamentos vinculado aos processos empresariais.",
       image: imgDiscuss,
-      modules: ["Discussão (Comunicação)"],
+      modules: ["Comunicação Interna"],
       features: [
-        "O nosso próprio chat interno, sem precisar sair do sistema",
-        "Canais separados por projeto, por setor ou por empresa",
-        "Marque (@) colegas diretamente em uma ordem de produção"
+        "Chat interno nativo, eliminando a dependência de plataformas não homologadas",
+        "Canais de comunicação segregados por projeto, departamento ou empresa",
+        "Possibilidade de mencionar (@) colaboradores diretamente nos registros do ERP"
       ]
     },
     {
       id: "ai",
-      badge: "Pensando no Futuro",
+      badge: "Tecnologia de Ponta",
       title: "A Revolução da IA",
-      description: "Não estamos apenas adotando um sistema, estamos abraçando a Inteligência Artificial. Ela vai operar nos bastidores, eliminando trabalhos braçais para que nossa equipe use a cabeça para faturar mais.",
+      description: "A Inteligência Artificial atua nos bastidores das operações, automatizando tarefas repetitivas e fornecendo insights. O potencial produtivo da equipe é maximizado com o uso de algoritmos inteligentes.",
       image: imgAI,
       modules: ["Inteligência Artificial"],
       features: [
-        "Preenche dados de despesas e notas fiscais sozinha",
-        "Ajuda o time de marketing e vendas a redigir textos persuasivos",
-        "Evita que setores diferentes façam a mesma tarefa duas vezes"
+        "Preenchimento automático de dados de despesas e reconhecimento de faturas",
+        "Geração de textos persuasivos e otimizados para marketing e vendas",
+        "Detecção de duplicidades e sugestões inteligentes de roteamento"
       ]
     },
     {
       id: "marketing",
-      badge: "Voz e Crescimento",
+      badge: "Aquisição e Engajamento",
       title: "Marketing & Automação",
-      description: "Unimos nossas redes sociais e a nutrição de leads. Agende postagens para todas as mídias em um só lugar e crie gatilhos que enviam e-mails automaticamente na hora exata, trabalhando como um vendedor 24 horas.",
-      image: imgMarketingAuto,
-      modules: ["Marketing Social", "Automação de Marketing"],
+      description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
+      image: imgMarketing,
+      modules: ["Marketing Social", "Automação"],
       features: [
-        "Planejamento de posts e respostas a comentários no ERP",
-        "Jornadas de nutrição baseadas no comportamento do cliente",
-        "Descubra exatamente qual post de sexta gerou vendas reais"
+        "Planejamento centralizado de publicações e monitoramento de engajamento",
+        "Desenvolvimento de jornadas de nutrição (workflows) baseadas em comportamento",
+        "Análise de ROI, identificando campanhas que geram conversões reais"
       ]
     },
     {
       id: "spreadsheet",
-      badge: "Inteligência Estratégica",
+      badge: "Inteligência de Negócios",
       title: "Planilhas (BI)",
-      description: "Nós sabemos que a diretoria adora os números rápidos e precisos. Trouxemos o melhor do Excel para dentro do ERP. Um Business Intelligence em tempo real para embasar decisões certeiras.",
+      description: "Business Intelligence em tempo real. A união da flexibilidade das planilhas com a base de dados centralizada do ERP permite a extração de métricas precisas para apoiar a tomada de decisão da diretoria.",
       image: imgSpreadsheet,
       modules: ["Planilhas (BI)"],
       features: [
-        "Dados vivos da operação: fechou venda, o painel atualiza",
-        "Criação de gráficos e Dashboards deslumbrantes",
-        "O poder das fórmulas para entender a saúde das 5 empresas"
+        "Dados operacionais atualizados dinamicamente sem necessidade de exportação",
+        "Construção de painéis de controle (Dashboards) executivos customizados",
+        "Análises financeiras avançadas consolidadas de todas as unidades de negócio"
       ]
     },
     {
       id: "accounting",
-      badge: "Resultados Visíveis",
+      badge: "Resultados Financeiros",
       title: "Contabilidade e Faturamento",
-      description: "Onde toda a operação deságua. Controlar o dinheiro, faturar e manter a saúde contábil da Next Foods unificada, transparente e incrivelmente fácil de gerenciar, suportada pela nossa IA.",
+      description: "A base de toda a operação. O controle financeiro, o faturamento e a escrituração contábil são mantidos de forma consolidada, transparente e simplificada, com forte apoio de automações.",
       image: imgAccounting,
       modules: ["Contabilidade", "Faturamento"],
       features: [
-        "Reconciliação bancária turbinada por Inteligência Artificial",
-        "Visão consolidada e limpa das 5 empresas em um único balanço",
-        "DREs e balancetes prontos para a diretoria, com apenas 1 clique"
+        "Reconciliação bancária acelerada por reconhecimento inteligente",
+        "Visualização contábil consolidada ou segmentada por CNPJ",
+        "Geração ágil de DREs, balancetes e relatórios para auditoria"
+      ]
+    },
+    {
+      id: "studio",
+      badge: "Flexibilidade Extrema",
+      title: "Odoo Studio",
+      description: "O sistema se adapta à empresa, e não o contrário. Com o Odoo Studio, é possível personalizar telas, criar novos campos e desenhar fluxos de aprovação do zero, mantendo a robustez e a segurança do ERP intactas.",
+      image: imgStudio,
+      modules: ["Odoo Studio", "Customização"],
+      features: [
+        "Criação de aplicativos e customizações sem a necessidade de programação",
+        "Ajuste visual e adição de campos através de um simples arrastar e soltar",
+        "Configuração de automações e fluxos de aprovação condicionados a regras de negócio"
       ]
     }
   ];
@@ -327,11 +359,21 @@ function App() {
     const handleScroll = () => {
       if (!containerRef.current) return;
       
-      const { scrollTop, clientHeight } = containerRef.current;
-      const currentSlide = Math.round(scrollTop / clientHeight);
+      const container = containerRef.current;
+      const slideElements = container.querySelectorAll('.slide');
+      const viewportCenter = window.innerHeight / 2;
       
-      if (currentSlide !== activeSlide) {
-        setActiveSlide(currentSlide);
+      let currentSlideIndex = activeSlide;
+
+      slideElements.forEach((slide, index) => {
+        const rect = slide.getBoundingClientRect();
+        if (rect.top <= viewportCenter && rect.bottom >= viewportCenter) {
+          currentSlideIndex = index;
+        }
+      });
+      
+      if (currentSlideIndex !== activeSlide) {
+        setActiveSlide(currentSlideIndex);
       }
     };
 
@@ -344,11 +386,15 @@ function App() {
 
   const scrollToSlide = (index) => {
     if (!containerRef.current) return;
-    const { clientHeight } = containerRef.current;
-    containerRef.current.scrollTo({
-      top: index * clientHeight,
-      behavior: 'smooth'
-    });
+    const container = containerRef.current;
+    const slideElements = container.querySelectorAll('.slide');
+    
+    if (slideElements[index]) {
+      container.scrollTo({
+        top: slideElements[index].offsetTop,
+        behavior: 'smooth'
+      });
+    }
   };
 
   // Keyboard navigation for presentation remote (Arrow Keys, PageUp/PageDown)

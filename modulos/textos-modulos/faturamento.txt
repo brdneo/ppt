@@ -1,0 +1,125 @@
+Faturamento eletrônico
+
+Envie e receba faturas eletrônicas ilimitadas gratuitamente. Automatize pagamentos e lembretes para receber pagamentos mais rapidamente.
+
+Envie e receba faturas e contas ilimitadas, gratuitamente, para sempre. Veja o porquê
+NFe e NFSe compátivel com RFB
+Interface do Odoo Faturamento
+Ei, contadores! Confira o nosso Financeiro aplicativo!
+Clique.
+Fatura enviada
+
+Todos os elementos essenciais de uma fatura são preparados especialmente para você: detalhes do cliente, produtos e preços, taxas de impostos, etc. Sua fatura está - literalmente - a um clique de distância.
+Todas as faturas
+no seu bolso
+
+Use o aplicativo móvel para emitir faturas para seus clientes, atualizar o status de pagamento ou até mesmo criar pagamentos em lote para as contas de seus fornecedores! A qualquer momento, em qualquer lugar.
+Receba pagamentos
+Tão rápido que você receberá uma multa
+num piscar de olhos
+
+Pagamentos on-line. Redirecione seus clientes para um portal do cliente impecável e permita que paguem pela forma de pagamento on-line de sua preferência.
+Connect your bank
+
+Automate follow-ups
+
+Monitore pagamentos em aberto com status e datas de vencimento claros.
+Defina lembretes para lançamentos que precisam de acompanhamento.
+Todos os recursos
+do jeito certo.
+160 países compatíveis
+
+Suporte completo com faturamento eletrônico, integrações bancárias, declarações de impostos, etc. Lista de países compatíveis
+Lide com faturas recorrentes
+
+Defina a frequência de faturamento para assinaturas de serviços e produtos recorrentes.
+Várias moedas
+
+Emita faturas e receba pagamentos em diferentes moedas com uma atualização automática da taxa de conversão.
+Correio tradicional
+
+Automatize o envio de faturas e acompanhamento de pagamentos pelo correio.
+
+
+Recursos:
+Gerenciar faturas
+Criar faturas de clientes
+
+Emita faturas claras, completas e profissionais em segundos.
+Imprimir ou enviar por e-mail
+
+Imprima uma cópia impressa de suas faturas para enviá-las por correio ou por e-mail.
+Emitir reembolsos
+
+Crie notas de crédito e gerencie reembolsos.
+Regras de multiempresas
+
+Espelhe automaticamente pedidos e faturas em uma estrutura com várias empresas.
+Preenchimento automático de endereço
+
+Insira um número de VAT válido e o Odoo preencherá automaticamente o nome e o endereço do cliente (apenas na Europa).
+Correspondência de pagamentos por três vias
+
+Compare a informação em pedidos de compra, contas do fornecedor e recibos para determinar se sua conta deve ou não ser paga.
+Gerenciar faturas de fornecedores
+
+Registre as faturas dos fornecedores no sistema para gerenciar os pagamentos e integrá-los na contabilidade.
+Emitir faturas recorrentes
+
+Defina a frequência de faturamento dos produtos de acordo com as espeficicações do contrato.
+Incluir Incoterms®
+
+Use os padrões Incoterms para garantir que você tenha os termos certos em seus contratos.
+Termos de pagamentos
+
+Configure e use suas condições de pagamento preferidas.
+Pagamentos de clientes
+
+Acompanhe facilmente pagamentos com opções como depósito em lote.
+Impostos automatizados
+
+Configure regras fiscais para calcular impostos automaticamente em sua fatura e defina onde o arredondamento ocorre para obter relatórios precisos.
+Conformidade com requisitos internacionais de faturamento
+
+Alemanha, Itália, Espanha, Bélgica e muitos outros.
+Peppol
+
+O Odoo suporta o formato de fatura eletrônica Peppol para países que fazem parte do EAS.
+Personalização
+
+Selecione seu design, estilo e logo preferido para personalizar suas faturas.
+Importação de faturas do fornecedor
+
+Gerencie suas contas do fornecedor com facilidade com digitalização de documentos. Defina um alias de e-mail para receber suas contas diretamente na base de dados do Odoo.
+Posições fiscais
+
+Impostos e regulamentações locais, como gerenciamento de impostos OSS, serão configurados automaticamente com a posição fiscal.
+Realizar pagamentos
+Visão geral das faturas
+
+Obtenha uma visão ampla de todas as faturas e filtre-as por status.
+Tipos de pagamento
+
+Pagamentos SEPA e impressão de cheques no formato dos EUA.
+Várias moedas
+
+Permita que clientes paguem na moeda deles com um conversor de moeda automático e registre os ganhos e as perdas de cada conversão. Atualização automatizada das taxas de moeda com base em uma frequência selecionada: diária, semanal ou mensal.
+Receba pagamentos online
+
+Envie suas faturas por e-mail e adicione um link para o Authorize, Paypal, Ingenico, Buckaroo ou Adyen para ser pago com rapidez, facilidade e segurança.
+Pagamentos em lote
+
+Selecione várias faturas de fornecedor e pague-as de uma vez. Dê a créditos clientes em lote por Débito direto SEPA ou tokens de cartão de crédito.
+Gerencie e personalize números de sequência
+
+Números de sequência de faturas são tratados automaticamente quando a fatura é confirmada. Se ocorrer uma lacuna na sequência, o Odoo automaticamente avisará.
+Limite de crédito
+
+Limites de crédito específico podem ser definidos para notificar o usuário se o limite escolhido para um cliente está sendo ultrapassado.
+Relatórios
+Relatório de análise de faturas
+
+Obtenha um visão abrangente do status das vendas e faturas.
+Relatórios de vendas
+
+Obtenha acesso direto a informações essenciais com painéis dinâmicos e personalizáveis.

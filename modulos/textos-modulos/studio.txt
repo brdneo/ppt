@@ -1,0 +1,148 @@
+
+Construa. Não codifique.
+
+O Odoo Estúdio oferece as ferramentas para criar novos campos, personalizar visualizações e otimizar fluxos de trabalho – tudo isso sem escrever uma única linha de código.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Odoo Estúdio
+destaque
+Cansado de se sentir limitado por seu software?
+Seu novo aplicativo,
+e não foi do zero
+
+Crie seu aplicativo em pouco tempo. Basta escolher os recursos de que você precisa e o Odoo faz o resto!
+Odoo Estúdio
+Sem mais designs genéricos
+
+Adicione campos com um simples arrastar e soltar e personalize suas telas: rótulo, tipo, aparência, funcionalidade e muito mais. Está tudo em suas mãos!
+Odoo Estúdio
+destaque
+E tudo está integrado com os outros aplicativos do Odoo!
+Dê sua cara aos
+seus documentos
+
+Personalize todos os aspectos de seus documentos, desde a estética até o conteúdo. Ajuste as faturas, reformule as visões gerais da OP e crie novos documentos do zero.
+Odoo Estúdio Odoo Estúdio
+Deixe O Odoo Estúdio fazer o trabalho por você
+
+Defina disparos e ações automatizadas para qualquer alteração de registro.
+Odoo Estúdio
+Odoo Estúdio
+Configure seus fluxos de aprovação
+
+Verifique ações críticas antes de serem executadas. Configure as notificações a serem acionadas quando ações específicas forem iniciadas e direcione-as a usuários específicos.
+Todos os recursos
+do jeito certo.
+Sem necessidade de programação
+
+Crie aplicativos personalizados em minutos, em vez de semanas.
+Editor de menu
+
+Reorganize o menu do seu aplicativo com o recurso de arrastar e soltar e crie novos menus com apenas um clique.
+Propriedades condicionais
+
+Torne seus campos invisíveis, obrigatórios ou somente leitura em determinadas condições.
+Editor XML.
+
+Use o editor XML para personalizações avançadas de relatórios.
+
+Recursos:
+Visão geral
+Sem necessidade de programação
+
+Crie aplicativos personalizados em minutos e não em semanas, sem desenvolvimento.
+Adequado para desenvolvedores
+
+Desbloqueie o modo de desenvolvedor para acessar os detalhes técnicos.
+Designer de tela
+Formulários
+
+Crie e personalize formulários avançados com guias, botões, botões inteligentes, widgets de discussão inline, etc.
+Listas
+
+Crie listas apenas de leitura ou de leitua e gravação semelhantes a planilhas do Excel.
+Kanban
+
+Crie tabelas de pivô personalizáveis; aprofunde qualquer dimensão e exiba diversas medidas.
+Tabela de pivô
+
+Use a visão de calendário para gerir documentos vinculados a uma agenda.
+Calendário
+
+Use a visão de calendário para exibir informações por data.
+Gráficos
+
+Obtenha excelentes estatísticas com as visualizações gráficas: gráficos de pizza, linhas, barras etc.
+Gráficos
+
+Obtenha excelentes estatísticas para os seus objetos personalizados com as visualizações gráficas: gráficos de pizza, linhas, barras etc.
+Gráficos de Gantt
+
+Gráficos de Gantt são ótimos para planejar e agendar tarefas, eventos, reuniões, etc.
+Recursos
+Importação/Exportação
+
+Importe arquivos .CSV e .XLS para adicionar registros de atualização e criar modelos de exportação baseados nos modelos personalizados.
+Ações em lote
+
+Efetue ações em lote em registos selecionados: excluir, arquivar, ações automatizadas, etc.
+Editor de menu
+
+Reorganize o seu menu de aplicativos com o comando de arrastar e soltar e crie novos menus com apenas um clique.
+Gateway de e-mail
+
+Tenha o portal de e-mail diretamente conectado ao aplicativo para criar registros ou conversar por e-mail com facilidade.
+Pesquisa
+
+Personalize a sua barra de pesquisa e use funcionalidades avançadas, como agrupamento, filtragem e direitos de acesso.
+API
+
+Tenha a API com serviço web para acessar todos os seus objetos personalizados com facilidade. Não é necessário qualquer código adicional.
+Propriedades condicionais
+
+Torne seus campos invisíveis, obrigatórios ou de somente leitura em determinadas condições.
+Relatórios
+Modelos
+
+Use modelos predefinidos de relatórios para criar seus próprios relatórios com facilidade.
+Vários idiomas
+
+Os relatórios são impressos automaticamente no idioma do destinatário (cliente, fornecedor, etc.)
+Editor XML
+
+Use o editor XML para a personalização de relatórios avançados baseados em HTML.
+Automação
+Executar código Python
+
+Use o código Python para o desenvolvimento de automações avançadas.
+Criar novo registro
+
+Automatize a criação de registros com base em eventos ou condições específicos.
+Atualizar o registro
+
+Automatize as atualizações com base em demonstrativos condicionais. Exemplo: defina o campo de prioridade como "Urgente" se nenhum responsável for atribuído após 5 dias.
+Enviar e-mail
+
+Automatize e-mails com base em ações, tempo ou demonstrativos condicionais para facilitar o relacionamento com seus clientes.
+Adicionar seguidores
+
+Designe automaticamente seguidores para registros, aprimorando a colaboração sem esforço manual.
+Criar próxima atividade
+
+Gere e agende a próxima atividade para registros em resposta a eventos ou gatilhos específicos.
+Envie mensagem de texto por SMS
+
+Acione o envio automático de mensagens de texto por SMS.
+Diversos
+Gerente de traduções
+
+Seu aplicativo e o conteúdo do usuário funcionarão automaticamente em vários idiomas.
+Herdar as funcionalidades do Odoo
+
+Beneficie-se dos recursos existentes do Odoo para construir aplicativos avançados em minutos.
+Direitos de acesso
+
+Crie regras ou filtros de ACLs para definir direitos de acesso para empresas.
+Designer de ícones
+
+Faça o design do ícone do seu app.

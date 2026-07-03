@@ -1,0 +1,162 @@
+
+O futuro do MRP
+
+MRP + MES + PLM + Qualidade + Chão de Fábrica + Manutenção.
+Tudo o que você precisa em uma única plataforma, rápida e fácil de usar.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Interface do app Odoo Fabricação
+Veja o MES em ação!
+Operações simuladas em tempo real
+
+Simule ordens de produção com planejamento de capacidade, disponibilidade de componentes e controle de custos em tempo real.
+
+Obtenha propostas de reabastecimento a tempo e escolha como atender as peças: fazer ou comprar, subcontratar, entregar de outro depósito, etc.
+Planejamento que o coloca à frente da programação
+
+Programe ordens de produção e planeje recursos com planejamento de capacidade finita.
+Faça o ajuste fino facilmente com o gráfico de Gantt.
+Mantenha registros da produção e componentes
+
+Use para processar pedidos, acelerar operações e reduzir erros de entrada. Funciona imediatamente, com altíssima velocidade e sem latência.
+Funciona off-line: Sem problemas de cobertura Wi-Fi!
+App de código de barras em dispositivos móveis
+Torne-se uma empresa informatizada
+
+O aplicativo de Chão de Fábrica ajuda a otimizar sua linha de produção. Por meio do painel otimizado para tablet, você pode organizar funcionários, centros de trabalho, planilhas, testes de qualidade e muito mais.
+Prepare-se para Six-Sigma nível 6!
+
+Obtenha análise estatística de problemas de qualidade e defina o ponto de controle instantaneamente disponível no chão de fábrica com instruções.
+
+Os funcionários podem enviar feedback por meio do aplicativo quando perceberem desperdício no processo de fabricação. Quando as ideias e as informações fluem sem problemas, a qualidade é elevada a outro nível...
+A ferramenta perfeita para Kaizen
+Todos os recursos
+do jeito certo.
+Plano mestre de produção
+
+O PMP é perfeito para sua reunião de vendas e operações, para alinhar os objetivos do pessoal de vendas e do departamento de fabricação.
+Usar subprodutos
+
+Produza produtos residuais adicionando subprodutos às listas de materiais.
+Potente, mas simples
+
+Embora o Odoo tenha todos os recursos de que você precisa para implantar uma linha de produção moderna, ele continua sendo muito simples de usar e não exige treinamentos avançados para os funcionários.
+Rastreabilidade de up/downstream
+
+Rastreie componentes ou fabrique em lotes ou números de série. Obtenha uma rastreabilidade clara de todas as operações com apenas um clique.
+Integrações de IoT
+
+Conecte impressoras de código de barras, automatize medidas de qualidade ou configure sua máquina a partir do aplicativo de chão de fábrica, usando a IoT Box.
+
+
+Recursos:
+Gerenciar
+Ordens de produção
+
+Gerencie seus produtos em linhas de montagem ou montagem manual.
+Ordens de trabalho
+
+Inicie a produção dos itens necessários para a montagem final de seus produtos.
+Código de Barras
+
+Use o código de barras para acelerar suas operações de fabricação: digitalizar números de série e lotes, iniciar/pausar/parar cronômetro, solicitar manutenção, avançar para a próxima etapa, etc.
+Ordens de reparo
+
+Gerencie reparos de itens sob garantia ou como serviço.
+Ordens de produção editáveis
+
+Agora é possível consumir outros produtos, além do planejado inicialmente, e editar ordens de produção quando estiverem concluídas.
+Pedidos não faturados
+
+Desmonte um produto finalizado e reutilize componentes.
+Agendar e planejar
+Planejar a fabricação
+
+Tenha uma visão clara de todo o seu planejamento e reprograme a produção com facilidade.
+Organizar ordens de trabalho
+
+Acesse a todos os recursos disponíveis e planeje sua produção com antecedência.
+Gerenciar lista de materiais
+
+Acompanhe a disponibilidade de itens em estoque e o tempo de produção.
+Capacidade do centro de trabalho
+
+Use a função de agendamento do MRP para agendar tarefas em cada centro de trabalho com base em suas OAE e capacidade.
+Dados mestres flexíveis
+Crie listas de materiais em vários níveis
+
+Defina uma lista de materiais dentro de outra para fabricar componentes de um produto em outra lista de materiais.
+Redirecionamento opcional
+
+Crie novos direcionamentos para ordens de trabalho, a fim de sequenciar sua produção dependendo do direcionamento usado.
+Mudanças de versão
+
+Permita que seus produtos evoluam e adicione opções configuráveis ​​ao criar pedidos.
+Kits
+
+Com o recurso Kit, os vendedores venderão produtos que serão entregues como um conjunto de componentes para montagem.
+PLM - Ciclo de Vida do Produto
+Controle de versão
+
+Veja as diferenças entre as versões e controle alterações.
+PLM - Ciclo de Vida do Produto
+
+Monitore versões de produtos e ordens de alteração de engenharia, bem como seus respectivos documentos. Mescle diferentes OEAs que correspondem à mesma lista de materiais.
+Alterações de engenharia
+
+Acompanhe alterações pelo modo de visualização kanban para OAEs.
+Gerenciamento de Documentos
+
+Armazene planos e planilhas de trabalho diretamente nas rotas e na lista de materiais.
+Qualidade
+Pontos de controle
+
+Acione automaticamente verificações de qualidade para o departamento de fabricação
+Verificações de qualidade
+
+Implante seu controle estatístico de processo com verificações.
+Alertas de qualidade
+
+Organize seu trabalho usando a visão kanban de alertas de qualidade.
+Manutenção
+Manutenção preventiva
+
+Acione solicitações de manutenção automaticamente com base em KPIs.
+Manutenção corretiva
+
+Ative a manutenção corretiva diretamente do painel central de controle.
+Calendário
+
+Agende operações de manutenção com um calendário.
+Estatísticas
+
+Tenha todas as estatísticas de manutenção calculadas para você: MTBF.
+Painel de controle do centro de trabalho
+Tablets
+
+Use tablets em cada centro de trabalho para organizar seu trabalho de forma eficiente.
+Gravar produção
+
+Registre produção, digitalize produtos, lotes ou números de série.
+Planilhas de trabalho
+
+Exiba planilhas diretamente no centro de trabalho com instruções para o operador.
+Operações diversas
+
+Sucateie produtos, crie alertas de qualidade, faça verificações, tudo diretamente do centro de trabalho.
+Alertas
+
+Use alertas para mostrar alterações ou verificações de qualidade ao operador.
+Etapas da ordem de trabalho
+
+Defina várias etapas em uma ordem de trabalho e vincule-as a planilhas: digitalizar produto, tirar uma foto, controlar a qualidade, etc.
+Criação de relatórios
+Rastreabilidade
+
+Obtenha um relatório upstream completo do rastreamento do valor de componentes usados durante o processo de fabricação
+Análise de custos
+
+Acompanhe o custo de cada ordem de produção com base no custo dos componentes e das operações (mão-de-obra ou material).
+Visão geral da eficácia do equipamento
+
+Analise as cargas dos seus centros de trabalho, as perdas de produtividade e rastreie a eficiência geral do equipamento (OEE)

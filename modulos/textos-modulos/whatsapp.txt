@@ -1,0 +1,117 @@
+
+WhatsApp para empresas
+
+Do engajamento do cliente à automação, integre o WhatsApp aos fluxos da sua empresa.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Interface do app Odoo WhatsApp
+Publicar seu
+número do WhatsApp
+
+... para impulsionar as conversas iniciadas pelo cliente. Não corra o risco de encaminhar clientes para um número de telefone que não está disponível a qualquer momento, ou se envolver em uma conversa única.
+Totalmente integrado
+com todos os aplicativos
+
+Converta conversas em leads, envie cotações em PDF, envie crachás e lembretes de eventos, faturas, etc.
+Mensagens em lote eficientes
+
+Selecione leads, contatos ou carrinhos vazios e envie suas mensagens do WhatsApp com apenas alguns cliques. Aproveite as taxas de conversão 3x melhores do que as de e-mails ou SMS.
+destaque
+Conclua transações comerciais por meio de uma mensagem do WhatsApp!
+Modelos, modelos, modelos!
+
+Use os modelos pré-configurados ou crie modelos personalizados para enviar faturas, ingressos para eventos, recibos de PDV e muito mais!
+
+Crie seus próprios modelos personalizados usando botões e marcadores de posição dinâmicos para inserir dados exclusivos!
+Comunicação multicanal unificada
+
+A única plataforma a unificar todos os pontos de contato em um só lugar. É muito fácil: basta conversar no Odoo Mensagens, e as mensagens são enviadas automaticamente para o canal certo.
+multicanal
+O poder do Odoo Mensagens
+
+O WhatsApp funciona lado a lado com e-mails, SMS, chat, videoconferências.... e ainda é integrado aos documentos da empresa, como cotações, faturas, eventos etc.
+E-mail
+SMS
+Chats
+Conferências
+Todos os recursos
+do jeito certo.
+Sempre a apenas um clique de distância
+
+Use o WhatsApp de qualquer aplicativo Odoo na base de dados.
+Comunicação integrada
+
+Totalmente integrado ao aplicativo Odoo Mensagens e ao widget de mensagens.
+Instalação simplificada
+
+Configuração fácil no Odoo com instruções completas para a integração da API com a Meta.
+Modelos
+
+Modelos pré-fabricados para facilitar os fluxos de negócios. Crie modelos personalizados com variáveis/marcadores de posição dinâmicas.
+Mensagens pelo Odoo
+
+Envie e receba mensagens a partir da base de dados Odoo.
+Custo efetivo
+
+A integração com o Odoo é gratuita e tem um custo baixo por mensagem por meio do Meta.
+
+Recursos:
+
+Comunicar
+Conta empresarial certificada
+
+Utilize uma conta verificada do WhatsApp Business para se conectar com os clientes a partir da interface do Odoo.
+Modelos
+
+Modelos pré-formatados para facilitar os fluxos de negócios. Crie modelos personalizados ou sincronize-os no Odoo. Restrinja o uso de modelos para usuários específicos, se necessário.
+Emojis
+
+Use emojis para transmitir o tom, adicionar um toque pessoal e aumentar o engajamento das mensagens.
+Confirmação de leitura e entrega
+
+Determinar se um destinatário recebeu e leu sua mensagem.
+Dê um boost na sua empresa
+Converta conversas em oportunidades
+
+Converta conversas em leads, envie cotações em PDF, faturas, crachás de eventos e lembretes.
+Engajar e reter
+
+Aproveite as mensagens para estimular os clientes a comprar e aumentar a satisfação com seus serviços.
+Público geral
+
+Envie mensagens em massa para uma lista de contatos com apenas alguns cliques.
+Modelos
+
+Inicie conversas com modelos de utilidades ou de marketing.
+Mensagens
+Modelo personalizado
+
+Modelos de mensagens personalizados para atender às necessidades comerciais, com cabeçalhos, rodapés, botões e marcadores de posição variáveis.
+Idioma
+
+Comunique-se com os clientes em seu idioma criando modelos em qualquer língua.
+Mídias
+
+Envie documentos, vídeos, imagens, localizações e emojis.
+Rastreamento
+
+Acompanhe a entrega e verifique o status.
+Vários usuários
+
+Atribua automaticamente os usuários Odoo a uma conta/número de celular do WhatsApp e adicione novos usuários às suas conversas.
+Contas ilimitadas
+
+Não há limite para o número de contas Meta e números de telefone WhatsApp vinculados no Odoo.
+Integração
+Instalação simplificada
+
+Configuração fácil no Odoo com instruções completas para a integração da API com a Meta.
+Comunicação integrada
+
+Totalmente integrado com o Odoo Mensagense o widget de mensagens.
+Sempre a apenas um clique de distância
+
+Use o WhatsApp a partir de qualquer aplicativo Odoo na base de dados.
+Custo-benefício
+
+Sem custos de integração. As respostas em conversas iniciadas pelos clientes são gratuitas, e as mensagens iniciadas pela empresa são baratas.

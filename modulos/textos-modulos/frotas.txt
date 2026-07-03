@@ -1,0 +1,21 @@
+
+Gestão de frotas. Mais fácil.
+
+O Odoo Frota controla reparos, locações, motoristas e todos os detalhes e custos dos veículos, facilitando as decisões relacionadas à frota.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Interface do Odoo Frota mostrando uma lista de veículos em um tablet
+Gerenciamento de frota simplificado
+
+Você não vai precisar de um sistema de monitoramento especializado para os veículos da empresa - com o aplicativo Odoo, será possível ficar de olho em sua frota com apenas alguns cliques. Gerencie tudo por meio do nosso sistema administrativo fácil de usar - entradas de registro de combustível, custos e muitos outros recursos necessários.
+Gerencie locações e todos os outros contratos
+
+Supervisione todos os contratos de seus veículos e receba um aviso por e-mail quando os contratos estiverem para vencer. Várias ferramentas visuais são usadas para assegurar que você se lembrará de renovar (ou encerrar) seu contrato. Organize os serviços relacionados aos veículos e se comunique com fornecedores de serviço qualificados. Gerencie faturas e notas. Configure uma política de veículos dentro de sua empresa, bem como uma apólice de seguro, a fim de gerenciar sua frota da forma mais eficiente.
+Monitore todos os custos de uma vez
+
+Identifique e localize o dinheiro gasto pela sua empresa em cada um dos veículos da frota. Os custos recorrentes de seus contratos, como locação e serviços de contratos são adicionados automaticamente à sua contabilidade no início de cada período da frequência especificada nos contratos, enquanto todos os outros custos, como combustível e reparos, são automaticamente adicionados ao seu relatório.
+Três tipos de gráficos na interface de back-end do Odoo Frota
+Um relatório da frota em um tablet
+Análise e relatório
+
+Mostre todos os custos associados a um determinado veículo ou um tipo de serviço. Compare diferentes tipos de custos (quais veículos custam mais, que serviços foram realizados em quais veículos etc.) usando a ferramenta de relatórios. Obtenha informações realmente úteis sobre o retorno efetivo de cada veículo, a fim de melhorar os investimentos de sua frota.

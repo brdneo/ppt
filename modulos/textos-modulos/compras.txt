@@ -1,0 +1,140 @@
+
+Reabasteça o estoque a tempo sem comprar em excesso
+
+OOdoo Compras utiliza o estoque em tempo real para automatizar reposições sem imobilizar capital ou atrasar as remessas.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Imagem de compra
+Acompanhe facilmente seus pedidos de compra.
+SDCs automatizadas
+para os mais ocupados
+
+Simplifique cada solicitação de cotação e pedido de compra com regras de reordenamento automatizadas. Crie regras e métodos de reabastecimento personalizados, e sincronize seus processos mais importantes onde faz sentido fazê-lo — você tem o poder!
+Imagem de compra Imagem de compra
+Imagem de compra Imagem de compra
+Contratos de compra flexíveis, para cada situação
+
+Otimize as aquisições com contratos de compra personalizáveis e automatizados. Garanta os melhores preços com solicitações de cotação alternativas, compare linhas de produtos e simplifique pedidos recorrentes com acordos de fornecimento.
+Imagem de compra Imagem de compra
+Cobre dos fornecedores como você quiser, quando quiser, pelo que quiser.
+Cobre os fornecedores nos seus termos
+
+Crie faturas de fornecedores individuais ou divididas a qualquer momento, e pague com base nas quantidades pedidas ou recebidas — você escolhe. Integre-se ao aplicativo Financeiro para acompanhar o status de pagamento das faturas.
+Imagem de compra Imagem de compra
+Todas as pequenas coisas que tornam as aquisições possíveis
+
+... como variantes, embalagens, unidades de medida e muito mais.
+Dê um passo adiante para integrar seus sistemas de ponto de venda e e-Commerce.
+Imagem de compra Imagem de compra
+Todos os recursos
+do jeito certo.
+Mais empresas, menos problemas
+
+Um ambiente Odoo, várias empresas: automatize a reconciliação bancária, simplifique o gerenciamento de pedidos e faturas e compartilhe facilmente dados entre várias empresas.
+Imagem de compra
+Estatísticas que realmente fazem sentido
+
+Personalize os relatórios e avalie o desempenho do fornecedor com o painel de análise de compras.
+
+
+Recursos:
+Rápido e claro
+Interface de usuário moderna
+
+Interface de usuário veloz, projetada para gerenciamento moderno de inventário. Seja mais produtivo com menos esforço – e com ou sem leitores de código de barras.
+Controlar faturas de fornecedores
+
+Compare as informações que aparecem no pedido de compra, na fatura do fornecedor e no recibo para garantir que a fatura correta será paga (corrêspondencia de 3 vias).
+Ofertas de compra
+
+Lance ofertas de compra, integre as respostas do fornecedor no processo e compare as propostas. Escolha a melhor oferta e envie os pedidos de compra com facilidade. Use relatórios para analisar posteriormente a qualidade dos fornecedores.
+Acordo de pedido genérico
+
+Compre mercadorias de fornecedores por um preço negociado, de forma recorrente durante um determinado período de tempo.
+Solicitações de cotações
+Criar SDCs para fornecedores
+
+Configure os produtos para enviar solicitações de cotações a cada um de seus fornecedores.
+Envie solicitações por correio ou por e-mail
+
+Envie SDCs por e-mail diretamente do aplicativo ou imprima e envie-as por correio, tudo em apenas um clique.
+Obter ofertas para vários itens
+
+Envie SDCs para vários produtos ao mesmo tempo.
+Personalizar sua mensagem
+
+Adicione uma mensagem personalizada para os fornecedores para cada uma das SDC enviadas.
+Automatize o processo
+
+Poupe tempo configurando regras para enviar solicitações de cotação automaticamente aos fornecedores, com base em seus níveis de estoque.
+Entrada de grade de variante
+
+Adicione variantes de produtos a pedidos de compra através da seleção em grade ou matriz que exibe todas as combinações possíveis (como tamanhos e cores).
+Gerenciar pedidos
+Monitorar SDCs e pedidos
+
+Acompanhe o status de suas cotações e pedidos, o valor dos pedidos e a data de entrega esperada. Não é mais necessário gerar o pedido de vendas provisório. Preencha-o automaticamente ao gerar uma fatura provisória.
+Gerenciar produtos recebidos
+
+Acompanhe seu estoque e determine a quantidade e os locais para cada lote de itens que receber.
+Automatizar pedidos
+
+Configure regras de compras para encomendar automaticamente os itens necessários, com base nos níveis de estoque, quantidades mínimas por local ou por fornecedor, vendas ou outros parâmetros.
+Gerenciar faturamento
+Criar rascunhos
+
+Crie rascunhos de faturas que você pode modificar ou cancelar mais tarde.
+Controlar pedidos futuros
+
+Acompanhe pedidos criados para uma data no futuro.
+Lidar com movimentações internas
+
+Organize as movimentações de itens entre dois locais que você possui.
+Lidar com produtos
+Criar produtos
+
+Defina preço de venda, tipo, código de barras e referência para diferenciar produtos similares com facilidade
+Adicionar referência de fornecedor
+
+Adicione a referência de item usada por cada fornecedor, assim você e os fornecedores o encontrarão mais facilmente.
+Adicionar variantes de produtos
+
+Adicione variações como cor, capacidade de memória, entre outros, aos produtos para permitir listas de produtos completas.
+Definir regras de compras
+
+Faça referência a todos os fornecedores distribuindo o item, ordene-os por prioridade e registre seu tempo de entrega e a quantidade mínima para economizar tempo em novos pedidos.
+Filtros de pesquisa ideais
+
+Procure produtos com a referência do fornecedor no pedido de compra.
+Unidades de medida
+
+Compre em diferentes unidades de medida e o Odoo faz a conversão para você.
+Verificar estoque e disponibilidade
+
+Acompanhe estoque, pedidos recebidos e disponibilidade de produtos.
+Especificar local de armazenamento
+
+Defina a posição exata do produto dentro do seu depósito.
+Criar condições de venda
+
+Defina a duração da garantia e especifique os tempos de resposta do cliente e do fabricante.
+Adicionar especificações ao site e PDV
+
+Adicione especificações ao produto para o ponto de venda ou para o site.
+Incluir regras contábeis
+
+Especifique sua categoria de contabilidade e defina as contas e impostos de clientes e fornecedores.
+Análise e previsão
+Painéis
+
+Use painéis predefinidos ou crie o seu próprio com o mecanismo de relatórios avançados. Compartilhe filtros com a equipe.
+Previsão de inventário
+
+Tenha previsões de disponibilidade de produtos com base em pedidos de vendas, pedidos de compra ou ordens de produção confirmados, bem como movimentações internas.
+Regras de multiempresas
+Reconciliação automática entre empresas
+
+Economize tempo e esforço em todas as transações feitas entre as empresas do seu grupo – as transações são reconciliadas automaticamente em todos os módulos. Por exemplo, pedidos de venda e compra podem ser automaticamente espelhados entre empresas.
+Um ambiente Odoo para múltiplas empresas
+
+Gerencie várias empresas dentro de um único ambiente Odoo.

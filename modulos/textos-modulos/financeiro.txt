@@ -1,0 +1,244 @@
+
+Contabilidade agora é fácil
+
+Imagine uma plataforma de contabilidade nativa de IA,, para todas as suas operações financeiras, desde reconciliação e despesas até declarações fiscais e relatórios em tempo real. Rápida, completa e simples.
+
+Envie e receba faturas e contas ilimitadas, gratuitamente, para sempre. Veja o porquê
+NFe e NFSe compátivel com RFB
+Painel financeiro
+Está procurando nossos aplicativos de Faturamento simplificados?
+Descubra o real desempenho
+Conta de fornecedor
+
+5 segundos
+entre o login e a conta do fornecedor
+
+A rapidez é importante. Todas as operações são processadas em menos de 90 milissegundos, mais rápido do que um piscar de olhos. Isso ajuda os contadores a fazer muito mais em menos tempo.
+
+Uma interface ágil é um divisor de águas.
+No data entry!
+Just automation
+
+Saiba o que é trabalhar com zero entrada de dados. Nossa avançada captura de dados de faturas com IA tem uma taxa de reconhecimento de 98%. Tudo o que você precisa fazer é validar a fatura.
+Aproveite a experiência móvel
+
+Seu companheiro móvel. Tire fotos de suas despesas e deixe a Inteligência Artificial fazer o resto!
+Smart bank reconciliation
+28,000+ banks supported
+Sincronização bancária
+
+Nunca mais importe extratos bancários manualmente. Com o Odoo, integre-se a 28.000 bancos de todo o mundo!
+Correspondência inteligente com IA
+
+95% das transações são combinadas automaticamente com os registros financeiros.
+Espere, tem mais!
+All the features
+done right.
+Compatibilidade com o mundo inteiro
+
+O Odoo é preconfigurado para atender aos requisitos do seu país: planos de contas, impostos, relatórios específicos do país, faturamento eletrônico, arquivos de auditoria e posições fiscais para aplicar automaticamente as taxas de impostos e contas corretas.
+Relatórios em tempo real
+
+Os relatórios de desempenho financeiro em tempo real permitem que você tome decisões informadas para a sua empresa. Além disso, você pode facilmente fazer anotações, exportar e acessar informações detalhadas de cada relatório.
+Faturamento eletrônico (EDI)
+
+Vários formatos de arquivos EDI estão disponíveis, dependendo do país de sua empresa. Envie e receba faturas eletrônicas em vários formatos e padrões, como o Peppol. Lista de formatos suportados
+Acompanhamentos automatizados
+
+O Odoo ajuda a identificar pagamentos atrasados e permite que você programe e envie os lembretes apropriados com base no número de dias de atraso. Você pode enviar seus acompanhamentos por diferentes meios, como e-mail, correio ou SMS.
+Adiamentos
+
+Difira suas receitas e despesas, seja manualmente ou em cada validação de fatura/boleto. Você também pode auditar os lançamentos de relatórios dedicados.
+Impostos e contas dinâmicos
+
+Não importa onde seus clientes e fornecedores estão, se têm ou não têm um CNPJ, se as mercadorias são vendidas para o exterior, o Odoo calcula os impostos e as faturas de receita ou despesa corretos.
+
+Recursos:
+Economize tempo
+Compatibilidade com o mundo inteiro
+
+O Odoo Financeiro pode ser usado em qualquer país.*
+Os pacotes de localização fiscal pré-configuram sua base de dados conforme os impostos, posições fiscais, plano de contas e declarações legais do seu país, de modo que você possa começar a trabalhar imediatamente.
+* Confira a compatibilidade do seu país com o vendedor.
+Fechamento do período
+
+Feche os períodos fiscais mensais, trimestrais e anuais de forma eficiente com as verificações de fechamento simplificadas do Odoo Financeiro, adaptadas aos requisitos do seu país.
+Digitalização de faturas com IA
+
+Carregue PDFs digitalizados ou arquivos de formato de imagem e deixe que o Odoo os converta automaticamente graças ao recurso de digitalização com tecnologia de IA.
+Multiempresas
+
+Pague somente uma assinatura e obtenha todos seus subsidiários dentro do mesmo sistema com relatórios de consolidação em tempo real. Você também pode automatizar fluxos de trabalho com regras entre empresas.
+Contas a receber e a pagar
+Modelos de faturas atraentes
+
+Refine o design dos seus documentos ajustando as cores e as fontes e escolhendo o melhor template de fatura para sua empresa.
+Faturas provisórias instantâneas
+
+Faturas provisórias são criadas automaticamente pelo Odoo com base em pedidos de venda, assinaturas, planilhas de horas e ordens de entrega.
+Notas de crédito e Reembolsos
+
+Crie um cliente ou uma nota de crédito do fornecedor diretamente da fatura do cliente ou do fornecedor.
+Limite de crédito de vendas
+
+Dispare alertas ao criar faturas e pedidos de venda para parceiros que ultrapassem o limite de valor total a receber.
+Suporte para várias moedas
+
+Tenha taxas de câmbio atualizados diariamente.
+Visão geral dos lançamentos de diário
+
+Revise, edite e reconcilie seus lançamentos de diário por tipo de diário: compras, vendas, banco e caixa ou diversos.
+Receba pagamentos com facilidade
+Pagamentos on-line
+
+Permita que clientes façam pagamentos online com formas de pagamento da escolha deles. O Odoo também suporta os principais gateways de pagamento, como Stripe, Authorize.net, PayPal, Adyen, Alipay e muito mais.
+Portal do cliente
+
+Capacite seus clientes através do Portal do Cliente. Permita que visualizem, baixem, editem e paguem suas faturas online. Eles podem gerenciar suas assinaturas, assinar documentos, acompanhar o status de pedidos, enviar mensagens, etc.
+Acompanhamentos automatizados
+
+Garanta as cobranças de crédito com processos automatizados: e-mails, SMS e cartas de acompanhamento e tarefas automatizadas para relembrar os clientes quando necessário.
+Pagamento móvel como códigos QR
+
+Adicione um código QR a suas faturas para que clientes paguem sem esforço pelo aplicativo móvel do seu banco.
+Pagamento direto
+
+Com débito direto SEPA, você recebe automaticamente seus pagamentos automáticos e cria mandatos de cliente de débito direto.
+Pagar contas
+Automatizar transferências eletrônicas
+
+Automatize pagamentos do fornecedor pela zona SEPA com transferência de crédito SEPA (SCT).
+Pagamentos em lote
+
+Use pagamentos em lote para agrupar pagamentos diferentes e facilite o processo de reconciliação e de depósito de cheques bancários.
+Verificações de impressão
+
+Obtenha sugestões de faturas do fornecedor a pagar e imprima cheques em lote em poucos cliques.
+Banco e Caixa
+Automatizar feeds bancários
+
+Sincronize seus extratos bancários e tire proveito de feeds bancários importados automaticamente para o Odoo.
+Gerenciar caixas registradoras
+
+Acompanhe facilmente todas as transações com abertura e fechamento de caixa.
+Importar demonstrativos
+
+Importe seus extratos bancários no formato que preferir: arquivos .OFX, .QIF, .CSV, .CAMT.053 ou CODA.
+Fácil reconciliação
+Ferramenta de reconciliação inteligente
+
+Obtenha sugestões de reconciliação automaticamente, registre na hora itens extra no diário. Interface para reconciliações manuais, tanto para faturas abertas como pagas. Números de contas são decorados a partir da primeira reconciliação manual.
+
+O Odoo combina 95% das faturas e pagamentos automaticamente. Para os outros 5%, a ferramenta de correspondência automática é extremamente rápida e conveniente.
+Pagamentos pendentes fáceis
+
+Obtenha sugestões de reconciliação completa ou parcial direitamente da fatura ou do extrato bancário.
+Declarações legais
+Demonstrativos dinâmicos e aprofundados
+
+Qualquer alteração na contabilidade fica logo visível e permite auditoria detalhada para compreender cada valor inserido.
+Gestão avançada de impostos
+
+O mecanismo de impostos do Odoo suporta uma grande escala de cálculos de imposto: preço incluído/excluído, porcentagem, grade, imposto sobre imposto, isenções parciais etc.
+Relatórios fiscais
+
+Obtenha relatórios fiscais em regime de caixa ou acúmulo, formatado conforme as regulações fiscais do seu país.
+Relatório de auditoria fiscal
+
+Verifique facilmente como o relatório fiscal é computado para suas auditorias apenas clicando em uma linha do relatório de auditoria fiscal.
+Limite de alternância de faturamento
+
+As faturas até essa data não serão consideradas como lançamentos contábeis
+Impostos de regime de caixa
+
+Declare sua renda e despesas para o governo com o recursos de regime de caixa do Odoo.
+Contabilidade analítica
+Hierarquias de contas de custos
+
+Estruture as suas contas analíticas automaticamente com base em projetos, contratos, departamentos etc.
+Distribuição analítica
+
+Widget JS analítico em Faturas/Contas para criar a distribuição analítica "no ponto", diretamente das suas faturas. Crie modelos de acordo com suas necessidades para rapidez ainda maior.
+Planos múltiplos
+
+Gerencie vários planos e subplanos analíticos com condições de aplicabilidade para modelar as suas próprias multidimensões e eixos analíticos para sua empresa.
+Gerenciamento de orçamento
+
+Monitore o seu orçamento e compare o desempenho real com diferentes orçamentos. Gerencie o orçamento em sua contabilidade financeira ou contas analíticas.
+Edição em massa
+
+Tenha acesso a todos os itens analíticos e fique à vontade para editá-los diretamente, sem abrir faturas.
+Reconhecimento de ativos, receitas e despesas
+Gestão de Ativos
+
+Monitore ativos e quadros de depreciação e gere entradas de amortização automaticamente. Gerencie todos os eventos em seus recursos com apenas alguns cliques.
+Reconhecimento de receitas e despesas
+
+Gerencie contratos plurianuais, automatize entradas de receitas e despesas diferidas e obtenha uma visão geral clara das suas receitas e despesas recorrentes.
+Receitas e despesas diferidas de disparo único e edição em massa
+
+Use o recurso de ponto de corte para ajustar valores específicos em lançamentos de diário de períodos diferentes.
+
+O Odoo equilibra parte do valor e coloca na conta dedicada de sua escolha. Graças aos Lançamentos automáticos, você também pode editar em massa vários lançamentos de diário de uma vez só.
+Conectar
+API do serviço da web
+
+Conecte aplicativos de terceiros com a API de serviço web do Odoo. O Odoo suporta todas as linguagens: python, PHP, java, c#, ruby...
+Importação e exportação flexíveis
+
+Use a ferramenta de importação/exportação integrada para importar ou exportar em massa. Você pode exportar e depois importar os mesmos dados para atualização em massa através de planilhas do Excel.
+Integração com o AvaTax
+
+Cálculos de impostos em tempo real e específicos por região ao vender, comprar e faturar itens no Odoo (disponível para empresas nos Estados Unidos, Canadá e Brasil).
+Integrações
+Odoo Vendas icon
+Vendas
+
+Obtenha suas faturas de clientes criadas automaticamente a partir do pedido de vendas, tarefas ou pedidos de entrega.
+
+Odoo Inventário icon
+Inventário
+
+Trabalhe em avaliações de inventário periódicas ou permanentes. Faça com que seus lançamentos contábeis sejam criados automaticamente no preço padrão, o preço médio de FIFO.
+
+Odoo Compras icon
+Compras
+
+Controle as cobranças do fornecedor com apenas alguns cliques. Não há necessidade de gravar tudo, elas são propostas pelo Odoo com base em pedidos de compra ou de entrada de remessas.
+
+Odoo e-Commerce icon
+e-Commerce
+
+Obtenha todas as suas transações do e-Commerce informadas automaticamente em suas contas: vendas, pagamentos, reembolsos, frete etc.
+
+
+Automação:
+utomação de faturas
+com IA
+
+Aproveite a Inteligência Artificial para diminuir casos de erro humano.
+Experimente uma amostra de conta
+
+- ou -
+Como funciona?
+Recepção de Contas
+Fatura Recebida
+E-mail Escaneamento API
+Criação de Contas
+Esboço da fatura criada
+OCR Inteligência artificial Modelos personalizados
+Validação
+Você valida
+Validação com um clique Aprendendo suas preferências
+Precisão sem igual
+
+Com o Odoo, você tem o poder dos melhores algoritmos de IA trabalhando lado a lado com humanos. É isso mesmo! Sempre que você atualiza os dados fornecidos pelo Odoo, nossas equipes analisam a fatura manualmente e desenvolvem um modelo personalizado. Esse modelo permite que nosso sistema de IA reconheça o layout do documento e obtenha os dados apropriados. Dessa forma, todas as faturas futuras emitidas por esse fornecedor serão processadas perfeitamente.
+Simplifique o seu fluxo de trabalho
+
+O processamento de faturas com IA do Odoo o ajudará a se tornar uma empresa informatizada. Não apenas o processamento de dados é muito mais rápido, mas também a coleta de documentos. Você pode digitalizar suas faturas de fornecedores com o aplicativo móvel do Odoo, enviá-las diretamente para sua base de dados por e-mail ou até mesmo digitalizar centenas de faturas de uma só vez e deixar que o Odoo Documentos as processe em lote!
+Diga “não” ao processamento manual de faturas
+
+Agora, você pode se perguntar: "Por que eu deveria processar minhas faturas de fornecedores manualmente quando o Odoo pode fazer isso automaticamente?" Bem, de fato! Por que você deveria fazer isso? Diga "não" a milhares de horas preenchendo formulários e classificando papéis. Diga "sim" à automação de faturas com IA, permitindo que você se concentre em tarefas de maior valor!
+Reconhecimento de imagem e metadados
+
+Seus documentos digitalizados são convertidos com um mecanismo de reconhecimento óptico de caracteres (OCR) antes de serem processados pela IA. Se você fizer upload de um arquivo PDF recebido diretamente do seu fornecedor, o Odoo procurará primeiro por qualquer metadado incorporado: leitor de código de barras para faturas suíças, Factur-X para faturas francesas, etc. Isso ajuda a melhorar a precisão.

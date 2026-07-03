@@ -1,0 +1,177 @@
+
+Cotações que convertem
+
+Aumente suas vendas com orçamentos profissionais, configuradores de produtos, assinaturas eletrônicas, pagamentos online, upselling e muito mais.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Painel do Odoo Vendas
+
+Gerencie seus pedidos de venda, atendimento ao cliente e loja de e-Commerce em uma única plataforma.
+Painel de vendas
+Painel de vendas
+Use modelos
+de cotação para automatizar pedidos frequentes
+
+Aplique automaticamente o preço e os impostos corretos a todos os clientes.
+Pule tarefas que consomem tempo para se concentrar no que é mais importante: vender!
+Painel de vendas
+Feche negócios mais rápido com o portal do cliente
+Painel de vendas Painel de vendas
+
+Deixe os clientes se ajudarem! Os clientes podem acessar suas cotações, pedidos de venda, pedidos de entrega e muito mais...
+
+Economize tempo com pagamentos online e feche negócios mais rapidamente com assinaturas eletrônicas em cotações, contratos e qualquer outro PDF.
+Foque somente em leads qualificados
+
+Gere leads qualificados a partir de de visitas ao site, campanhas de marketing, aliases de e-mail, registros de eventos e muito mais.
+
+A pontuação de leads gerada por IA mostra os leads que valem o valioso tempo da sua equipe de vendas.
+Painel de vendas Painel de vendas
+Criar
+estratégias de preços personalizadas
+Lista de preços
+Promoções
+Programas de fidelidade
+Cupons
+Cartões de presente
+e-Wallet
+Painel de vendas
+Controle completo de produtos
+
+Configure preços de produtos exclusivos, variantes, e categorias que se integram com o e-Commerce, Inventário, e Fabricação.
+Todos os recursos
+do jeito certo.
+Relatórios e previsão
+
+As métricas de vendas são automaticamente rastreadas para relatórios abrangentes e previsões precisas.
+Faturamento
+
+Várias opções de faturamento: adiantamento, pró-forma, com base nas quantidades entregues ou pedidos, com base no tempo e nos materiais e com base nas etapas do projeto.
+
+As faturas são criadas automaticamente na base de dados sempre que os pagamentos online são confirmados.
+Integração com a Amazon
+
+Integre o Odoo Vendas aos principais mercados online, eliminando a necessidade de entrada manual e levando seus produtos a mais pessoas.
+Integrações de frete
+
+Faça parcerias com transportadoras locais e globais para entregar seus produtos.
+Upsell
+
+Adicione produtos opcionais às cotações para fazer um upsell natural aos clientes. Os clientes podem adicionar produtos opcionais às suas próprias cotações usando o portal online do cliente.
+Comunicações com clientes
+
+Envie e-mails e agende reuniões com clientes diretamente do Odoo. Todas as comunicações são registradas automaticamente e facilmente encontradas no mesmo local lógico.
+
+
+Recursos:
+enda eficiente
+Interface de usuário moderna
+
+Todas as informações necessárias onde você precisar, com uma interface de usuário rápida e intuitiva, projetada para vendedores.
+Capacidades para dispositivos móveis
+
+Use a interface móvel doOdoo para realizar vendas de qualquer lugar.
+Menos inserção de dados
+
+Envie cotações em apenas alguns cliques. Converta cotações em pedidos de venda e faturas na mesma tela. Use o aplicativo de CRM integrado para gerenciar seu funil de vendas desde a qualificação até o fechamento.
+Avisos de vendas
+
+Receba avisos antes de enviar cotações de produtos específicos ou para clientes específicos.
+Cotações profissionais
+Construtor de cotações
+
+Crie um orçamento refinado em segundos. Use produtos predefinidos, listas de preços e modelos para aplicar instantaneamente os preços corretos às cotações.
+Modelo de cotação
+
+Crie modelos personalizados de cotação em apenas alguns cliques e reutilize-os para economizar tempo.
+Faturamento Pró-forma
+
+Enviar faturas pró-forma para seus clientes.
+Upsell
+
+As cotações são otimizadas para ajudar sua empresa a vender mais, propondo produtos adicionais e outras opções extras, aplicando descontos, gatilhos de encerramento e muito mais.
+Assinatura eletrônica
+
+Venda mais rápido com assinaturas eletrônicas, permitindo que seus clientes analisem e assinem suas cotações on-line.
+Entrada de grade de variante
+
+Adicione variantes de produtos a pedidos de vendas usando a seleção em grade ou matriz que exibe todas as combinações possíveis (como tamanhos e cores).
+Gerenciamento de pedidos e contratos
+Pedidos de venda
+
+Converta as cotações em pedidos de venda em um clique ou permita que seus clientes o façam com cotações on-line e assinatura eletrônica do Odoo. Economize tempo com a capacidade de modificar pedidos de venda, vender kits de produtos e enviar pedidos parciais.
+Gerenciar faturamento de pedidos de venda
+
+Emita faturas com base em quantidades solicitadas ou entregues, ou com base no tempo e nos materiais. Gerencie as condições de pagamento por cliente ou fatura. Monitore sem dificuldade e faça o acompanhamento do processamento da fatura a receber.
+Portal do cliente
+
+Forneça aos clientes acesso a um portal online para visualizar suas cotações e pedidos de venda, bem como para acompanhar em tempo real o status de suas entregas. Os clientes podem modificar seus pedidos e confirmá-los com assinatura eletrônica ou pagamento online.
+Rotas específicas de pedidos
+
+Aplique rotas especiais de envio e reposição a partir das linhas de pedido, como "envio direto" e "reabastecer no pedido".
+Contratos
+
+Monitore cada fase de um contrato, incluindo faturamento, renovação e upselling. Gerencie contratos de receita recorrente com o aplicativo de Assinaturas totalmente integrado do Odoo, incluindo associações ou contratos de serviço, alertas de renovação de contrato e opções de contrato, além de poder acompanhar a receita recorrente pelo painel de RRM.
+Incoterms®
+
+Configure o app Vendas do Odoo para exibir automaticamente os Incoterms na própria fatura.
+Assinatura eletrônica
+
+Use o Odoo Assinatura de Documentos para facilmente solicitar assinaturas em NDAs, contratos ou qualquer documento PDF.
+Comunicação simplificada
+Agendar atividades
+
+Acompanhe as principais cotações e oportunidades de negócios com apenas um clique e receba alertas sobre atividades relevantes. Agende atividades diretamente das oportunidades de negócios e receba lembretes de quando as atividades devem ser realizadas.
+Gateways de e-mail
+
+Veja todas as suas comunicações por e-mail anexadas automaticamente ao pedido do cliente em questão, permitindo que você acompanhe as discussões e negocie com mais eficiência.
+E-mails de integração
+
+Crie modelos de e-mail para produtos específicos para fornecer informações relevantes aos compradores durante a compra, como instruções e lembretes de serviços.
+Regras entre empresas
+
+Espelhe automaticamente pedidos de compra e vendas em uma configuração de várias empresas.
+Controle de preços e produtos
+Variantes do produto
+
+Personalize produtos com múltiplos atributos e variantes, como tamanho, cor e acabamento.
+Descontos
+
+Aplique descontos em qualquer item de linha da cotação e defina se o desconto deve estar ou não visível para o cliente.
+Tipos de produtos
+
+Gerencie qualquer tipo de produto, incluindo produtos armazenáveis, serviços, produtos consumíveis, taxas de entrega e produtos eletrônicos.
+Frete de terceiros
+
+Calcule automaticamente os custos de envio, imprima etiquetas de envio e rastreie suas entregas. O Odoo está integrado com UPS, DHL, FedEx, USPS, Bpost, Easypost e serviços postais locais.
+Custo do frete
+
+Calcule os custos de envio com base em diversas variáveis, como peso, volume, quantidade, margem e endereço de entrega.
+Cupons e promoções
+
+Crie cupons e códigos promocionais personalizados e permita que seus clientes ativem descontos na compra.
+Programa de fidelidade
+
+Projete um programa de fidelidade para que seus clientes participem e recebam pontos que podem ser usado em pedidos futuros.
+Cartões-presente e eWallet
+
+Permita que os clientes comprem cartões-presente de valores personalizados pré-configurados e os usem para comprar itens na sua loja. Permita que os clientes usem uma e-Wallet para armazenar dinheiro no site para pagamentos online.
+Configurador de produtos
+
+Adicione facilmente variantes específicas de produtos a uma cotação ou carrinho usando a tela de configuração de produtos do Odoo.
+Unidades de medida
+
+Venda produtos em várias unidades de medida e permita que o Odoo cuide da conversão.
+Lista de preços
+
+Calcule o preço correto com base nas condições do cliente, como região e faixa de preço, ou com base nas condições do pedido, como quantidade e tempo. Adicione a produtos individuais listas de preços que dependam do segmento de cada cliente.
+Relatórios intuitivos
+KPIs rastreáveis
+
+Monitore facilmente um painel de KPIs com informações como valor faturado, vendas por país/vendedor/equipe de vendas, evasão de clientes, RRM, vida útil, proporção CAC (custo de aquisição do cliente), upgrades/downgrades, etc.
+Próximas atividades
+
+Tenha uma visão geral completa de todas as suas atividades de vendas, próximas ações e dados de desempenho.
+Análise de pedidos e faturamento
+
+Escolha se suas estatísticas são baseadas em pedidos, faturas ou ambos. Agrupe os dados de vendas por categorias, como tipo de produto, vendedor, país e equipe de vendas.

@@ -1,0 +1,206 @@
+rabalho em equipe moderno
+
+O software de gerenciamento de projetos nativo de IA para planejar, acompanhar e entregar mais rapidamente.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Projeto – Visão geral
+Diferentes necessidades, diferentes visualizações
+
+O poder das notas adesivas. O modo de visualização Kanban organiza as tarefas por estágio. Arraste e solte-as como se fossem notas adesivas e mantenha seu funil bem organizado.
+
+Planeje e programe-se. A visualização de Gantt é uma linha do tempo que oferece uma visão geral de suas tarefas, suas dependências e datas planejadas.
+
+Precisão é fundamental. A visualização de lista mostra todos os dados de que você precisa e permite executar ações em massa. Simples e eficiente.
+Aproveite um painel de controle abrangente
+Filtros de status
+Subtarefas
+Carregar documentos
+Clique para assinar
+Projeto – Painel de controle
+Marcadores
+Status da tarefa
+Imagem de capa
+Clique para conversar
+Horas restantes
+Próximas atividades
+Estimule a colaboração para aumentar a eficiência
+
+Envolva seus clientes. Decida quais partes do seu projeto as partes interessadas podem visualizar e editar. Gerencie toda a sua comunicação em uma interface simples.
+Chatter
+Tempo é dinheiro
+
+Planilhas de horas e faturas. Fature seus clientes de acordo com o tempo gasto nas tarefas ou defina etapas para distribuir os custos de projetos maiores.
+Cronômetro Planilhas de horas
+Saiba sempre em que pé está seu projeto
+
+Atualizações do projeto são geradas em tempo real e fornecem uma visão geral detalhada da lucratividade, etapas, recursos e tarefas.
+Mais uma etapa a fazer!
+Orçamentos
+Marcos
+Rentabilidade
+Todos os recursos
+do jeito certo.
+Planejamento
+
+Tenha uma compreensão clara de sua agenda futura.
+Marcos
+
+Acompanhe os principais pontos de progresso que devem ser alcançados para obter sucesso.
+Acompanhe custos e receitas
+
+Integre com orçamentos, planilhas de horas, compras e vendas.
+Gerenciamento de tarefas
+
+Crie subtarefas, tarefas recorrentes e dependências.
+Gerenciamento de documentos
+
+Espaço de trabalho dedicado para cada projeto.
+Modelos
+
+Crie novos projetos em segundos com suas próprias configurações predefinidas.
+Criação de relatórios
+
+Use painéis predefinidos ou crie seu próprio painel com o mecanismo avançado de geração de relatórios.
+
+Recursos:
+Visão geral
+Interface do usuário intuitiva
+
+Cuide de seus projetos em uma interface voltada para o usuário e projetada para gerenciamento moderno de projetos.
+Ferramentas de gerenciamento de projetos
+
+Adapte cada projeto a suas necessidades usando estágios, campos de propriedade e marcadores e defina prioridades e códigos de cor.
+Campos de propriedade
+
+Personalize suas tarefas adicionando novos campos com informações extra.
+Múltiplos projetos
+
+Trabalhe em projetos únicos ou múltiplos ao mesmo tempo. Execute análises e pesquisas em vários projetos.
+Ações automatizadas
+
+Envie ações automatizadas para acionar modificações com base em ações do usuário ou em uma frequência predefinida. Ações automatizadas diferentes são possíveis, como a criação ou a atualização de registros, atribuição de tarefas a usuários específicos, envio e-mails ou SMS, agendamento de atividades, etc.
+Aplicativo móvel
+
+Acompanhe projetos e tarefas facilmente de onde quer que esteja. Fique conectado, sempre.
+Visões
+Visualização em uma tela grande
+
+Visualização otimizada para telas grandes, com a tela de conversa à direita.
+Visualização de Calendário
+
+Use a visão de calendário para ter um panorama geral dos prazos do projeto. Basta arrastar e soltar tarefas no calendário para reagendá-las.
+Visualização Kanban
+
+Tenha uma visão panorâmica de projetos com um painel visual. Arraste e solte tarefas entre estágios. Uma barra de progresso mostra o status de cada tarefa. Filtre e agrupe tarefas por estágios, responsáveis, prazos, palavras-chave e mais.
+Visão Gantt
+
+Gerencie tarefas em uma linha de tempo e monitore prazos, progresso e dependências de tarefa. Faça previsões de projetos e recursos facilmente, levando em consideração as férias de funcionários. Compare as horas planejadas e efetivas. Aloque recursos e arraste e solte para atualizar tarefas.
+Visão de lista
+
+Agrupe, filtre e analise duas tarefas usando a visão de lista. Selecione diversos projetos para editar campos em lote ou executar ações em lote, como exportar, arquivar, excluir e enviar e-mail ou SMS. Exporte ou importe as tarefas para uma planilha para analisar seus dados.
+Tarefas
+Multicanal
+
+Crie suas tarefas manualmente ou automatize o processo usando aliases de e-mail, formulários da web ou importações em lote.
+Atribuir tarefas
+
+Selecione o responsável por uma tarefa e adicione seguidores que serão notificados de qualquer alteração na tarefa.
+Editor de texto enriquecido
+
+Inclua títulos, links, mídias e listas de afazeres nas descrições de tarefas. Colabore virtualmente e aumente sua produtividade.
+Subtarefas
+
+Crie subtarefas multinível para dar mais estrutura ao trabalho. De um cartão Kanban da tarefa, veja suas subtarefas.
+Tarefas recorrentes
+
+Simplifique seus fluxos de trabalho criando tarefas recorrentes diárias, semanais ou mensais. Adiante o planejamento de suas tarefas recorrentes: uma nova tarefa é criada imediatamente após a primeira ser marcada como concluída.
+Dependências
+
+Defina dependências entre tarefas para adicionar um framework estrutural e melhore a organização do seu trabalho. As tarefas podem ser automaticamente reagendadas em caso de conflito.
+Marcos
+
+Use marcos para acompanhar os principais pontos de progresso que devem ser alcançados para obter sucesso.
+Ações em lote
+
+Use a visão de lista para executar ações em diversas tarefas com apenas um clique.
+Converter tarefa em chamado
+
+Transforme sua tarefa em um chamado de suporte em poucos cliques.
+Tarefas de arquivamento
+
+Arquive tarefas concluídas e tenha uma visão clara das tarefas que você ainda precisa fazer.
+Minha visão de tarefas
+
+Acompanhe tarefas em andamento de diversos projetos em uma única visão. Você pode criar tarefas privadas e até um funil pessoal com estágios privados para manter a organização.
+Atalho de texto
+
+Ao criar uma nova tarefa pela visão Kanban, configure-a instantaneamente usando atalhos de texto. defina marcadores, atribua usuários, aloque horas e defina alta prioridade diretamente, sem precisar abrir a visão de formulário.
+Comunicação
+Chatter
+
+Centralize todas as ações em um único registro de atividade: ligações, e-mails, reuniões, lembretes e notas de trabalho são registradas na tarefa. Marque colegas, envie mensagens a clientes, adicione arquivos de mídia e reações.
+Integração de e-mail
+
+Comunique-se com seus clientes por e-mail. Tudo é anexado automaticamente à tarefa para visibilidade total.
+Modelos de SMS e e-mail
+
+Use modelos para enviar mensagens automáticas em estágios diferentes: confirmações, pesquisas de satisfação do cliente, notificações e muito mais.
+Satisfação do cliente
+
+Use a pesquisa de avaliação da satisfação do cliente para obter feedback. Analise a avaliação geral por projeto para aprimorar seus processos.
+Níveis de visibilidade
+
+Compartilhe seu projeto com usuários internos e externos, concedendo a eles acesso de edição ou somente visualização. Adicione e remova colegas da lista de seguidores, mantendo todo mundo por dentro o tempo todo.
+VoIP
+
+Faça ligações diretamente da interface.
+Alertas personalizados
+
+Siga tarefas com apenas um clique e obtenha alertas com base em atividades relevantes.
+Chat com usuários
+
+A partir de uma tarefa, você pode conversar pelo chat com outros usuários para fazer perguntas e receber respostas em tempo real. Adicione vários usuários a uma conversa para criar um chat em grupo.
+Colaboração em tempo real
+
+Colabore com vários colegas ao mesmo tempo e no mesmo conteúdo de tarefas graças ao editor HTML nativo do Odoo.
+Portal do cliente
+
+Os usuários do portal podem ter acesso as tarefas e se conversar sobre elas, tudo em um único local.
+Faturamento
+Cobrança
+
+Aplique políticas diversas para cobrar seus clientes: preço fixo, marcos ou tempo e material. Fature o tempo gasto em tarefas automaticamente.
+Política de faturamento
+
+Decida quando uma planilha de horas é faturável: nunca (interna ou preço fixo), na criação ou na validação.
+Criação de projetos de pedidos de vendas
+
+Crie um projeto ou uma tarefa facilmente a partir de um pedido de venda e simplifique os processos entre equipes.
+Criação de pedido de venda a partir de projeto
+
+Crie pedidos de venda diretamente de projetos ou tarefas e torne o faturamento bem mais simples.
+Criação de relatórios
+Atualização de projetos
+
+Gere relatórios do status de projetos com poucos cliques e obtenha uma visão geral da lucratividade do seu projeto.
+Gerenciamento de orçamento
+
+Compare receitas e custos previstos e reais de projetos.
+Análise de tarefas
+
+Obtenha estatísticas de suas tarefas para analisar o desempenho de seus projetos.
+Gráfico de burndown
+
+Certifique-se de que seu projeto está em dia e confira o progresso dele.
+Rastreamento de tempo
+
+Acompanhe as horas previstas e efetivas para prever cargas de trabalho futuras.
+Visualização de gráficos
+
+Obtenha gráficos para analisar o progresso de suas tarefas: por estágio, responsável, por marcador, projeto, etc.
+Visão de pivô
+
+Use tabelas de pivô para realizar análises estatísticas profundas sobre o desempenho dos seus projetos.
+Painel
+
+Use painéis predefinidos ou crie os seus próprios com o mecanismo de relatório avançado. Compartilhe filtros com a equipe.

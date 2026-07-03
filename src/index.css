@@ -412,15 +412,18 @@ h6 {
 }
 
 @media (max-width: 768px) {
-  .slide-regular-padding {
-    padding: 2rem 1.5rem;
+  .presentation-container {
+    scroll-snap-type: none;
+  }
+  .slide {
     height: auto;
     min-height: 100vh;
   }
+  .slide-regular-padding {
+    padding: 3rem 1.5rem;
+  }
   .slide-intro-container {
-    padding: 2rem 1.5rem;
-    height: auto;
-    min-height: 100vh;
+    padding: 3rem 1.5rem;
   }
   .grid-2 {
     grid-template-columns: 1fr;

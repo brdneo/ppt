@@ -1,0 +1,163 @@
+
+Customer Relationship Magic
+
+CRM com IA nativa para rastrear leads, obter previsões precisas e fechar mais oportunidades.
+
+Gratuito, para sempre, com usuários ilimitados. Veja o porquê
+Odoo CRM
+Uma visão panorâmica do sucesso!
+Acompanhe oportunidades de facilmente no software de vendas
+Seu funil em um relance.
+
+Em nosso sistema de Gestão de Relacionamento com o Cliente (CRM), cada oportunidade é listada como um cartão com todas as informações essenciais. Cada etapa oferece uma visão geral de suas receitas previstas. 
+Organização eficiente
+
+A visualização Kanban organiza as oportunidades por estágio. Arraste e solte-as no funil para movê-las de um estágio para outro.
+Nunca perca uma follow-up
+
+Agende chamadas, reuniões, correspondências ou cotações com apenas alguns cliques no software de gerenciamento de contatos. O Odoo planeja automaticamente a próxima atividade com base no seu roteiro de vendas.
+Effortless communication
+means no miscommunication
+
+A comunicação é fundamental para melhorar o relacionamento com os clientes. Os e-mails recebidos são automaticamente adicionados ao seu funil, e todo o contato com sua equipe e clientes é feito a partir de um único local, garantindo fácil acesso às informações a qualquer momento.
+Integrado com:
+E-mail
+Chat ao vivo
+SMS
+VoIP
+Cotações atrativas
+em dois cliques
+
+Crie cotações com aparência profissional em um instante com a interface intuitiva de nossa ferramenta de vendas. Selecione seus produtos no catálogo e deixe o Odoo cuidar do resto.
+PDF
+Transforme dados de relatórios em dinheiro
+
+Decisões inteligentes para sua estratégia de vendas devem ser baseadas em dados precisos e em tempo real. Aprofunde-se nas suas métricas de vendas com previsões de receita, análise de desempenho da equipe e Dashboards personalizados.
+Todos os recursos
+do jeito certo.
+Habilite automações
+
+Automatize a criação de leads, a atribuição de equipes, as atividades programadas e concentre-se no que realmente importa.
+Reduza entradas manuais
+
+Envie cotações com apenas alguns cliques, gerencie seu funil arrastando e soltando itens e muito mais.
+Pontuação de leads com IA
+
+Muitos leads? Nossa IA pontua os leads para garantir que você sempre trabalhe com as prioridades certas.
+Gerencie leads
+
+Crie, adquira, importe, nutra, pontue, etc. Gerencie todos os aspectos de seus leads em um único lugar.
+
+
+Recursos:
+Venda mais rápido
+Interface de usuário moderna
+
+Uma interface de usuário intuitiva com filtros inteligentes oferece uma melhor visualização de todas suas atividades de vendas. Use dicas e práticas recomendadas para configurar e implantar seu CRM.
+Móvel
+
+Use o CRM de qualquer lugar graças à interface adequada para dispositivos móveis do Odoo.
+Leads de entrada
+
+Obtenha leads criados automaticamente por e-mails, ligações pelo VoIP, reações de redes sociais, visitantes do site, participantes de eventos, chamados de suporte, etc.
+Chega de codificação
+
+Envie cotações em poucos cliques, gerencie seu funil com ações de arrastar e soltar, etc.
+Configurar atividades
+
+Suas ligações planejadas são colocadas em fila, garantindo uma transição suave de uma tarefa a outra.
+Leads
+Cuidar de leads
+
+Crie campanhas para automaticamente enviar e-mails adaptados ao segmento e às atividades do lead. Obtenha diversos módulos de marketing para impulsionar a aquisição de leads pelo site: ferramenta de SEO, construtor de formulários, ferramenta de teste A/B, etc.
+Pontuação de leads preditiva
+
+O Odoo calcula a probabilidade de sucesso segundo diversos critérios, como desempenho passado.
+GeoIP
+
+Detecte países, estados e cidades de leads automaticamente a partir do endereço IP de seu visitante.
+Chat ao Vivo
+
+Ative o Chat ao Vivo do Odoo em seu site para conversar com os visitantes e convertê-los em leads. Defina regras para os principais países ou páginas. O chatbot envia mensagens predefinidas automaticamente.
+Desfazer duplicação
+
+Receba propostas de mesclagem com existentes leads ao converter um lead em uma oportunidade. Crie contatos automaticamente com base em leads.
+Regras de atribuição
+
+Defina suas próprias regras para atribuir leads à equipe de vendas correta, com base em cotas e segmentos.
+Monitores de URL
+
+Acompanhe a origem dos leads usando monitores UTM em todas as suas campanhas de marketing.
+Mineração de leads
+
+Gere novos leads diretamente na sua base de dados do Odoo.
+Enriquecimento de leads
+
+Enriqueça as informações de contatos com base somente em um endereço de e-mail ou número de telefone.
+Oportunidades
+Gerenciamento de atividades e ligações
+
+Gerencie atividades e ligações de modo eficaz organizando a ordem delas e agendando-as para cada oportunidade, enquanto registra e analisa-as prontamente no chat da oportunidade. Além disso, monitore e registre as atividades da sua equipe para garantir o gerenciamento eficiente do fluxo de trabalho.
+Gerenciamento de funil
+
+Obtenha uma visão clara do funil de oportunidades. Trabalhe mais depressa com a interface de arrastar e soltar. Defina estágios específicos para cada equipe de vendas. Analise os motivos de perda de suas oportunidades para aprimorar a eficácia das vendas.
+Personalizar estágios
+
+Personalize seu funil usando descrições aos estágios.
+Agendar reuniões
+
+Agende reuniões a partir da oportunidade do cliente. Sincronize com telefones celulares e calendário do Google.
+Planejar as próximas ações
+
+Planeje as próximas ações e agende seu trabalho diário com base nas oportunidades e tarefas mais importantes.
+Visibilidade 360°
+
+Tenha todas as informações diretamente na oportunidade: páginas visitadas em seu site, e-mails, reuniões, próximas ações, pedidos anteriores etc.
+Registrar chamadas
+
+Registre ligações no chatter ou acione ligações do VoIP com apenas alguns cliques. O Odoo propõe reagendar automaticamente a próxima ação após a chamada.
+Clientes
+Lista de endereços
+
+Tenha um catálogo de endereços claro e compartilhado entre o pessoal de vendas.
+Preferências do cliente
+
+Defina as preferências do cliente com facilidade: idioma, métodos de entrega, dados financeiros etc.
+Vários endereços
+
+Tenha vários endereços e contatos para uma única empresa.
+Histórico completo
+
+Obtenha o histórico completo das atividades anexadas a qualquer cliente: oportunidades, pedidos, faturas, total devido etc.
+Comunicação eficiente
+Modelos de e-mail
+
+Crie modelos de e-mails para as comunicações mais comuns com seus clientes ou oportunidades.
+Gateways de e-mail
+
+Obtenha todas as suas comunicações por e-mail anexadas automaticamente à oportunidade certa. Crie novos leads automaticamente com base nos e-mails recebidos.
+VoIP
+
+Crie uma fila de chamadas em clientes ou oportunidades. Faça ligações através do navegador de forma automática ou manual. Registre ligações automaticamente, abra o formulário do cliente, automatize as próximas ações, etc. Reprograme ou envie um e-mail para chamadas perdidas. Um pop-up automático é gerado para chamadas recebidas. Integrado com o servidor Asterisk v13.2 VOIP.
+Alertas personalizados
+
+Siga as principais oportunidades com apenas um clique e obtenha alertas baseados em atividades relevantes.
+Multiequipes
+
+Um vendedor pode estar em diversas equipes
+Criação de relatórios
+Painel
+
+Use painéis predefinidos ou crie os seus próprios com o mecanismo de relatório avançado. Compartilhe filtros com a equipe.
+Análises de oportunidades
+
+Analise seu funil de oportunidades com filtros avançados, agrupamentos, aprofundamento, etc.
+Análise Cohort
+
+Acompanhe a evolução dos seus KPIs ao longo do tempo e identifique tendências.
+Análise de leads
+
+Obtenha estatísticas sobre suas fontes de leads para avaliar o ROI de suas campanhas de marketing.
+Painel de Controle do CRM
+
+Em um relance, visualize os KPIs da sua equipe de vendas

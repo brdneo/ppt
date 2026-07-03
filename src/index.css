@@ -365,10 +365,7 @@ h6 {
   max-height: 650px;
   object-fit: contain;
   border-radius: 12px;
-  box-shadow: 0 30px 60px rgba(0, 127, 199, 0.15);
-  border: 1px solid rgba(0, 127, 199, 0.05);
-  background: #fff;
-  padding: 0.5rem;
+  filter: drop-shadow(0 25px 45px rgba(0, 127, 199, 0.15));
 }
 
 /* Multicompany Flow Classes */

@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Smartphone, PackageOpen, ArrowDown, FileText, ArrowRight } from 'lucide-react';
+import { Smartphone, PackageOpen, ArrowDown, FileText, ArrowRight, CornerRightDown } from 'lucide-react';
 import Slide from './components/Slide';
 
 import bioLogo from './assets/bio-logo.png';
@@ -10,10 +10,10 @@ import refazendaLogo from './assets/refazenda-logo.png';
 import imgAccounting from './assets/modules/accounting.png';
 import imgAI from './assets/modules/artificial-intelligence.png';
 import imgCRM from './assets/modules/crm.png';
-import imgDiscuss from './assets/modules/discuss.png';
+import imgDiscuss from './assets/modules/msg.png';
 import imgDocuments from './assets/modules/documents.png';
 import imgEcommerce from './assets/modules/ecommerce.png';
-import imgFleet from './assets/modules/fleet.png';
+import imgFleet from './assets/modules/sc.png';
 import imgInventory from './assets/modules/inventory.png';
 import imgManufacturing from './assets/modules/manufacturing.png';
 import imgMarketingAuto from './assets/modules/marketing-automation.png';
@@ -135,7 +135,7 @@ function App() {
       id: "ecommerce-website",
       badge: "Presença Digital",
       title: "E-commerce & Website",
-      description: "A presença digital trabalha em sincronia com o backoffice. Um site focado em captação de leads conectado ao CRM, aliado a um e-commerce onde cada pedido atualiza estoques e o fluxo financeiro instantaneamente.",
+      description: "A presença digital trabalha em sincronia com o backoffice. Não é mais necessário gerenciar o site em plataformas externas (como Nuvemshop) e o sistema em outra: tudo é nativo e integrado, onde cada pedido atualiza estoques e o fluxo financeiro instantaneamente.",
       image: imgEcommerce,
       modules: ["Comércio Eletrônico", "Website"],
       features: [
@@ -197,29 +197,30 @@ function App() {
       ]
     },
     {
-      id: "purchase",
-      badge: "Abastecimento Estratégico",
-      title: "Compras",
-      description: "Otimização do ciclo de suprimentos. Automação de pedidos de compra baseados em regras de estoque e integração do recebimento de mercadorias com as diretrizes da equipe de qualidade.",
-      image: imgPurchase,
-      modules: ["Compras"],
-      features: [
-        "Sugestões automatizadas de ressuprimento baseadas na demanda e lead time",
-        "Gestão de acordos de compra e concorrências de preços (Tenders)",
-        "Portal do fornecedor para maior transparência e agilidade"
-      ]
-    },
-    {
-      id: "inventory",
-      badge: "Controle Operacional",
-      title: "Inventário",
-      description: "Precisão na gestão de materiais e produtos acabados. Visibilidade completa das transferências entre as unidades do grupo, rastreamento de lotes e validade para garantir o nível ideal de estoque.",
-      image: imgInventory,
-      modules: ["Gestão de Inventário"],
-      features: [
-        "Estoque unificado no nível do grupo, porém segmentado por empresa",
-        "Operações logísticas suportadas nativamente por coletores de código de barras",
-        "Regras inteligentes para rotatividade e reposição de produtos"
+      id: "purchase-inventory",
+      carouselItems: [
+        {
+          title: "Compras",
+          badge: "Abastecimento Estratégico",
+          description: "Otimização do ciclo de suprimentos. Automação de pedidos de compra baseados em regras de estoque e integração do recebimento de mercadorias com as diretrizes da equipe de qualidade.",
+          image: imgPurchase,
+          features: [
+            "Sugestões automatizadas de ressuprimento baseadas na demanda e lead time",
+            "Gestão de acordos de compra e concorrências de preços (Tenders)",
+            "Portal do fornecedor para maior transparência e agilidade"
+          ]
+        },
+        {
+          title: "Inventário",
+          badge: "Controle Operacional",
+          description: "Precisão na gestão de materiais e produtos acabados. Visibilidade completa das transferências entre as unidades do grupo, rastreamento de lotes e validade para garantir o nível ideal de estoque.",
+          image: imgInventory,
+          features: [
+            "Estoque unificado no nível do grupo, porém segmentado por empresa",
+            "Operações logísticas suportadas nativamente por coletores de código de barras",
+            "Regras inteligentes para rotatividade e reposição de produtos"
+          ]
+        }
       ]
     },
 
@@ -291,7 +292,7 @@ function App() {
     {
       id: "spreadsheet",
       badge: "Inteligência de Negócios",
-      title: "Planilhas (BI)",
+      title: "Dashboards",
       description: "Business Intelligence em tempo real. A união da flexibilidade das planilhas com a base de dados centralizada do ERP permite a extração de métricas precisas para apoiar a tomada de decisão da diretoria.",
       image: imgSpreadsheet,
       modules: ["Planilhas (BI)"],
@@ -329,18 +330,9 @@ function App() {
     },
     {
       id: "obrigado",
-      badge: null,
       title: "MUITO OBRIGADO!",
-      description: "Agradecemos o tempo e a oportunidade de apresentar o futuro da gestão para a NEXT FOODS. Estamos prontos para iniciar essa parceria tecnológica.",
-      modules: [],
-      features: [],
-      customRightContent: (
-        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%' }}>
-          <h2 style={{ fontSize: '4.5rem', color: 'var(--primary-blue)', fontWeight: 900, lineHeight: 1.1, textAlign: 'center' }}>
-            NEXT FOODS<br /><span style={{ color: 'var(--text-secondary)' }}>x</span><br />Odoo
-          </h2>
-        </div>
-      )
+      odooLogo: imgOdooPng,
+      logos: [bioLogo, capelinhaLogo, refazendaLogo]
     }
   ];
 

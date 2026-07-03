@@ -173,6 +173,16 @@ const Slide = ({
   return (
     <div id={id} ref={slideRef} className="slide slide-regular-padding">
       <div className="bg-glow"></div>
+      
+      {/* Watermark */}
+      <div style={{
+        position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)',
+        fontSize: '15vw', fontWeight: 900, color: 'rgba(0, 127, 199, 0.03)',
+        whiteSpace: 'nowrap', pointerEvents: 'none', zIndex: 0, userSelect: 'none',
+        letterSpacing: '-2px'
+      }}>
+        NEXT FOODS
+      </div>
 
       <div className="grid-2" style={{ zIndex: 10, flex: 1, alignItems: 'center' }}>
         {/* Coluna Esquerda: Textos, Títulos e Features Clean */}

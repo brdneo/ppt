@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import { Smartphone, PackageOpen, ArrowDown, FileText } from 'lucide-react';
+import { Smartphone, PackageOpen, ArrowDown, FileText, ArrowRight } from 'lucide-react';
 import Slide from './components/Slide';
 
 import bioLogo from './assets/bio-logo.png';
@@ -34,49 +34,25 @@ import imgOdooPng from './assets/modules/odoo.png';
 import imgOdooSvg from './assets/modules/odoo.svg';
 import imgPrecos from './assets/modules/precos.png';
 import EcosystemDiagram from './components/EcosystemDiagram';
+import SalesFunnelDiagram from './components/SalesFunnelDiagram';
+import MarketingCycleDiagram from './components/MarketingCycleDiagram';
+import imgWpp1 from '../modulos/wpp1.png';
+import imgWpp2 from '../modulos/wpp2.png';
 
-const MulticompanyFlow = () => (
-  <div className="mc-flow-container">
-    {/* Step 1: Vendedor */}
-    <div className="mc-step">
-      <Smartphone size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-      <div>
-        <h4 className="mc-step-title">1. Vendedor Externo (App Único)</h4>
-        <p className="mc-step-desc">Acessa o portfólio e vende produtos das 3 empresas em um único pedido.</p>
-      </div>
+const WhatsappCompare = () => (
+  <div className="whatsapp-compare-container animate-fade-in" style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', gap: '1rem', width: '85%', maxWidth: '900px', height: '100%', margin: '0 auto', paddingRight: '2rem' }}>
+    <img src={imgWpp1} alt="WhatsApp 1" style={{ flex: '1 1 40%', maxWidth: '42%', maxHeight: '65vh', objectFit: 'contain', borderRadius: '12px', boxShadow: '0 10px 25px rgba(0,0,0,0.15)' }} />
+    <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', flexShrink: 0 }}>
+      <span style={{ fontSize: '0.85rem', fontWeight: 800, color: 'var(--primary-blue)', textAlign: 'center', marginBottom: '0.5rem', background: 'rgba(0,127,199,0.08)', padding: '0.4rem 0.8rem', borderRadius: '20px', whiteSpace: 'nowrap' }}>
+        Mensagens em lote eficientes
+      </span>
+      <ArrowRight size={28} color="var(--primary-blue)" />
     </div>
-
-    <div className="flex-center">
-      <ArrowDown color="#cbd5e1" size={24} />
-    </div>
-
-    {/* Step 2: CD */}
-    <div className="mc-step">
-      <PackageOpen size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-      <div>
-        <h4 className="mc-step-title">2. Centro de Distribuição (CD)</h4>
-        <p className="mc-step-desc">Recebe 1 documento consolidado e faz 1 única separação/entrega para o cliente.</p>
-      </div>
-    </div>
-
-    <div className="flex-center">
-      <ArrowDown color="#cbd5e1" size={24} />
-    </div>
-
-    {/* Step 3: Faturamento */}
-    <div className="mc-step">
-      <FileText size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-      <div style={{ width: '100%' }}>
-        <h4 className="mc-step-title" style={{ marginBottom: '0.75rem' }}>3. Faturamento Desmembrado</h4>
-        <div className="mc-fat-container">
-          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Capelinha</b></div>
-          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Refazenda</b></div>
-          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Bio Alimentos</b></div>
-        </div>
-      </div>
-    </div>
+    <img src={imgWpp2} alt="WhatsApp 2" style={{ flex: '1 1 40%', maxWidth: '42%', maxHeight: '65vh', objectFit: 'contain', borderRadius: '12px', boxShadow: '0 10px 25px rgba(0,0,0,0.15)' }} />
   </div>
 );
+
+import MulticompanyDiagram from './components/MulticompanyDiagram';
 
 function App() {
   const containerRef = useRef(null);
@@ -108,7 +84,7 @@ function App() {
       badge: "Módulos Integrados",
       title: "O Ecossistema",
       description: "Uma visão consolidada de todas as ferramentas conversando entre si em tempo real.",
-      customRightContent: <div style={{ transform: 'scale(0.85)', transformOrigin: 'center' }}><EcosystemDiagram /></div>,
+      customRightContent: <EcosystemDiagram />,
       modules: ["Vendas & CRM", "Inventário", "Financeiro", "RH"],
       features: [
         "Fim das ilhas de informação: um dado inserido aqui reflete lá",
@@ -121,7 +97,7 @@ function App() {
       badge: "Arquitetura de Vendas",
       title: "Operação Multi-Empresas",
       description: "A operação comercial unificada é o grande diferencial deste modelo. Facilita o processo de vendas, otimiza o Centro de Distribuição e garante o cumprimento das obrigações fiscais sem atritos.",
-      customRightContent: <MulticompanyFlow />,
+      customRightContent: <MulticompanyDiagram />,
       modules: ["Multi-Company", "Vendas", "Estoque"],
       features: [
         "Venda consolidada na ponta: experiência sem burocracia para o cliente",
@@ -132,7 +108,7 @@ function App() {
     {
       id: "fiscal",
       badge: "Conformidade e Segurança",
-      title: "Fiscal",
+      title: "Setor Fiscal",
       description: "Garantir que a operação ocorra em total conformidade com as normas é fundamental. O módulo fiscal automatiza cálculos complexos, emissão de notas e a geração nativa do SPED, blindando as empresas contra passivos fiscais.",
       image: imgFiscal,
       modules: ["Localização Fiscal", "Emissão de Notas"],
@@ -147,7 +123,7 @@ function App() {
       badge: "Comunicação Inteligente",
       title: "WhatsApp",
       description: "A integração do canal de comunicação mais utilizado diretamente no ERP permite que o histórico de conversas não fique isolado em dispositivos móveis. A equipe ganha produtividade e a empresa ganha controle e rastreabilidade.",
-      image: imgWhatsapp,
+      customRightContent: <WhatsappCompare />,
       modules: ["API do WhatsApp Business"],
       features: [
         "Atendimento centralizado pelo sistema, sem aplicativos paralelos",
@@ -173,7 +149,7 @@ function App() {
       badge: "Gestão de Relacionamento",
       title: "CRM",
       description: "Uma evolução na gestão de clientes. Contatos provenientes do WhatsApp e do site são direcionados para um funil de vendas visual e intuitivo, garantindo que todas as oportunidades de negócio sejam acompanhadas de perto.",
-      image: imgFunilVendas,
+      customRightContent: <SalesFunnelDiagram />,
       modules: ["CRM", "Funil de Vendas"],
       features: [
         "Visualização em Kanban para acompanhamento prático do pipeline de vendas",
@@ -246,10 +222,11 @@ function App() {
         "Regras inteligentes para rotatividade e reposição de produtos"
       ]
     },
+
     {
       id: "fleet",
       badge: "Logística",
-      title: "Frota (Fleet)",
+      title: "Gestão de Rotas",
       description: "A gestão logística demanda controle rigoroso dos ativos. O rastreamento de manutenções, contratos e consumo de combustível é fundamental para otimizar rotas e reduzir custos operacionais.",
       image: imgFleet,
       modules: ["Frota"],
@@ -262,7 +239,7 @@ function App() {
     {
       id: "project",
       badge: "Gestão Estratégica",
-      title: "Projetos",
+      title: "Gestão de Projetos e Tarefas",
       description: "Gestão completa de demandas internas, implantações e novos desenvolvimentos. Os projetos e entregáveis são monitorados quanto a prazos e orçamentos, integrados diretamente ao ERP.",
       image: imgProject,
       modules: ["Gestão de Projetos"],
@@ -275,7 +252,7 @@ function App() {
     {
       id: "documents",
       badge: "Gestão Eletrônica",
-      title: "Documentos",
+      title: "Documentos em Nuvem",
       description: "Um repositório em nuvem centralizado, seguro e inteligente para toda a documentação corporativa. A eliminação do papel e a facilidade de acesso remoto modernizam os processos burocráticos.",
       image: imgDocuments,
       modules: ["Documentos em Nuvem"],
@@ -288,7 +265,7 @@ function App() {
     {
       id: "discuss",
       badge: "Comunicação Corporativa",
-      title: "Discuss",
+      title: "Mensagens",
       description: "Um ambiente de colaboração interno seguro e organizado. A comunicação entre as equipes flui de forma nativa no sistema, mantendo o histórico de decisões e alinhamentos vinculado aos processos empresariais.",
       image: imgDiscuss,
       modules: ["Comunicação Interna"],
@@ -299,24 +276,11 @@ function App() {
       ]
     },
     {
-      id: "ai",
-      badge: "Tecnologia de Ponta",
-      title: "A Revolução da IA",
-      description: "A Inteligência Artificial atua nos bastidores das operações, automatizando tarefas repetitivas e fornecendo insights. O potencial produtivo da equipe é maximizado com o uso de algoritmos inteligentes.",
-      image: imgAI,
-      modules: ["Inteligência Artificial"],
-      features: [
-        "Preenchimento automático de dados de despesas e reconhecimento de faturas",
-        "Geração de textos persuasivos e otimizados para marketing e vendas",
-        "Detecção de duplicidades e sugestões inteligentes de roteamento"
-      ]
-    },
-    {
-      id: "marketing",
+      id: "marketing-automation",
       badge: "Aquisição e Engajamento",
       title: "Marketing & Automação",
       description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
-      image: imgMarketing,
+      customRightContent: <MarketingCycleDiagram />,
       modules: ["Marketing Social", "Automação"],
       features: [
         "Planejamento centralizado de publicações e monitoramento de engajamento",
@@ -362,6 +326,21 @@ function App() {
         "Ajuste visual e adição de campos através de um simples arrastar e soltar",
         "Configuração de automações e fluxos de aprovação condicionados a regras de negócio"
       ]
+    },
+    {
+      id: "obrigado",
+      badge: null,
+      title: "MUITO OBRIGADO!",
+      description: "Agradecemos o tempo e a oportunidade de apresentar o futuro da gestão para a NEXT FOODS. Estamos prontos para iniciar essa parceria tecnológica.",
+      modules: [],
+      features: [],
+      customRightContent: (
+        <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', height: '100%' }}>
+          <h2 style={{ fontSize: '4.5rem', color: 'var(--primary-blue)', fontWeight: 900, lineHeight: 1.1, textAlign: 'center' }}>
+            NEXT FOODS<br /><span style={{ color: 'var(--text-secondary)' }}>x</span><br />Odoo
+          </h2>
+        </div>
+      )
     }
   ];
 

@@ -533,23 +533,24 @@ h6 {
 }
 
 @media (max-width: 900px) {
-  .ecosystem-container {
+  .ecosystem-container, .marketing-container {
     height: auto !important;
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
     padding: 2rem 0;
   }
-  .ecosystem-container > svg {
+  .ecosystem-container > svg, .marketing-container > svg {
     display: none;
   }
-  .ecosystem-node, .ecosystem-container > div {
+  .ecosystem-node, .marketing-node, .ecosystem-container > div, .marketing-container > div {
     position: relative !important;
     top: auto !important;
     left: auto !important;
     transform: none !important;
     width: 100% !important;
     max-width: 320px;
+    height: auto !important;
     animation: none !important;
     margin: 0 auto;
   }

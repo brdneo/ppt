@@ -36,6 +36,7 @@ import imgPrecos from './assets/modules/precos.png';
 import EcosystemDiagram from './components/EcosystemDiagram';
 import SalesFunnelDiagram from './components/SalesFunnelDiagram';
 import MarketingCycleDiagram from './components/MarketingCycleDiagram';
+import CasesCarousel from './components/CasesCarousel';
 import imgWpp1 from '../modulos/wpp1.png';
 import imgWpp2 from '../modulos/wpp2.png';
 
@@ -118,32 +119,6 @@ function App() {
       ]
     },
     {
-      id: "ecommerce-website",
-      badge: "Presença Digital",
-      title: "E-commerce & Website",
-      description: "A presença digital trabalha em sincronia com o backoffice. Não é mais necessário gerenciar o site em plataformas externas (como Nuvemshop) e o sistema em outra: tudo é nativo e integrado, onde cada pedido atualiza estoques e o fluxo financeiro instantaneamente.",
-      image: imgEcommerce,
-      modules: ["Comércio Eletrônico", "Website"],
-      features: [
-        "Sincronização em tempo real de vendas online com o estoque físico",
-        "Captação de leads conectada diretamente ao funil comercial",
-        "Criação ágil de landing pages e campanhas promocionais"
-      ]
-    },
-    {
-      id: "marketing-automation",
-      badge: "Aquisição e Engajamento",
-      title: "Marketing & Automação",
-      description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
-      customRightContent: <MarketingCycleDiagram />,
-      modules: ["Marketing Social", "Automação"],
-      features: [
-        "Planejamento centralizado de publicações e monitoramento de engajamento",
-        "Desenvolvimento de jornadas de nutrição (workflows) baseadas em comportamento",
-        "Análise de ROI, identificando campanhas que geram conversões reais"
-      ]
-    },
-    {
       id: "whatsapp",
       badge: "Comunicação Inteligente",
       title: "WhatsApp",
@@ -170,6 +145,19 @@ function App() {
       ]
     },
     {
+      id: "ecommerce-website",
+      badge: "Presença Digital",
+      title: "E-commerce & Website",
+      description: "A presença digital trabalha em sincronia com o backoffice. Não é mais necessário gerenciar o site em plataformas externas (como Nuvemshop) e o sistema em outra: tudo é nativo e integrado, onde cada pedido atualiza estoques e o fluxo financeiro instantaneamente.",
+      image: imgEcommerce,
+      modules: ["Comércio Eletrônico", "Website"],
+      features: [
+        "Sincronização em tempo real de vendas online com o estoque físico",
+        "Captação de leads conectada diretamente ao funil comercial",
+        "Criação ágil de landing pages e campanhas promocionais"
+      ]
+    },
+    {
       id: "sales-pos",
       badge: "Força Comercial",
       title: "Vendas & PDV",
@@ -180,6 +168,19 @@ function App() {
         "Conversão de cotações em pedidos de produção com apenas um clique",
         "PDV com operação offline e sincronização em segundo plano",
         "Programas de fidelidade e recompensas integrados ao balcão"
+      ]
+    },
+    {
+      id: "marketing-automation",
+      badge: "Aquisição e Engajamento",
+      title: "Marketing & Automação",
+      description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
+      customRightContent: <MarketingCycleDiagram />,
+      modules: ["Marketing Social", "Automação"],
+      features: [
+        "Planejamento centralizado de publicações e monitoramento de engajamento",
+        "Desenvolvimento de jornadas de nutrição (workflows) baseadas em comportamento",
+        "Análise de ROI, identificando campanhas que geram conversões reais"
       ]
     },
     {
@@ -328,6 +329,10 @@ function App() {
       ]
     },
     {
+      id: "cases",
+      title: "Casos de Sucesso"
+    },
+    {
       id: "obrigado",
       title: "MUITO OBRIGADO!",
       odooLogo: imgOdooPng,
@@ -341,7 +346,7 @@ function App() {
       if (!containerRef.current) return;
 
       const container = containerRef.current;
-      const slideElements = container.querySelectorAll('.slide');
+      const slideElements = container.querySelectorAll('.slide, .cases-carousel-container');
       const viewportCenter = window.innerHeight / 2;
 
       let currentSlideIndex = activeSlide;
@@ -368,7 +373,7 @@ function App() {
   const scrollToSlide = (index) => {
     if (!containerRef.current) return;
     const container = containerRef.current;
-    const slideElements = container.querySelectorAll('.slide');
+    const slideElements = container.querySelectorAll('.slide, .cases-carousel-container');
 
     if (slideElements[index]) {
       container.scrollTo({
@@ -401,8 +406,9 @@ function App() {
   const sections = [
     { name: "VISÃO GERAL", activeColor: "#94a3b8", startIndex: 0, endIndex: 3 },
     { name: "ATRAÇÃO & VENDAS", activeColor: "#3b82f6", startIndex: 4, endIndex: 8 },
-    { name: "OPERAÇÕES", activeColor: "#10b981", startIndex: 9, endIndex: 12 },
-    { name: "GESTÃO", activeColor: "#8b5cf6", startIndex: 13, endIndex: 18 }
+    { name: "OPERAÇÕES", activeColor: "#10b981", startIndex: 9, endIndex: 14 },
+    { name: "GESTÃO", activeColor: "#8b5cf6", startIndex: 15, endIndex: 17 },
+    { name: "CASES", activeColor: "#ef4444", startIndex: 18, endIndex: 19 }
   ];
 
   return (
@@ -439,11 +445,15 @@ function App() {
 
       <div className="presentation-container" ref={containerRef}>
         {slides.map((slide, index) => (
-          <Slide
-            key={slide.id}
-            {...slide}
-            isActive={index === activeSlide}
-          />
+          slide.id === 'cases' ? (
+            <CasesCarousel key={slide.id} isActive={index === activeSlide} />
+          ) : (
+            <Slide
+              key={slide.id}
+              {...slide}
+              isActive={index === activeSlide}
+            />
+          )
         ))}
       </div>
     </>

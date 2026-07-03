@@ -43,49 +43,49 @@ const Slide = ({
 
   if (isIntro) {
     return (
-      <div id={id} ref={slideRef} className="slide" style={{ justifyContent: 'center', alignItems: 'center', padding: '0 4rem' }}>
+      <div id={id} ref={slideRef} className="slide slide-intro-container">
         <div className="bg-glow"></div>
-        <div className="slide-content" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', maxWidth: '1000px', textAlign: 'center' }}>
+        <div className="slide-content-container">
 
           <h1
-            className={`text-gradient ${isVisible ? 'animate-slide-up delay-100' : ''}`}
-            style={{ fontSize: '5rem', letterSpacing: '-2px', marginBottom: '1.5rem', opacity: 0 }}
+            className={`text-gradient title-intro ${isVisible ? 'animate-slide-up delay-100' : ''}`}
+            style={{ opacity: 0 }}
           >
             {title}
           </h1>
 
           {logos && logos.length > 0 && (
             <div
-              className={`flex-center ${isVisible ? 'animate-slide-up delay-200' : ''}`}
-              style={{ opacity: 0, gap: '4rem', marginBottom: '3rem', flexWrap: 'wrap' }}
+              className={`intro-logos-container ${isVisible ? 'animate-slide-up delay-200' : ''}`}
+              style={{ opacity: 0 }}
             >
               {logos.map((logo, idx) => (
                 <img
                   key={idx}
                   src={logo}
                   alt="Company Logo"
-                  style={{ height: '80px', width: '180px', objectFit: 'contain' }}
+                  className="intro-logo"
                 />
               ))}
             </div>
           )}
 
           <p
-            className={`${isVisible ? 'animate-slide-up delay-300' : ''}`}
-            style={{ fontSize: '1.6rem', color: 'var(--text-secondary)', marginBottom: '3rem', lineHeight: 1.5, opacity: 0, maxWidth: '800px' }}
+            className={`desc-intro ${isVisible ? 'animate-slide-up delay-300' : ''}`}
+            style={{ opacity: 0 }}
           >
             {description}
           </p>
 
           {features && features.length > 0 && (
             <div
-              className={`${isVisible ? 'animate-slide-up delay-400' : ''}`}
-              style={{ opacity: 0, display: 'flex', flexDirection: 'column', gap: '1.2rem', alignItems: 'flex-start', textAlign: 'left', background: 'var(--bg-panel)', padding: '2.5rem', borderRadius: '16px' }}
+              className={`feature-box-intro ${isVisible ? 'animate-slide-up delay-400' : ''}`}
+              style={{ opacity: 0 }}
             >
               {features.map((feature, idx) => (
-                <div key={idx} style={{ display: 'flex', alignItems: 'flex-start', gap: '1rem' }}>
+                <div key={idx} className="feature-item">
                   <CheckCircle2 color="var(--primary-blue)" style={{ marginTop: '0.2rem', flexShrink: 0 }} size={24} />
-                  <span style={{ fontSize: '1.2rem', color: 'var(--text-primary)', fontWeight: 500 }}>{feature}</span>
+                  <span className="feature-text">{feature}</span>
                 </div>
               ))}
             </div>
@@ -98,12 +98,12 @@ const Slide = ({
 
   // Layout Corporativo para os Módulos (Esquerda: Texto Clean, Direita: Imagem Destacada)
   return (
-    <div id={id} ref={slideRef} className="slide" style={{ padding: '4rem 6rem' }}>
+    <div id={id} ref={slideRef} className="slide slide-regular-padding">
       <div className="bg-glow"></div>
 
       <div className="grid-2" style={{ zIndex: 10, flex: 1, alignItems: 'center' }}>
         {/* Coluna Esquerda: Textos, Títulos e Features Clean */}
-        <div className="flex-column" style={{ paddingRight: '2rem' }}>
+        <div className="flex-column col-left">
 
           {badge && (
             <div className={`badge ${isVisible ? 'animate-slide-up' : ''}`} style={{ opacity: 0, marginBottom: '1.5rem', border: 'none', background: 'var(--bg-panel)', fontSize: '0.9rem' }}>
@@ -112,15 +112,15 @@ const Slide = ({
           )}
 
           <h1
-            className={`text-gradient ${isVisible ? 'animate-slide-up delay-100' : ''}`}
-            style={{ fontSize: '3.8rem', marginBottom: '1.5rem', opacity: 0, letterSpacing: '-1px', lineHeight: 1.1 }}
+            className={`text-gradient title-regular ${isVisible ? 'animate-slide-up delay-100' : ''}`}
+            style={{ opacity: 0 }}
           >
             {title}
           </h1>
 
           <p
-            className={`${isVisible ? 'animate-fade-in delay-200' : ''}`}
-            style={{ fontSize: '1.35rem', color: 'var(--text-secondary)', marginBottom: '3rem', lineHeight: 1.6, opacity: 0, fontWeight: 400 }}
+            className={`desc-regular ${isVisible ? 'animate-fade-in delay-200' : ''}`}
+            style={{ opacity: 0 }}
           >
             {description}
           </p>
@@ -130,17 +130,14 @@ const Slide = ({
               {features.map((feature, idx) => (
                 <div
                   key={idx}
-                  className={`${isVisible ? 'animate-slide-up' : ''}`}
+                  className={`feature-item ${isVisible ? 'animate-slide-up' : ''}`}
                   style={{
                     opacity: 0,
-                    animationDelay: `${400 + (idx * 100)}ms`,
-                    display: 'flex',
-                    alignItems: 'flex-start',
-                    gap: '1rem'
+                    animationDelay: `${400 + (idx * 100)}ms`
                   }}
                 >
                   <CheckCircle2 color="var(--primary-blue)" style={{ marginTop: '0.2rem', flexShrink: 0 }} size={22} />
-                  <span style={{ fontSize: '1.15rem', color: 'var(--text-primary)', fontWeight: 500, lineHeight: 1.4 }}>{feature}</span>
+                  <span className="feature-text-regular">{feature}</span>
                 </div>
               ))}
             </div>
@@ -155,16 +152,7 @@ const Slide = ({
             <img
               src={image}
               alt={`Print do Módulo ${title}`}
-              style={{
-                width: '100%',
-                maxHeight: '650px',
-                objectFit: 'contain',
-                borderRadius: '12px',
-                boxShadow: '0 30px 60px rgba(0, 127, 199, 0.15)',
-                border: '1px solid rgba(0, 127, 199, 0.05)',
-                background: '#fff',
-                padding: '0.5rem'
-              }}
+              className="module-image"
             />
           ) : Icon ? (
             <Icon size={180} strokeWidth={1} color="var(--primary-blue)" />

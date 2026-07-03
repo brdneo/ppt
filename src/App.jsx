@@ -26,42 +26,42 @@ import imgSpreadsheet from './assets/modules/spreadsheet.png';
 import imgFiscal from '../modulos/fiscal_dashboard.png';
 
 const MulticompanyFlow = () => (
-  <div style={{ display: 'flex', flexDirection: 'column', gap: '1.2rem', width: '100%', maxWidth: '550px', padding: '2rem', background: 'var(--bg-glass)', borderRadius: '16px', border: '1px solid var(--glass-border)', boxShadow: 'var(--glass-shadow)' }}>
+  <div className="mc-flow-container">
     {/* Step 1: Vendedor */}
-    <div style={{ display: 'flex', alignItems: 'center', gap: '1.2rem', background: '#fff', padding: '1.5rem', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+    <div className="mc-step">
        <Smartphone size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
        <div>
-         <h4 style={{ fontSize: '1.2rem', marginBottom: '0.25rem', color: '#0f172a' }}>1. Vendedor Externo (App Único)</h4>
-         <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: 1.4 }}>Acessa o portfólio e vende produtos das 3 empresas em um único pedido.</p>
+         <h4 className="mc-step-title">1. Vendedor Externo (App Único)</h4>
+         <p className="mc-step-desc">Acessa o portfólio e vende produtos das 3 empresas em um único pedido.</p>
        </div>
     </div>
     
-    <div style={{ display: 'flex', justifyContent: 'center' }}>
+    <div className="flex-center">
       <ArrowDown color="#cbd5e1" size={24} />
     </div>
 
     {/* Step 2: CD */}
-    <div style={{ display: 'flex', alignItems: 'center', gap: '1.2rem', background: '#fff', padding: '1.5rem', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+    <div className="mc-step">
        <PackageOpen size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
        <div>
-         <h4 style={{ fontSize: '1.2rem', marginBottom: '0.25rem', color: '#0f172a' }}>2. Centro de Distribuição (CD)</h4>
-         <p style={{ color: '#64748b', fontSize: '0.95rem', lineHeight: 1.4 }}>Recebe 1 documento consolidado e faz 1 única separação/entrega para o cliente.</p>
+         <h4 className="mc-step-title">2. Centro de Distribuição (CD)</h4>
+         <p className="mc-step-desc">Recebe 1 documento consolidado e faz 1 única separação/entrega para o cliente.</p>
        </div>
     </div>
 
-    <div style={{ display: 'flex', justifyContent: 'center' }}>
+    <div className="flex-center">
       <ArrowDown color="#cbd5e1" size={24} />
     </div>
 
     {/* Step 3: Faturamento */}
-    <div style={{ display: 'flex', alignItems: 'center', gap: '1.2rem', background: '#fff', padding: '1.5rem', borderRadius: '12px', border: '1px solid #e2e8f0' }}>
+    <div className="mc-step">
        <FileText size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
        <div style={{ width: '100%' }}>
-         <h4 style={{ fontSize: '1.2rem', marginBottom: '0.75rem', color: '#0f172a' }}>3. Faturamento Desmembrado</h4>
-         <div style={{ display: 'flex', gap: '0.5rem' }}>
-           <div style={{ flex: 1, background: '#f8fafc', border: '1px solid #e2e8f0', padding: '0.75rem', borderRadius: '8px', textAlign: 'center', fontSize: '0.85rem', color: '#334155' }}>NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa A</b></div>
-           <div style={{ flex: 1, background: '#f8fafc', border: '1px solid #e2e8f0', padding: '0.75rem', borderRadius: '8px', textAlign: 'center', fontSize: '0.85rem', color: '#334155' }}>NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa B</b></div>
-           <div style={{ flex: 1, background: '#f8fafc', border: '1px solid #e2e8f0', padding: '0.75rem', borderRadius: '8px', textAlign: 'center', fontSize: '0.85rem', color: '#334155' }}>NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa C</b></div>
+         <h4 className="mc-step-title" style={{ marginBottom: '0.75rem' }}>3. Faturamento Desmembrado</h4>
+         <div className="mc-fat-container">
+           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa A</b></div>
+           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa B</b></div>
+           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa C</b></div>
          </div>
        </div>
     </div>

@@ -1,0 +1,95 @@
+
+From Appchains to 90% Accuracy: TDFB’s Comprehensive Odoo MRP Solution
+28 de maio de 2025 por
+Ashley Soo (kwso)
+Background
+
+Established in 2014, TD Food and Beverage (TDFB) is one of Thailand's leading importer and distributor of the finest matcha from Japan. Today, the company proudly serves a 170,000-strong community and local cafes in the country and Southeast Asia with premium-quality tea.
+The Challenges
+
+The nine divisions in TDFB used to manage their operations independently on application-specific blockchain, or appchain, to oversee all sales, marketing activities and supply chain management. This led to significant challenges as the company grew:
+Data silos and communication breakdowns
+
+Separate systems made it harder for teams to share information and stay aligned, leading to occasional errors.
+System Performance Issues
+
+More data and systems slowed down operations and made processes less efficient.
+Inventory Management Problems
+
+With increased market uncertainty and surging demand, stockouts became more frequent and increasingly difficult to manage effectively.
+High Maintenance Costs
+
+Running and updating multiple systems increased both time and financial costs.
+The Odoo Solution
+
+TDFB chose Odoo over other ERP systems like SAP and Oracle due to Odoo's comprehensive suite of ready-to-use business applications, cloud-based architecture, transparent pricing, and user-friendly interface while supporting local integrations and language.
+Streamlined Sales Activities
+Interconnected MRP Solution
+Adaptable Quality Control
+Accurate Inventory Control & Efficient Delivery
+Dynamic Reports & Data-Driven Decisions
+Streamlined Sales Activities
+
+Odoo Sales centralizes all sales orders (SOs) from TDFB's sales channels on Facebook, Line, and Shopee. Each SO provides a clear overview of SKUs and total demand on the order lines with their stock levels accessible with just a few clicks.
+
+Connect your Shopee Seller account with Odoo's Shopee Connector, our latest API integration, to efficiently manage omnichannel sales on a single platform!
+Interconnected MRP Solution
+
+To guarantee product availability and customer satisfaction, TDFB employs a make-to-stock (MTS) production strategy. With Odoo's integrated MRP applications – Manufacturing and Inventory – the team seamlessly manages the entire matcha production and processing workflow.
+
+When a sales order (SO) is confirmed, TDFB's operations team initiates the process. They create a corresponding bill of materials (BoM) or manufacturing order, detailing the specific type and quantity of matcha to be packaged according to the customer's requirements. Every movement of stock, from raw material to finished product, is
+accurately tracked and recorded within Odoo Inventory.
+Adaptable Quality Control
+
+A dedicated team conducts thorough quality checks on incoming matcha, including assessments of color, aroma, sensory attributes, and microbiology, all managed within the Odoo Quality app. As a verifiable history, the results will be recorded on Odoo, demonstrating due diligence and facilitating necessary investigations or audits.
+
+Approved products are added to the Odoo Inventory list. Odoo’s
+flexible Unit of Measure (UoM) configuration allows TDFB to manage various weight standards. Reordering rules will be triggered when the stock levels reach the company’s predetermined reorder points, ensuring timely replenishment via Odoo Purchase.
+
+unit of measure uom in odoo inventory
+Accurate Inventory Control &
+Efficient Delivery
+
+    "We experience fewer errors in inventory control on Odoo. The incoming and outgoing stock count is more than 90% accurate."
+    Teerapat Taechamahapun (Tim)
+    Co-founder & CEO of TDFB
+
+The powerful Odoo Inventory app backs all the aforementioned sales and manufacturing activities in the food processing company.
+
+Paired with barcode scanners, the team performs regular stocktakes by scanning the unique barcodes or SKUs on the goods. The inventory levels automatically update,
+minimizing errors while
+saving time on manual labor.
+
+odoo dhl ups and courier integration
+
+Furthermore, the app proves its capabilities by seamlessly supporting over 800 deliveries daily with
+integration with DHL, UPS and many other couriers. Recipient and delivery details are automatically populated from sales orders, minimizing errors. "Odoo helped us a lot with delivery," says co-founder and CEO Tim. "The system helps us
+reduce human error in packing and shipping our matcha."
+Dynamic Reports &
+Data-Driven Decisions
+
+Owing to the software's integratedness, TDFB generates a variety of sales and inventory reports in seconds with just a few clicks on Odoo. Notably, Odoo 19 will further enhance this speed by up to
+200ms.
+
+In addition to the month-on-month (MoM) and year-on-year (YoY) product performance reports, the sales team utilizes Odoo to generate sales forecasting reports for buy-in insights. On the other hand, the operations team generates inventory valuation and stock aging reports to maintain a healthy stock level, hence the business.
+
+
+    “We grow so fast, and the excellent customer support from Odoo has been invaluable in scaling our operations, particularly in enhancing accuracy and minimizing errors.”
+    Teerapat Taechamahapun (Tim)
+    Co-founder & CEO of TDFB 
+
+As the company continues to grow with plans to expand internationally, TDFB views Odoo as a sustainable, scalable solution. "It helps me in attaining company data much faster than any software," Tim explains. "Odoo also promotes great team collaboration and data sharing. I am confident in utilizing Odoo's multi-company function to manage more subsidiaries as the company expands."
+
+
+TD Food and Beverage
+
+
+Location: Thailand
+
+Industry: Food and Beverage, Distribution
+
+Apps Implemented: Studio, Quality, Maintenance, Purchase, Manufacturing, Inventory, Project, Sales, Barcode
+
+Company Size: 50-249
+
+Hosting Type: Odoo Online

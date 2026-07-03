@@ -1,0 +1,97 @@
+
+A Fresher Process: Pura Frutta's Digital Transformation
+28 de abril de 2025 por
+Paola Yañez Huerta (payh)
+
+
+Company name: Pura Frutta
+
+Location: Palermo, Autonomous City of Buenos Aires (CABA)
+
+Sector: Food & Beverage
+
+Apps implemented: Sales, Purchase, Inventory, Accounting, Manufacturing
+
+Number of users: 23
+
+Number of employees: 50
+
+Hosting type: Odoo.sh
+
+Pura Frutta is a company from Argentina founded in 2015, dedicated to manufacturing and selling 100% natural beverages made from fresh fruits. The company's mission is to promote a healthy lifestyle, respecting both the environment and their consumers.
+
+Pura Frutta has a manufacturing plant in Villa Regina (Río Negro) and warehouses in Buenos Aires and Patagonia. They distribute their products throughout Argentina and export them to countries such as Chile, Uruguay, and Brazil. Their portfolio includes freshly pressed juices without additives, the firsts of their kind in the country.
+
+
+The Challenge:
+Growing Without Losing Control 
+
+
+As the company scaled their operations, some challenges arose relating to information management and processes control. Before Odoo, they used a “canned” system that had limited  functionalities and lacked flexibility to support the projected growth.
+
+    "A lot of things got lost. We couldn’t properly track information or improve processes because we didn't have visibility."
+
+Key processes, such as shrinkage tracking, lead times, and accounting, were inefficient and fragmented.
+
+
+The Solution: Odoo as a
+Platform for
+Growth
+
+
+Pura Frutta began implementing Odoo in 2021 with the help of Origami, one of our partners. The process took approximately six months and allowed for a seamless and uninterrupted migration. In 2024, the company started using Odoo 17.
+
+From the start, the approach was to integrate all departments within a single centralized system to:
+
+    Unify the CRM and customer tracking process.
+    Improve accounting and logistical reporting.
+    Develop interconnected workflows between sales, production, and logistics.
+
+
+Measurable Outcomes
+
+It wasn’t long before Odoo’s benefits were evident. Thanks to their newly centralized information and automated processes, Pura Frutta achieved significant improvements:
+
+    Reduced the generation time of logistics reports from 10 days to only 2.
+    Optimized the closing of profit and loss statements. Now it’s done a month after closing accounting operations, when it used to take much longer.
+    Improved financial visibility and control, allowing for strategic decision-making.
+
+    "The consolidated system exposed the deficiencies we had and helped us to fix them."
+
+
+Key Modules
+
+
+
+Pura Frutta uses several Odoo modules across the organization. While each department values different tools, some of the most used are:
+
+    Accounting
+    Inventory
+    Sales
+    Logistics
+    CRM
+
+The system’s versatility allowed each department to work with customized tools tailored to their processes while maintaining synchronization across teams.
+
+
+Continuous Support and an
+Active Community
+
+
+The implementation and support experience was positive from the start. Through their partner and Odoo’s channels, the Pura Frutta team had continuous access to technical support and community resources.
+
+    "What we value most is that the implementation possibilities are endless. We don’t feel limited."
+
+
+Facing the Future
+
+Thanks to Odoo, Pura Frutta not only streamlined their current operations, but is also ready to grow sustainably. Today, they can analyze their business in real-time and make data-driven strategic decisions.
+
+    "Odoo gave us structure, visibility, and the ability to optimize. If we had to summarize our experience in one word, it would be: order."
+
+
+About Pura Frutta
+
+Pura Frutta is a company from Argentina that manufactures natural beverages made from fresh fruits, and has a strong focus on health, sustainability, and quality. Since implementing Odoo in 2021, they have transformed their operations by integrating key processes like logistics, accounting, and CRM into a single platform, allowing them to make more strategic decisions and significantly improving their operational efficiency.
+
+Learn more at purafrutta.com

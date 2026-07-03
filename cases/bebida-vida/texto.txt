@@ -1,0 +1,67 @@
+
+Bebida Viva: innovación saludable impulsada por Odoo
+11 de enero de 2024 por
+Paola Yañez Huerta (payh)
+
+Nombre de la empresa: Bebida Viva
+
+Ubicación: México
+
+Sector: bebidas saludables
+
+Aplicaciones implementadas: Contabilidad, Inventario, Ventas, Compra, Facturación, entre otras.
+
+Tamaño de la empresa: 20
+
+Número de usuarios: 10
+
+Tipo de alojamiento: SaaS
+
+Bebida Viva nace de la necesidad de tener más opciones saludables en México. Están comprometidos con la excelencia, por lo que usan los mejores ingredientes disponibles en el mercado y siguen los más altos estándares al preparar sus kombuchas.
+
+La kombucha es una famosa bebida fermentada que alberga miles de probióticos vivos y naturales. Se elabora a base de infusiones de té, SCOBY (colonia simbiótica de levaduras y bacterias, por sus siglas en inglés) y azúcar orgánico.
+
+
+Travesía hacia Odoo
+
+No usaban ningún ERP, así que se enfrentaban con varias dificultades, en especial en el área de servicio al cliente. Esto hizo que se dieran cuenta de lo importante que es contar con una plataforma de facturación confiable.
+
+Como no contaban con ningún ERP había muchos desafíos, en especial en el área de servicio al cliente, así fue que se dieron cuenta de lo importante que es contar con una plataforma de facturación confiable. Así fue como descubrieron Odoo, un sistema ERP de renombre mundial que se recomienda altamente por su adaptabilidad total.
+
+Evaluación y selección
+
+Diana Rodriguez comenta que al momento de evaluar qué sistema era mejor para su empresa eligieron Odoo por su capacidad de personalización.
+
+Además, la representante de Viva Bebida, comentó: "Cada empresa o servicio es diferente y nuestros procesos pueden ser muy largos. Tenemos muchas órdenes de fabricación o activadores que requieren 5 o 6 pasos adicionales para obtener un producto final. En ese sentido Odoo destacó por ser el sistema que más se ajustaba a nuestras necesidades y al tipo de producto que manejamos, además de su facilidad de uso".
+
+
+Implementación exitosa: eficiencia y satisfacción
+
+Rodríguez describió el alto nivel de satisfacción que experimentó el equipo de Bebida Viva durante el proceso de implementación de Odoo. Se logró en menos de tres meses y no fue nada complicado. Además, a Diana le gusta mucho la programación y le encantó ser parte del proceso.
+
+La implementación se completó en menos tiempo del calculado y todo marchó acorde al plan.
+
+Transformación interna: la resolución de problemas con Odoo
+
+Uno de los mejores beneficios que obtuvieron con Odoo fue la resolución rápida de problemas internos.
+
+Antes, la falta de información sobre sus clientes representaba un gran obstáculo. Ahora, gracias a Odoo, todos pueden acceder con facilidad a esa información.
+
+Su nueva organización interna y la optimización de sus procesos han demostrado ser factores clave en su éxito, lo que se puede apreciar en el aumento del 80% de las ventas de Bebida Viva desde que empezaron a usar Odoo.
+
+A su vez, Odoo les ofrece una mayor visibilidad de sus inventarios, lo que les permite controlar la disponibilidad de producto de todas sus materias primas. Las alertas automáticas sobre fechas de caducidad o falta de existencias han acabado por completo con la escasez de inventario.
+
+
+Facilidad de uso: una experiencia intuitiva
+
+El aspecto que más les gusta de Odoo es su facilidad de uso.
+
+Diana señala esta función como una de sus favoritas: "Es demasiado intuitivo; aprendes rápido. Contamos con varios tipos de empleados, desde una persona de 60 años que ya no quiere aprender cosas nuevas hasta otra que acaba de salir de la preparatoria. Esta interfaz permite reducir la complejidad".
+
+Si se pudiera describir la relación de Odoo y Bebida Viva en una palabra, sería: CONFIANZA. La confianza en la capacidad de Odoo para adaptarse a sus necesidades y mejorar sus procesos ha sido crucial para su crecimiento y éxito continuo.
+
+Sobre Bebida Viva
+
+La misión de Bebida Viva es crear productos deliciosos que no solo deleiten el paladar, sino que también aporten beneficios a la salud; es mejor conocida por su línea de kombucha. Gracias a Odoo, Bebida Viva ha conseguido optimizar sus procesos, lo que le ha reportado beneficios en varios aspectos, como un aumento del 80% en las ventas, y eso es solo el principio…
+
+Obtén más información en bebidaviva.mx

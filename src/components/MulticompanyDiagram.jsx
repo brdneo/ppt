@@ -1,5 +1,6 @@
 import React from 'react';
-import { Smartphone, PackageOpen, FileText, ArrowDown } from 'lucide-react';
+import { Smartphone, PackageOpen, FileText, ArrowDown, Apple, Bot } from 'lucide-react';
+import imgApp from '../assets/app.png';
 
 const MulticompanyDiagram = () => {
   const steps = [
@@ -86,6 +87,46 @@ const MulticompanyDiagram = () => {
                   </span>
                 </div>
               </div>
+
+              {step.id === 1 && (
+                <div 
+                  className="floating-comparative-left animate-fade-in delay-600"
+                  style={{
+                    position: 'absolute',
+                    left: '-160px',
+                    top: '50%',
+                    transform: 'translateY(-50%)',
+                    width: '120px',
+                    zIndex: 10,
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                  }}
+                >
+                  <svg width="50" height="20" style={{ position: 'absolute', right: '-60px', top: '50%', transform: 'translateY(-50%)', zIndex: 0 }}>
+                    <line x1="0" y1="10" x2="35" y2="10" stroke="#3b82f6" strokeWidth="2" strokeDasharray="4 4" />
+                    <polygon points="35,5 45,10 35,15" fill="#3b82f6" />
+                  </svg>
+                  
+                  <img src={imgApp} alt="Aplicativo Mobile" style={{ width: '100%', objectFit: 'contain', filter: 'drop-shadow(0 15px 25px rgba(0,0,0,0.4))' }} />
+                  
+                  <div style={{ 
+                    marginTop: '0.8rem',
+                    background: 'rgba(255, 255, 255, 0.1)', 
+                    backdropFilter: 'blur(10px)',
+                    border: '1px solid rgba(255,255,255,0.2)', 
+                    padding: '8px 16px', 
+                    borderRadius: '24px', 
+                    boxShadow: '0 8px 20px rgba(0,0,0,0.3)', 
+                    display: 'flex', 
+                    alignItems: 'center', 
+                    gap: '1rem',
+                  }}>
+                    <Apple size={22} color="#ffffff" style={{ filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.5))' }} />
+                    <Bot size={22} color="#a8ff5c" style={{ filter: 'drop-shadow(0 2px 4px rgba(0,0,0,0.5))' }} />
+                  </div>
+                </div>
+              )}
 
               {/* Faturamento desmembrado boxes for step 3 */}
               {step.id === 3 && (

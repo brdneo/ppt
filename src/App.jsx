@@ -57,7 +57,6 @@ import MulticompanyDiagram from './components/MulticompanyDiagram';
 function App() {
   const containerRef = useRef(null);
   const [activeSlide, setActiveSlide] = useState(0);
-
   const slides = [
     {
       id: "intro",
@@ -119,19 +118,6 @@ function App() {
       ]
     },
     {
-      id: "whatsapp",
-      badge: "Comunicação Inteligente",
-      title: "WhatsApp",
-      description: "A integração do canal de comunicação mais utilizado diretamente no ERP permite que o histórico de conversas não fique isolado em dispositivos móveis. A equipe ganha produtividade e a empresa ganha controle e rastreabilidade.",
-      customRightContent: <WhatsappCompare />,
-      modules: ["API do WhatsApp Business"],
-      features: [
-        "Atendimento centralizado pelo sistema, sem aplicativos paralelos",
-        "Histórico de conversas salvo diretamente no cadastro do cliente",
-        "Envio automatizado de boletos e orçamentos diretamente no chat"
-      ]
-    },
-    {
       id: "ecommerce-website",
       badge: "Presença Digital",
       title: "E-commerce & Website",
@@ -142,6 +128,32 @@ function App() {
         "Sincronização em tempo real de vendas online com o estoque físico",
         "Captação de leads conectada diretamente ao funil comercial",
         "Criação ágil de landing pages e campanhas promocionais"
+      ]
+    },
+    {
+      id: "marketing-automation",
+      badge: "Aquisição e Engajamento",
+      title: "Marketing & Automação",
+      description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
+      customRightContent: <MarketingCycleDiagram />,
+      modules: ["Marketing Social", "Automação"],
+      features: [
+        "Planejamento centralizado de publicações e monitoramento de engajamento",
+        "Desenvolvimento de jornadas de nutrição (workflows) baseadas em comportamento",
+        "Análise de ROI, identificando campanhas que geram conversões reais"
+      ]
+    },
+    {
+      id: "whatsapp",
+      badge: "Comunicação Inteligente",
+      title: "WhatsApp",
+      description: "A integração do canal de comunicação mais utilizado diretamente no ERP permite que o histórico de conversas não fique isolado em dispositivos móveis. A equipe ganha produtividade e a empresa ganha controle e rastreabilidade.",
+      customRightContent: <WhatsappCompare />,
+      modules: ["API do WhatsApp Business"],
+      features: [
+        "Atendimento centralizado pelo sistema, sem aplicativos paralelos",
+        "Histórico de conversas salvo diretamente no cadastro do cliente",
+        "Envio automatizado de boletos e orçamentos diretamente no chat"
       ]
     },
     {
@@ -171,32 +183,6 @@ function App() {
       ]
     },
     {
-      id: "manufacturing-quality",
-      badge: "Produção Industrial",
-      title: "Fabricação & Qualidade",
-      description: "Controle total sobre as ordens de produção e rastreabilidade dos ingredientes. Pontos de controle de qualidade são inseridos diretamente no fluxo produtivo para assegurar o mais alto padrão nos produtos finais.",
-      image: imgManufacturing,
-      modules: ["Fabricação (MRP)", "Qualidade"],
-      features: [
-        "Gestão de Receitas e Listas de Materiais (BOM) para o chão de fábrica",
-        "Rastreabilidade ponta a ponta, da matéria-prima até o produto final",
-        "Checklists e alertas preventivos de controle de qualidade"
-      ]
-    },
-    {
-      id: "plm-maintenance",
-      badge: "Engenharia e Estrutura",
-      title: "PLM & Manutenção",
-      description: "O lançamento de novos produtos e atualizações de embalagens são geridos via PLM para manter a organização da operação. Simultaneamente, a manutenção preventiva garante a disponibilidade contínua dos maquinários.",
-      image: imgPLM,
-      modules: ["Ciclo de Vida (PLM)", "Manutenção"],
-      features: [
-        "Fluxos estruturados de aprovação para criação e revisão de receitas",
-        "Agendamento de manutenções sem impacto não planejado na produção",
-        "Sincronia completa com o setor de Fabricação e ordens de serviço"
-      ]
-    },
-    {
       id: "purchase-inventory",
       carouselItems: [
         {
@@ -223,7 +209,32 @@ function App() {
         }
       ]
     },
-
+    {
+      id: "manufacturing-quality",
+      badge: "Produção Industrial",
+      title: "Fabricação & Qualidade",
+      description: "Controle total sobre as ordens de produção e rastreabilidade dos ingredientes. Pontos de controle de qualidade são inseridos diretamente no fluxo produtivo para assegurar o mais alto padrão nos produtos finais.",
+      image: imgManufacturing,
+      modules: ["Fabricação (MRP)", "Qualidade"],
+      features: [
+        "Gestão de Receitas e Listas de Materiais (BOM) para o chão de fábrica",
+        "Rastreabilidade ponta a ponta, da matéria-prima até o produto final",
+        "Checklists e alertas preventivos de controle de qualidade"
+      ]
+    },
+    {
+      id: "plm-maintenance",
+      badge: "Engenharia e Estrutura",
+      title: "PLM & Manutenção",
+      description: "O lançamento de novos produtos e atualizações de embalagens são geridos via PLM para manter a organização da operação. Simultaneamente, a manutenção preventiva garante a disponibilidade contínua dos maquinários.",
+      image: imgPLM,
+      modules: ["Ciclo de Vida (PLM)", "Manutenção"],
+      features: [
+        "Fluxos estruturados de aprovação para criação e revisão de receitas",
+        "Agendamento de manutenções sem impacto não planejado na produção",
+        "Sincronia completa com o setor de Fabricação e ordens de serviço"
+      ]
+    },
     {
       id: "fleet",
       badge: "Logística",
@@ -251,55 +262,30 @@ function App() {
       ]
     },
     {
-      id: "documents",
-      badge: "Gestão Eletrônica",
-      title: "Documentos em Nuvem",
-      description: "Um repositório em nuvem centralizado, seguro e inteligente para toda a documentação corporativa. A eliminação do papel e a facilidade de acesso remoto modernizam os processos burocráticos.",
-      image: imgDocuments,
-      modules: ["Documentos em Nuvem"],
-      features: [
-        "Leitura inteligente de faturas através de Inteligência Artificial (OCR)",
-        "Assinatura digital e fluxos de aprovação remotos com um clique",
-        "Níveis de acesso seguros e compartilhamento simplificado com a diretoria"
-      ]
-    },
-    {
-      id: "discuss",
-      badge: "Comunicação Corporativa",
-      title: "Mensagens",
-      description: "Um ambiente de colaboração interno seguro e organizado. A comunicação entre as equipes flui de forma nativa no sistema, mantendo o histórico de decisões e alinhamentos vinculado aos processos empresariais.",
-      image: imgDiscuss,
-      modules: ["Comunicação Interna"],
-      features: [
-        "Chat interno nativo, eliminando a dependência de plataformas não homologadas",
-        "Canais de comunicação segregados por projeto, departamento ou empresa",
-        "Possibilidade de mencionar (@) colaboradores diretamente nos registros do ERP"
-      ]
-    },
-    {
-      id: "marketing-automation",
-      badge: "Aquisição e Engajamento",
-      title: "Marketing & Automação",
-      description: "Gestão unificada de canais sociais e nutrição de leads. O agendamento de postagens e a criação de gatilhos para e-mails automatizados operam de maneira integrada ao ciclo de vida do cliente no CRM.",
-      customRightContent: <MarketingCycleDiagram />,
-      modules: ["Marketing Social", "Automação"],
-      features: [
-        "Planejamento centralizado de publicações e monitoramento de engajamento",
-        "Desenvolvimento de jornadas de nutrição (workflows) baseadas em comportamento",
-        "Análise de ROI, identificando campanhas que geram conversões reais"
-      ]
-    },
-    {
-      id: "spreadsheet",
-      badge: "Inteligência de Negócios",
-      title: "Dashboards",
-      description: "Business Intelligence em tempo real. A união da flexibilidade das planilhas com a base de dados centralizada do ERP permite a extração de métricas precisas para apoiar a tomada de decisão da diretoria.",
-      image: imgSpreadsheet,
-      modules: ["Planilhas (BI)"],
-      features: [
-        "Dados operacionais atualizados dinamicamente sem necessidade de exportação",
-        "Construção de painéis de controle (Dashboards) executivos customizados",
-        "Análises financeiras avançadas consolidadas de todas as unidades de negócio"
+      id: "documents-discuss",
+      carouselItems: [
+        {
+          title: "Documentos",
+          badge: "Gestão Eletrônica",
+          description: "Um repositório em nuvem centralizado, seguro e inteligente para toda a documentação corporativa. A eliminação do papel e a facilidade de acesso remoto modernizam os processos burocráticos.",
+          image: imgDocuments,
+          features: [
+            "Leitura inteligente de faturas através de Inteligência Artificial (OCR)",
+            "Assinatura digital e fluxos de aprovação remotos com um clique",
+            "Níveis de acesso seguros e compartilhamento simplificado com a diretoria"
+          ]
+        },
+        {
+          title: "Mensagens",
+          badge: "Comunicação Corporativa",
+          description: "Um ambiente de colaboração interno seguro e organizado. A comunicação entre as equipes flui de forma nativa no sistema, mantendo o histórico de decisões e alinhamentos vinculado aos processos empresariais.",
+          image: imgDiscuss,
+          features: [
+            "Chat interno nativo, eliminando a dependência de plataformas não homologadas",
+            "Canais de comunicação segregados por projeto, departamento ou empresa",
+            "Possibilidade de mencionar (@) colaboradores diretamente nos registros do ERP"
+          ]
+        }
       ]
     },
     {
@@ -313,6 +299,19 @@ function App() {
         "Reconciliação bancária acelerada por reconhecimento inteligente",
         "Visualização contábil consolidada ou segmentada por CNPJ",
         "Geração ágil de DREs, balancetes e relatórios para auditoria"
+      ]
+    },
+    {
+      id: "spreadsheet",
+      badge: "Inteligência de Negócios",
+      title: "Dashboards",
+      description: "Business Intelligence em tempo real. A união da flexibilidade das planilhas com a base de dados centralizada do ERP permite a extração de métricas precisas para apoiar a tomada de decisão da diretoria.",
+      image: imgSpreadsheet,
+      modules: ["Planilhas (BI)"],
+      features: [
+        "Dados operacionais atualizados dinamicamente sem necessidade de exportação",
+        "Construção de painéis de controle (Dashboards) executivos customizados",
+        "Análises financeiras avançadas consolidadas de todas as unidades de negócio"
       ]
     },
     {
@@ -399,17 +398,43 @@ function App() {
     return () => window.removeEventListener('keydown', handleKeyDown);
   }, [activeSlide, slides.length]);
 
+  const sections = [
+    { name: "VISÃO GERAL", activeColor: "#94a3b8", startIndex: 0, endIndex: 3 },
+    { name: "ATRAÇÃO & VENDAS", activeColor: "#3b82f6", startIndex: 4, endIndex: 8 },
+    { name: "OPERAÇÕES", activeColor: "#10b981", startIndex: 9, endIndex: 12 },
+    { name: "GESTÃO", activeColor: "#8b5cf6", startIndex: 13, endIndex: 18 }
+  ];
+
   return (
     <>
       <div className="nav-dots">
-        {slides.map((_, index) => (
-          <div
-            key={index}
-            className={`nav-dot ${index === activeSlide ? 'active' : ''}`}
-            onClick={() => scrollToSlide(index)}
-            title={`Ir para o slide ${index + 1}`}
-          ></div>
-        ))}
+        {sections.map((section, secIdx) => {
+          const isSectionActive = activeSlide >= section.startIndex && activeSlide <= section.endIndex;
+          return (
+            <div key={secIdx} className={`nav-section ${isSectionActive ? 'active' : ''}`}>
+              <div className="nav-section-label" style={{ color: isSectionActive ? section.activeColor : 'var(--text-muted)' }}>
+                {section.name}
+              </div>
+              <div className="nav-section-dots">
+                {slides.slice(section.startIndex, section.endIndex + 1).map((_, idx) => {
+                  const actualIndex = section.startIndex + idx;
+                  const isActive = actualIndex === activeSlide;
+                  return (
+                    <div
+                      key={actualIndex}
+                      className={`nav-dot ${isActive ? 'active' : ''}`}
+                      style={{ 
+                        backgroundColor: isActive ? section.activeColor : 'var(--text-muted)'
+                      }}
+                      onClick={() => scrollToSlide(actualIndex)}
+                      title={`Ir para o slide ${actualIndex + 1}`}
+                    ></div>
+                  );
+                })}
+              </div>
+            </div>
+          );
+        })}
       </div>
 
       <div className="presentation-container" ref={containerRef}>

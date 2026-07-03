@@ -1,0 +1,80 @@
+
+Vegan Snackhouse Everbolt Manages End-to-End Operations on Odoo
+30 de julho de 2025 por
+Ashley Soo (kwso)
+Everbolt Food Products at Odoo Business Show Sri Lanka
+
+Based in Sri Lanka, Everbolt Food Products brings high-quality herbal teas and healthy snacks that are 100% vegan, made with natural ingredients. The company takes pride in its recipes that encapsulate the health and natural benefits of Ayurvedic medicine, popular in the region.
+Why
+ERP?
+Centralized
+Data Management
+
+Before Odoo, Everbolt utilized QuickBooks to manage its finances. The services were limited, leaving management of other operations, including sales, human resources, and inventory, to manual practices.
+Enhanced
+Team Communication
+
+During COVID-19, Everbolt adopted a work-from-home arrangement for its team. Without a central system, the remote team lacked a real-time project overview and the latest information due to communication gaps. In the long run, this could lead to an inconsistent customer experience.
+Why Odoo?
+
+    "We use Odoo in almost every department in our organization."
+    Hashan Fonseka
+    Brand Manager at Everbolt
+
+ Discover how Everbolt leverages Odoo to manage its engineering subsidiary in Sri Lanka
+Front-to-Back Support
+
+
+Odoo provides comprehensive support for Everbolt by addressing both its front-end and backend needs through its integrated suite of applications.
+
+Odoo Website&#39;s easy drag-and-drop for website creation
+
+
+On the front end, the Odoo Website Builder supports Everbolt's retail website. No-code and intuitive, the business management software's functionality supports
+easy creation of its retail website with drag-and-drop design blocks. Also an e-commerce solution, the system opens up online retail for the F&B company, which is also a US$2.61 billion business in Sri Lanka.
+All-Inclusive Services
+
+
+Thanks to the ERP's comprehensive services, all sales orders (SOs) placed through the website are synchronized in Odoo eCommerce and centralized in the Sales apps, along with sales from other sources.
+
+
+From the Sales app, Everbolt's team can create quotations using a template, apply discounts, and update delivery addresses and other essential customer data.
+
+Everbolt&#39;s team can create quotations using a template, apply discounts, and update delivery addresses and other essential customer data on Odoo Sales app
+
+From Odoo Sales, the team can also access Odoo Inventory to
+check stock levels and reorder goods with just a few clicks. Once the stock level reaches a preconfigured reordering point, Everbolt can easily click "restock," and Odoo Purchase will automatically create a purchase order (PO) draft for the person in charge to confirm.
+Dynamic & Trouble-Free Report Generation
+
+
+Whether it's POs or SOs, Odoo records all transactions in its Accounting app  for easy processing. Through Odoo's intuitive interface, the finance team can
+efficiently oversee business profitability, as well as extract profit and loss (P&L) and other easily generated reports. 
+
+
+Odoo's interconnected nature means that all sales data is managed with complete transparency and remains up to date. This unified system allows the finance team to easily trace all project and stakeholder details directly from Odoo's CRM, Sales, and Project apps,
+significantly streamlining the audit process.
+
+
+For managers, Odoo Dashboards provide an immediate overview of business performance, including sales, finance, inventory, and logistics. Access to high-level data allows managers to make informed decisions and take prompt action. 
+
+This allows sales and marketing managers to forecast easily, select best-selling snacks for further promotional schemes to 
+optimizing revenue stream. 
+
+Moreover, these data also enable Everbolt to identify top teams and individuals, as well as areas needing improvement, encouraging
+effective human resource management that directly
+impacts business efficiency.
+
+
+Everbolt Food Products
+
+Everbolt Food Products logo
+
+Location: Sri Lanka
+
+Industry: Food and Beverage
+
+Apps Implemented: Sales, Website, eCommerce, Inventory, Purchase, Accounting, Dashboards
+
+Hosting Type: Odoo.sh
+
+Implementation Partner: Centrics Business Solutions (www.centrics.lk)

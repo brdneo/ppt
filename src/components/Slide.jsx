@@ -333,13 +333,46 @@ const Slide = ({
           {customRightContent ? (
             customRightContent
           ) : displayImage ? (
-            <img
-              key={`img-${activeIndex}`}
-              src={displayImage}
-              alt={`Print do Módulo`}
-              className="module-image animate-fade-in"
-              style={{ animationDuration: '0.8s' }}
-            />
+            <>
+              <img
+                key={`img-${activeIndex}`}
+                src={displayImage}
+                alt={`Print do Módulo`}
+                className="module-image animate-fade-in"
+                style={{ animationDuration: '0.8s' }}
+              />
+              
+              {id === 'fiscal' && (
+                <div 
+                  className={`floating-comparative-left ${isVisible ? 'animate-fade-in delay-600' : ''}`}
+                  style={{ 
+                    position: 'absolute', 
+                    left: '-140px', 
+                    top: '30px', 
+                    background: 'var(--bg-panel)', 
+                    padding: '0.8rem 1.2rem', 
+                    borderRadius: '12px', 
+                    border: '1px solid rgba(255,255,255,0.05)',
+                    boxShadow: '0 15px 35px rgba(0,0,0,0.3)', 
+                    display: 'flex', 
+                    alignItems: 'center',
+                    gap: '0.8rem',
+                    opacity: 0,
+                    zIndex: 20,
+                    transform: 'rotate(-4deg)'
+                  }}
+                >
+                  <span style={{ fontSize: '1.4rem', transform: 'rotate(4deg)' }}>🇧🇷</span>
+                  <span style={{ fontSize: '0.9rem', fontWeight: 700, color: 'var(--text-primary)', whiteSpace: 'nowrap' }}>
+                    NFe e NFSe compatível com RFB
+                  </span>
+                  
+                  <div style={{ position: 'absolute', right: '-25px', bottom: '-35px' }}>
+                    <CornerRightDown size={42} color="var(--primary-blue)" style={{ strokeWidth: 2, transform: 'rotate(-10deg)' }} />
+                  </div>
+                </div>
+              )}
+            </>
           ) : Icon ? (
             <Icon size={180} strokeWidth={1} color="var(--primary-blue)" />
           ) : null}

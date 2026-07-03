@@ -1,0 +1,125 @@
+
+Top Seedz and Odoo: The Power Duo of Tasty Crackers and the Right ERP
+13 de novembro de 2024 por
+Kara O'Sullivan (kaos)
+
+Location/Region: Buffalo, NY
+Industry: Food Manufacturing
+Apps implemented: Accounting, Events, Inventory, Maintenance, CRM, Project, Sales, Purchase, Sign, Employees, Time Off, Approvals,Contacts,Notes
+Software Replaced: Quickbooks and TradeGecko
+Number of users: 12
+Company size: 60
+Hosting type: Odoo.sh
+
+In the wave of conscientious food choices, Top Seedz has found success thanks to two main advantages: good timing and a delicious product. While the snack space has notoriously been dominated by overly-processed options such as potato chips, cookies, and crackers, the Buffalo, New York-based brand seeks to provide a healthier choice.
+
+
+Founded in 2017 by entrepreneur Rebecca Brady, Top Seedz sells organic, gluten-free seed crackers and other roasted seed products. A New Zealand native, Rebecca moved to the United States in 2015 and, after struggling to land a job in her new hometown of Buffalo, NY, had the idea to turn her lifelong passion for making seed crackers into a business. In 2017, she officially started Top Seedz with $5,000 in seed money, baking products out of a tiny commissary space and bringing them to local farmers markets. Rebecca explains that the company came about during the health movement– people were (and are still) thinking more critically about what they put in their bodies and making healthier choices around food. With a delicious and nutritious seed cracker crafted from clean ingredients, it didn't take long before she began gaining interest from local customers and developing brand recognition. It became increasingly clear to Rebecca that she'd soon need more capital in order to scale production and meet customer demand.
+
+In 2021, Rebecca entered Top Seedz in a funding competition held by 43North, a startup accelerator based in Buffalo. With a compelling story and a passionate founder at the helm, Top Seedz won the $1 million grand prize. This bump in cash flow, as well as the ever-growing demand for its seed crackers, allowed Top Seedz to move from a commissary space to a 5,000-square-foot facility and then, eventually, to the 35,000-square-foot space that it's in today. This new facility allows the business to produce 4,000 boxes of seed crackers per hour, dramatically ramping up from its original output of 10-20 boxes per hour in the commissary space.
+
+
+This year, Top Seedz is on track to exceed $10 million in revenue, and Rebecca is confident that her company will only continue down its path of success. With an exponential amount of growth in the past few years, it was critical for Top Seedz to have business software that would not only meet the company where it is today but also accompany it on the journey of growth that lay ahead. After much consideration, it was clear that Odoo was the right choice for the job.
+Seedz of change:
+Outgrowing Quickbooks and TradeGecko
+
+Prior to implementing Odoo, Top Seedz used Quickbooks and TradeGecko to manage its accounting and inventory management processes, respectively. While Rebecca was relatively happy with the two systems, the company had increasingly complex business needs as demand grew for its products, including more production equipment to manage, an influx of customers to keep track of, and more employee collaboration to facilitate. Quickbooks and TradeGecko simply didn't possess the full range of capabilities that Top Seedz began to need. In 2021, TradeGecko announced that it would be stopping service, and in June 2022, the platform was discontinued and no longer supported. At a time when Top Seedz was experiencing tremendous growth, this software shake-up was tumultuous. Rebecca knew she needed to quickly find another solution to replace the company's Quickbooks and TradeGecko duo and support the future needs of the company.
+
+Rebecca began her search for alternative software solutions and was aware of Odoo because Top Seedz's office was in the same building as Odoo's Buffalo office. In addition to being familiar with Odoo as a company, the ERP also stood out due to its accessible price point.
+
+
+    "Odoo was much more affordable for a small business."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+While a full range of capabilities was an ultimate goal, Top Seedz's most pressing need was to replace its accounting and inventory management software. Rebecca explains that Odoo's functionality in these two areas looked promising for what the company was looking for. She points out that Odoo's traceability and tracking features were appealing, as well as the possibility for all aspects of the business's day-to-day workflows to be connected down the line:
+
+    "Because it could do so much on one platform, it was enticing to think, 'Okay, so we don't have to go from one system to another to another all day long.'"
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+Nicholas Kosinski, Managing Director of Odoo's Buffalo office, who has witnessed Top Seedz's Odoo journey from the very beginning, discusses why he thinks Odoo was the right choice for the company's specific needs:
+
+    "Top Seedz is well positioned for growth. They're a fast-growing company. They want to keep a lightweight but flexible infrastructure. They're global, so having multi-company, multi-currency, and consolidation functionality from an accounting and business perspective is going to become very important to them in the future."
+    Nicholas Kosinksi
+    Managing Director of Odoo's Buffalo office
+
+For these reasons, Rebecca chose Odoo as the software that would support Top Seedz into its new era as a business, and in 2022, the company went live. Rebecca admits that the transition period was hard, specifically training her employees who perhaps aren't the most comfortable with unfamiliar technology on how to use the software. While the learning curve was steep, she explains:
+
+    "I don't think it was to do with Odoo in particular, I think it's going to be rough with whatever you're transitioning over to."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+Sowing success: Scaling up with Odoo's
+streamlined solutions
+
+Over the past two years, Top Seedz has come a long way in its Odoo journey. While learning new software is never easy, the company has slowly but surely expanded its use of Odoo as Rebecca and her employees become more comfortable with the database. Rebecca explains that when Top Seedz first went live with Odoo, its corporate employee count was minimal and not the most IT-savvy. At the time, the team was storing information on laptops rather than a cloud-based system, which meant operational data was scattered across physical devices and not in one central, accessible location. Now, Odoo allows Top Seedz's employees to not only have all of their information stored in that centralized, cloud-based system but also to connect to other platforms such as SharePoint. This has been especially important for collaboration as the team's size continues to grow.
+
+    "The great thing about now having Odoo is we're using Odoo in conjunction with SharePoint. We use the Project app endlessly. We collaborate a lot more and a lot easier than we did before. When we first came aboard, there were only 2 of us, and now we have a team of about 12 of us."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+Top Seedz's Odoo Business Systems Analyst, Amani Raboudi, discusses how it's been rewarding to see how Odoo has helped the company on its exponential growth journey while having a hand in that process. She elaborates on her involvement with Top Seedz and Rebecca, detailing how she's helped the company build out its database to address specific functionalities it needs:
+
+
+    "Right now, they're trying to see how they can scale their business using Odoo. Basically, we are trying to use Odoo to streamline all of their workflows. Things they used to do manually - like, ten steps instead of two - they're revisiting that to be like, ‘How can Odoo help us streamline our manufacturing process, our supply chain process, even our internal expenses.' We've been working lately on how to manage their expenses and how to manage their vendor bills and reconciliation, their purchases for their supplies and all of that."
+    Amani Raboudi
+    Business Systems Analyst at Odoo
+
+Keeping the gears turning:
+Efficientequipment maintenance with Odoo
+
+
+Rebecca herself reflects on the specific Odoo modules that have been particularly impactful for Top Seedz's daily operations: one of the most important areas that Odoo has made more automated and efficient has been the maintenance of the company's production equipment. As Top Seedz moved from its original commissary space to the 35,000-square-foot space that it currently operates out of, the amount of equipment it was using dramatically grew to meet increasing demand. This made managing and keeping track of maintenance for these pieces difficult to do manually. Thankfully, with Odoo's Maintenance application, tasks such as preventative and regular maintenance reminders are automated, reducing downtime and making the manufacturing process more efficient overall. The module also provides easily accessible equipment information for all related employees.
+
+    "We've gone from a very small set-up where everything was very manual, to now automating a lot of our processes since we have a lot of equipment. As we've gotten bigger, it's been great so we can record every little maintenance task that's being done on different pieces of equipment and always have it at everyone's fingertips. That is the big thing– that everyone can access it and see what's going on at one time."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+Centralized collaboration with Odoo's connected tools
+
+Rebecca says that Odoo has made collaboration much easier in general. The company uses the Notes application for meetings, allowing employees to collaborate and have a history of recorded information in one accessible location, available to all relevant individuals. The Project module is used almost every day for the company's tasks, allowing employees to keep track of what stage items are in and what still needs to be done.
+
+
+    "[We use Project for] every single thing we're working on as a business so that we can have a central place where we store links to documents or stages where we're at with each project. I'm a big fan of Project."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+For customer management, the Contacts and CRM modules have been very beneficial for Top Seedz. Rebecca explains how it is company policy for every new customer, supplier, vendor, or partner onboarded to be inputted into Odoo's Contacts application in order to maintain consistent access to information. In the CRM module, Rebecca especially finds the way that customers are visually categorized - such as into a kanban or list view - to be helpful:
+
+    "I love the CRM. I just had everything in a spreadsheet previously, [which served as] our customer database. And now it's all organized and I have the cells funnel in the different stages where the customers are at, and they move through."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+
+Overall, Odoo has also given Top Seedz insight into the movement of its products from start to finish, including production, the sales process, and delivery to the customer. In the food industry, this insight is critical, and maintaining quality control is imperative to the success of the business. Odoo has given this capability to Top Seedz all within a single platform:
+
+    "It's been a great tool that we've really gotten to appreciate with time. We need to be able to track all of our things, where they've gone, to which customers, and we have to be able to recall them if there are issues. So we know we have that functionality [with Odoo] and we're very confident with the process of how to operate it."
+    Rebecca Brady
+    Founder and CEO of Top Seedz
+
+The impact of
+great
+leadership and the
+right support
+
+From a Business System Analyst's perspective, Amani explains how she sees Top Seedz's relationship and usage of Odoo being an asset to its growth and increasing customer demand for its seed crackers:
+
+    "They just opened a new warehouse, they are growing really fast, they are hiring more people, and now they are leveraging Odoo to help them grow from a software perspective, but also how to manage their processes and how they can optimize and make the best out of the growth they're doing right now."
+    Amani Raboudi
+    Business Systems Analyst at Odoo
+
+As a Managing Director at Odoo, Nicholas has seen companies of all sizes and industries find success with Odoo. He highlights two things that he believes have been extremely important for this project in particular. Firstly, having the right leadership in place both on the client side as well as internally at Odoo, has been critical. Rebecca's effective communication about Top Seedz's needs, combined with Amani's dedication to translating these requests within the company's database, has been an invaluable dynamic. Secondly, he says, is how intentionally customizations are carried out.
+
+    "They were realistic about what they should customize and what they should not customize. They didn't customize things just for the sake of customizing, but they really thought about the business economics behind a customization."
+    Nicholas Kosinksi
+    Managing Director of Odoo's Buffalo office
+
+When it comes to the success of the business's overall Odoo experience, Nicholas attributes it to Rebecca herself and her enthusiastic involvement with the project from the get-go:
+
+
+    "Rebecca, being at the helm of Top Seedz, had the right mindset. She was extremely proactive. She was not afraid to roll up her sleeves and get in the trenches to figure out what was going on. She has an innovative mindset, meaning she's open to new ways of working and open to adapting her business to align with the best practices that Odoo has, both from a product standpoint as well as from an implementation methodology standpoint."
+    Nicholas Kosinksi
+    Managing Director of Odoo's Buffalo office
+
+Under Rebecca's great leadership, Top Seedz has found tremendous success and a loyal customer base due to its delicious and healthy product. It was imperative for Top Seedz to have business software that matched its dedication to a high-quality product, and over the last two years, Odoo has committed to being just that. With Odoo's support, Top Seedz is well-equipped to continue growing and supplying its customers with tasty snacks, one seed at a time.

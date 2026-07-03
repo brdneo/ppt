@@ -1,0 +1,69 @@
+
+A Recipe for Success: GAF Food and Odoo in the Food Industry
+22 de julho de 2024 por
+Paola Yañez Huerta (payh)
+
+
+
+Company Name: GAF FOOD
+
+Location: Mexico
+
+Industry: Manufacturing of food additives
+
+Applications implemented: CRM, Sales, Invoicing, Inventory, and more
+
+Number of users: 13
+
+Number of employees: 15
+
+Hosting type: Odoo Online
+
+
+
+GAF Food is a Mexican company with over 20 years of experience providing innovative solutions to the food industry, and ensuring the safety, freshness, security, integrity, and appearance of its products.
+
+Specializing in the design, development, and distribution of top-quality additives at the best cost, GAF Food is dedicated to customer satisfaction and excellence in their service.
+
+
+Enhanced Processes with Odoo
+
+Alejandra Cantarino, accountant at GAF Food, shares her experience with Odoo's implementation. When she joined the company, they were already using Odoo and the implementation process had been very satisfactory. The company continually updates its Odoo database to the most recent versions, which has helped them improve their billing processes and integrate them into a unified system.
+
+Previously, invoicing was managed through another system, but with Odoo they have streamlined and enhanced these processes.
+
+
+Odoo’s Benefits for GAF Food
+
+GAF Food has capitalized on several Odoo apps, especially Inventory, Invoicing, and Sales.
+
+Inventory: This app not only acts as a warehouse management system, but also includes an advanced barcode reader tool. It can manage delivery times, automate replenishments, and configure advanced routes such as dropshipping and cross-docking.
+
+Warehouse: Odoo allows the configuration of multiple warehouses and the creation of movements between them, efficiently managing stored items.
+
+Invoicing: This app simplifies the accounting process, allowing the creation and customization of professional invoices, as well as a faster payment reception.
+
+Sales: This application manages the entire sales process, from quotations to sales orders, including the delivery and invoicing of sold products.
+
+Alejandra Cantarino emphasizes that Odoo has greatly improved warehouse processes, such as picking and reception. This has had a positive impact on the company's business goals.
+
+
+Odoo’s Practical Implementation
+
+GAF Food uses Odoo for everything, from customer prospecting to final product delivery. Orders are created in the Sales app, invoices are generated and then processed in the warehouse, where batch numbers and raw materials are managed until the finished product is delivered.
+
+Alejandra recommends other companies consider Odoo, highlighting the ease of having all processes in one system.
+
+    What I liked the most is the ease of having everything in the same system. Before, we did it separately, and now it is all together, making it much easier for us.
+    Alejandra Cantarino • Accountant at GAF Food
+
+
+At GAF Food, they describe Odoo with one word: PRACTICAL.
+
+About GAF Food
+
+GAF Food provides solutions to the food industry, ensuring the safety, freshness, security, and appearance of its products. They are currently present in various sectors, including dairy, juices and beverages, edible fats and oils, bakery, meat, confectionery, and sauces.
+
+The company has optimized its internal processes thanks to Odoo’s implementation. This collaboration has significantly improved the management of inventory, warehouse, invoicing, and sales by integrating all these functions into one system.
+
+Learn more at gaf-food.com.mx

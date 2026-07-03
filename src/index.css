@@ -248,6 +248,26 @@ h6 {
   justify-content: center;
   align-items: center;
   padding: 0 4rem;
+  height: auto;
+  min-height: 100vh;
+  overflow: visible;
+}
+
+.intro-bottom-section {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  gap: 3rem;
+  margin-top: 2rem;
+}
+
+@media (max-width: 768px) {
+  .intro-bottom-section {
+    flex-direction: column;
+    gap: 2rem;
+  }
 }
 
 .slide-content-container {
@@ -489,5 +509,48 @@ h6 {
     height: 400px;
     top: -150px;
     right: -100px;
+  }
+}
+@media (max-width: 1300px) {
+  .floating-comparative-card, .floating-comparative-left {
+    position: relative !important;
+    right: auto !important;
+    left: auto !important;
+    top: auto !important;
+    transform: none !important;
+    margin-top: 3rem !important;
+    max-width: 90% !important;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@keyframes float {
+  0% { transform: translate(-50%, -50%) translateY(0px); }
+  50% { transform: translate(-50%, -50%) translateY(-10px); }
+  100% { transform: translate(-50%, -50%) translateY(0px); }
+}
+
+@media (max-width: 900px) {
+  .ecosystem-container {
+    height: auto !important;
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    padding: 2rem 0;
+  }
+  .ecosystem-container > svg {
+    display: none;
+  }
+  .ecosystem-node, .ecosystem-container > div {
+    position: relative !important;
+    top: auto !important;
+    left: auto !important;
+    transform: none !important;
+    width: 100% !important;
+    max-width: 320px;
+    animation: none !important;
+    margin: 0 auto;
   }
 }

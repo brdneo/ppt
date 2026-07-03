@@ -1,0 +1,20 @@
+Código aberto
+
+Por trás da tecnologia está uma comunidade de mais de 100 mil desenvolvedores que colaboram em todo o mundo. Estamos unidos pelo espírito do código aberto e por uma visão em comum: “transformar empresas, capacitar funcionários”.
+
+O Odoo está disponível em duas edições:
+• Community: código aberto, 100% gratuito.
+• Enterprise: apps adicionais, infraestrutura e serviços profissionais.
+
+Sem aprisionamento
+
+Nenhum formato de dados proprietário, apenas o PostgreSQL: você é o proprietário dos seus dados. E sem ficar preso ao software: você obtém o código-fonte, o acesso ao GitHub e a flexibilidade de hospedar em nossa infraestrutura ou no local.
+
+Preço justo
+
+Sem preços baseados em uso, sem venda adicional de recursos, sem contratos de longo prazo, sem limites de hospedagem, sem surpresas... apenas um único preço por usuário – tudo incluso.
+
+Mais de 40.000 apps da comunidade
+
+Graças ao seu modelo de desenvolvimento de código aberto, o Odoo se tornou a maior loja de aplicativos de negócios do mundo. Imagine ter um aplicativo para cada necessidade da sua empresa.
+

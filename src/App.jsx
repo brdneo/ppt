@@ -30,29 +30,33 @@ import imgEcossistema from './assets/modules/ecossistema.png';
 import imgFunilVendas from './assets/modules/funil-vendas.png';
 import imgMarketing from './assets/modules/marketing.png';
 import imgStudio from './assets/modules/studio.jpg';
+import imgOdooPng from './assets/modules/odoo.png';
+import imgOdooSvg from './assets/modules/odoo.svg';
+import imgPrecos from './assets/modules/precos.png';
+import EcosystemDiagram from './components/EcosystemDiagram';
 
 const MulticompanyFlow = () => (
   <div className="mc-flow-container">
     {/* Step 1: Vendedor */}
     <div className="mc-step">
-       <Smartphone size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-       <div>
-         <h4 className="mc-step-title">1. Vendedor Externo (App Único)</h4>
-         <p className="mc-step-desc">Acessa o portfólio e vende produtos das 3 empresas em um único pedido.</p>
-       </div>
+      <Smartphone size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
+      <div>
+        <h4 className="mc-step-title">1. Vendedor Externo (App Único)</h4>
+        <p className="mc-step-desc">Acessa o portfólio e vende produtos das 3 empresas em um único pedido.</p>
+      </div>
     </div>
-    
+
     <div className="flex-center">
       <ArrowDown color="#cbd5e1" size={24} />
     </div>
 
     {/* Step 2: CD */}
     <div className="mc-step">
-       <PackageOpen size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-       <div>
-         <h4 className="mc-step-title">2. Centro de Distribuição (CD)</h4>
-         <p className="mc-step-desc">Recebe 1 documento consolidado e faz 1 única separação/entrega para o cliente.</p>
-       </div>
+      <PackageOpen size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
+      <div>
+        <h4 className="mc-step-title">2. Centro de Distribuição (CD)</h4>
+        <p className="mc-step-desc">Recebe 1 documento consolidado e faz 1 única separação/entrega para o cliente.</p>
+      </div>
     </div>
 
     <div className="flex-center">
@@ -61,15 +65,15 @@ const MulticompanyFlow = () => (
 
     {/* Step 3: Faturamento */}
     <div className="mc-step">
-       <FileText size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
-       <div style={{ width: '100%' }}>
-         <h4 className="mc-step-title" style={{ marginBottom: '0.75rem' }}>3. Faturamento Desmembrado</h4>
-         <div className="mc-fat-container">
-           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa A</b></div>
-           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa B</b></div>
-           <div className="mc-fat-item">NF + Boleto<br/><b style={{ color: 'var(--primary-blue)' }}>Empresa C</b></div>
-         </div>
-       </div>
+      <FileText size={36} color="var(--primary-blue)" style={{ flexShrink: 0 }} />
+      <div style={{ width: '100%' }}>
+        <h4 className="mc-step-title" style={{ marginBottom: '0.75rem' }}>3. Faturamento Desmembrado</h4>
+        <div className="mc-fat-container">
+          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Capelinha</b></div>
+          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Refazenda</b></div>
+          <div className="mc-fat-item">NF + Boleto<br /><b style={{ color: 'var(--primary-blue)' }}>Bio Alimentos</b></div>
+        </div>
+      </div>
     </div>
   </div>
 );
@@ -83,26 +87,33 @@ function App() {
       id: "intro",
       badge: null,
       title: "NEXT FOODS",
+      odooLogo: imgOdooPng,
       logos: [bioLogo, capelinhaLogo, refazendaLogo],
-      description: "Um ecossistema empresarial totalmente conectado. Informações centralizadas, processos fluidos e zero retrabalho, preparando a infraestrutura tecnológica para um crescimento sustentável.",
-      modules: ["O Ecossistema", "Alta Performance"],
+      description: "Um ecossistema empresarial totalmente conectado. Informações centralizadas, processos fluidos e zero retrabalho. Uma parceria poderosa com o Odoo para preparar a infraestrutura com tecnologia Open Source, garantindo um sistema sem limites e sem aprisionamento.",
+      image: imgOdooSvg,
+      leftImage: imgPrecos,
+      leftImageTitle: "Cortando custos com Odoo",
+      leftImageSubtitle: "Custo Odoo: R$ 9.216,00 /ano (para 20 usuários). Economia real de R$ 994.387,73 ao substituir sistemas isolados.",
+      modules: [],
       features: [
-        "Fim das planilhas isoladas e descentralizadas",
-        "Centralização das ferramentas de gestão em uma única plataforma",
-        "Visão gerencial em tempo real de todas as operações do grupo"
+        "Fim das planilhas isoladas e centralização da gestão em uma única plataforma",
+        "Visão gerencial em tempo real de todas as operações do grupo",
+        "Código aberto (Open Source) apoiado por mais de 100 mil desenvolvedores",
+        "Sem Aprisionamento (Lock-in): Propriedade total dos dados no PostgreSQL",
+        "Preço Justo e Escalável: Valor único por usuário com acesso a mais de 40.000 apps"
       ]
     },
     {
       id: "ecossistema",
-      badge: "Visão Geral",
+      badge: "Módulos Integrados",
       title: "O Ecossistema",
-      description: "Um ambiente onde todos os módulos conversam nativamente entre si. A informação flui de maneira inteligente, garantindo que o dado inserido em uma ponta atualize toda a cadeia de processos.",
-      image: imgEcossistema,
-      modules: ["Integração", "Ecossistema"],
+      description: "Uma visão consolidada de todas as ferramentas conversando entre si em tempo real.",
+      customRightContent: <div style={{ transform: 'scale(0.85)', transformOrigin: 'center' }}><EcosystemDiagram /></div>,
+      modules: ["Vendas & CRM", "Inventário", "Financeiro", "RH"],
       features: [
-        "Integração nativa sem necessidade de conectores complexos",
-        "Experiência de usuário padronizada em todos os departamentos",
-        "Arquitetura escalável desenhada para acompanhar o crescimento da holding"
+        "Fim das ilhas de informação: um dado inserido aqui reflete lá",
+        "Rastreabilidade completa de ponta a ponta",
+        "Automação inteligente entre departamentos"
       ]
     },
     {
@@ -358,11 +369,11 @@ function App() {
   useEffect(() => {
     const handleScroll = () => {
       if (!containerRef.current) return;
-      
+
       const container = containerRef.current;
       const slideElements = container.querySelectorAll('.slide');
       const viewportCenter = window.innerHeight / 2;
-      
+
       let currentSlideIndex = activeSlide;
 
       slideElements.forEach((slide, index) => {
@@ -371,7 +382,7 @@ function App() {
           currentSlideIndex = index;
         }
       });
-      
+
       if (currentSlideIndex !== activeSlide) {
         setActiveSlide(currentSlideIndex);
       }
@@ -388,7 +399,7 @@ function App() {
     if (!containerRef.current) return;
     const container = containerRef.current;
     const slideElements = container.querySelectorAll('.slide');
-    
+
     if (slideElements[index]) {
       container.scrollTo({
         top: slideElements[index].offsetTop,
@@ -421,18 +432,18 @@ function App() {
     <>
       <div className="nav-dots">
         {slides.map((_, index) => (
-          <div 
-            key={index} 
+          <div
+            key={index}
             className={`nav-dot ${index === activeSlide ? 'active' : ''}`}
             onClick={() => scrollToSlide(index)}
             title={`Ir para o slide ${index + 1}`}
           ></div>
         ))}
       </div>
-      
+
       <div className="presentation-container" ref={containerRef}>
         {slides.map((slide, index) => (
-          <Slide 
+          <Slide
             key={slide.id}
             {...slide}
             isActive={index === activeSlide}

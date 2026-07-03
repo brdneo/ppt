@@ -1,0 +1,90 @@
+
+Ancestral Wisdom and the Power of Cocoa: Ah Cacao's Digital Leap with Odoo
+1 de julho de 2025 por
+Paola Yañez Huerta (payh)
+
+Company name: Ah Cacao
+
+Location: Playa del Carmen, Quintana Roo, Mexico
+
+Industry: Food and Beverage
+
+Apps implemented: Point of Sale, Inventory, Purchase, and more
+
+Number of users: 25
+
+Number of employees: 90
+
+Hosting type: On-premise
+
+
+
+Ah Cacao is a Mexican chocolate café founded in Playa del Carmen in  2004 inspired by the rich tradition of cocoa and coffee grown by families in southern Mexico. Their mission is to "joy up life" by offering natural and sustainable experiences, from artisanal drinks and pastries, to chocolate bars and cocoa powder, all produced in a small solar factory located at Playa del Carmen. 
+
+Still, behind every cup of cocoa was a complex operation that required order, agility, and strategic vision. That's why, for over a decade, Ah Cacao has found in Odoo the perfect partner to centralize their information and make decisions with real-time data.
+
+
+The Challenge: Too Many Databases,
+Too Little Clarity
+
+
+
+Like many growing companies, Ah Cacao faced the challenge of managing their operations with several tools that weren't integrated.
+
+    "Before using Odoo, it was difficult to store everything in one database. You had to go from one piece of information to another, from a spreadsheet to a point of sale. Nothing was consolidated."
+    Ramón González​
+     Operations Manager at Ah Cacao
+
+This scattered environment hindered strategic decision-making, inventory control, and production planning. Ah Cacao needed a tool to visualize their entire operation in a single platform.
+
+
+The Solution: A Free, Agile, and Custom Platform
+
+Choosing Odoo was no coincidence: its open source and adaptability made it ideal for a company with a clear picture and specific processes.
+
+    "We chose Odoo because it's open source, which allows us to develop and adapt the processes according to what we need."
+    Ramón González
+
+With Odoo, Ah Cacao consolidated their operations, from the point of sale to production planning, inventories, and strategic reporting. Everything is connected, and everything is accessible.
+
+
+The Process: More Control, More Speed
+
+Ah Cacao now has four stores in Playa del Carmen and is preparing to open their first branch in Cancun. Thanks to Odoo, operational control is more agile and precise than ever:
+
+    Remote inventory and sales queries.
+    Automation of product discounts at checkout.
+    Instant reports generation from any location.
+    Production planning based on historical demand.
+
+    "With Odoo, there’s no need to depend on someone to review modules. Everything is connected on the same platform."
+    Ramón González
+
+
+The Impact: Measurable Growth, Fast Decisions
+
+Since Odoo's implementation, Ah Cacao has recorded a 10% growth over the previous year. This breakthrough has been made possible by improved planning, cost reduction, and operational agility.
+
+    "We have saved costs thanks to Odoo. We plan production based on demand, which allows us to avoid waste and react faster."
+    Ramón González
+
+In addition, the team highlights the value of the Odoo’s community, constant feedback, and technical support that accompanies the growth of the brand.
+
+
+A Look Into the Future:
+Community and Collaboration
+
+
+For Ramón, the most valuable thing about Odoo is not only its functionality but its philosophy:
+
+    "What we value the most is that they listen to you. We can give feedback and suggest improvements that will benefit the entire community. That's not the case with other ERPs."
+    Ramón González
+
+With this collaborative mindset and a flexible tool, Ah Cacao has not only improved their current management, but they are also building a scalable future, efficient and in tune with their essence.
+
+
+About Ah Cacao
+
+Based in Playa del Carmen, Ah Cacao is a chocolate café inspired by the Mayan tradition. Committed to Mexican cocoa and national pride, it blends flavor, quality, and technology to deliver delicious and sustainable experiences. Thanks to Odoo, they have digitized and optimized their operations, boosting their growth and consolidating their presence in the Mexican Caribbean.
+
+Learn more at ahcacao.com

@@ -67,19 +67,15 @@ const Slide = ({
       <div id={id} ref={slideRef} className="slide slide-intro-container" style={{ justifyContent: 'center' }}>
         <div className="bg-glow"></div>
         <div className="slide-content-container" style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center' }}>
-          
-          <h2 className={`text-gradient ${isVisible ? 'animate-slide-up delay-100' : ''}`} style={{ opacity: 0, fontSize: '5rem', marginBottom: '2rem' }}>
-            {title}
-          </h2>
 
-          <div className={`title-intro-wrapper flex-center ${isVisible ? 'animate-slide-up delay-200' : ''}`} style={{ opacity: 0, flexDirection: 'row', flexWrap: 'wrap', gap: '1rem', marginBottom: '3rem' }}>
-            <h1 className="text-gradient title-intro" style={{ margin: 0 }}>
+          <div className={`title-intro-wrapper flex-center ${isVisible ? 'animate-slide-up delay-100' : ''}`} style={{ opacity: 0, flexDirection: 'row', flexWrap: 'nowrap', gap: '3vw', marginBottom: '3rem', width: '100%' }}>
+            <h1 className="text-gradient title-intro" style={{ margin: 0, fontSize: 'min(8vw, 8rem)', lineHeight: 1, whiteSpace: 'nowrap' }}>
               NEXT FOODS
             </h1>
             {odooLogo && (
-              <div style={{ display: 'flex', alignItems: 'center', gap: '1rem', fontSize: '1.8rem', color: '#cbd5e1', fontWeight: 500 }}>
+              <div style={{ display: 'flex', alignItems: 'center', gap: '3vw', fontSize: 'min(4vw, 4rem)', color: '#cbd5e1', fontWeight: 500 }}>
                 <span style={{ marginTop: '0.2rem' }}>x</span>
-                <img src={odooLogo} alt="Odoo Logo" style={{ height: '72px', objectFit: 'contain' }} />
+                <img src={odooLogo} alt="Odoo Logo" style={{ height: 'min(9vw, 140px)', objectFit: 'contain' }} />
               </div>
             )}
           </div>
@@ -160,7 +156,7 @@ const Slide = ({
               className={`floating-comparative-card ${isVisible ? 'animate-fade-in delay-600' : ''}`}
               style={{
                 position: 'absolute',
-                right: '4%',
+                right: '8rem',
                 top: '55%',
                 transform: 'translateY(-50%)',
                 background: 'var(--bg-panel)',

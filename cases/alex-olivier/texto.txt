@@ -1,0 +1,66 @@
+
+How Alex Olivier Chocolate Factory optimized its production and sales through Odoo
+27 de fevereiro de 2026 por
+Labaisse Larissa (llar)
+
+Company Name: Alex Olivier Chocolate Factory (FDL)
+
+Location: France, Europe
+
+Industry: Food & Beverage
+
+Established: 1927
+
+Company Size: 100+
+
+Odoo Users: 100+
+
+Hosting Type: On Premise
+
+Apps: Point of Sale, Maintenance, Manufacturing, Inventory, Sales, Purchase.
+
+Implementing Partner: Subteno
+
+Alex Olivier Chocolate Factory's logo
+
+For nearly a century, Alex Olivier Chocolate Factory has been delighting French consumers with its artisanal chocolates. Faced with the need to streamline its production and sales flows, the company decided to centralize its operations in a management interface. Open-source and flexible, Odoo won over the IT team responsible for operating this technological transition. 
+Manage production and sales with an
+all-in-one management solution
+
+Founded in Paris in 1927, Alex Olivier Chocolate Factory provides chocolates and bites crafted by passionate chocolatiers. The team is committed to developing gourmet recipes with unique flavors, created in accordance with French tradition. 
+
+Having a large manufacturing and sales space, the chocolate factory urgently needed an effective traceability tool and a management system adapted to the various manufacturing processes in place. However, using different software programs and Excel files was not making it possible to optimize workflows. That is why, in 2009, the decision was made to centralize operations within a single platform, such as VIF or Odoo, which were the solutions considered at the time.
+
+Odoo's all-in-one interface has been selected by the in-house IT team for several reasons:
+
+Its open-source nature, allowing the software to be modified as needed;
+
+Its community, offering a support network;
+
+Its flexibility, through robust standard modules that remain adaptable in case of specific requirements related to the industry or activity. 
+
+Alex Olivier Chocolate Factory's team at work
+Evolving the ERP system
+in step with the chocolate factory
+
+Guided by Subteno’s expertise, an Odoo Silver partner, Alex Olivier Chocolate Factory started by implementing sales administration and inventory management in 2009. The key users who tested the platform saw the potential behind centralizing the business within a single ERP. 
+
+Employee packing some products of Alex Olivier Chocolate FactoryIn 2014, the chocolate factory undertook to migrate to Odoo version 7 internally, without the help of an integrator. That year brought numerous changes in terms of inventory management and web interface.
+
+In 2018, with Subteno’s help, the migration to Odoo’s version 10 was completed. At the same time, Computer-Aided Production Management (CAPM) was implemented to structure and control the chocolate manufacturing process. All staff had to be trained in this digitalization, given that some employees had never even touched a computer before.
+
+Finally, in 2019, the Point of Sale module and a Pick to Light system for preparing orders from the chocolate factory's eCommerce platform were implemented.
+
+    “Testing and training phases prior to migrating to new software are extremely important for the success of a project, even though bugs after migration are inevitable. Today, everyone uses Odoo on a daily basis, across all departments.” - Catherine Houvion - Managing Director of Alex Olivier Chocolate Factory.
+
+A business orchestrated
+from start to finish with Odoo’s management solution
+
+Alex Olivier Chocolate Factory now has a comprehensive management system for its business. Odoo enables teams to handle all the flows, from manufacturing to shipping products, including purchasing, sales, and storage. The platform allows for the traceability of each ingredient and packaging component of a finished product, which is essential for a food company.
+
+Alex Olivier Chocolate Factory's products
+
+Consolidating information within a single software program has had a considerable positive impact on the business. To date, satisfaction is based in particular on the fact that all operators use Odoo on a daily basis, each at their own level. 
+
+    “We have an effective tool that everyone uses, which is both useful for calculating our needs and reliable for managing our stock. [...] The time saved on certain tasks is reinvested in analyzing and implementing new developments.” - Catherine Houvion - Managing Director of Alex Olivier Chocolate Factory.
+

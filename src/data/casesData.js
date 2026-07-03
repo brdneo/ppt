@@ -26,6 +26,17 @@ import topImg from '../../cases/top-seedz/img.png';
 import topSnack from '../../cases/top-seedz/snack.png';
 import topLogo from '../../cases/top-seedz/logo.png';
 
+// Ah Cacao
+import ahLogo from '../../cases/ah-cacao/logo.png';
+import ahImg1 from '../../cases/ah-cacao/image1.png';
+import ahImg2 from '../../cases/ah-cacao/image.png';
+import ahImg3 from '../../cases/ah-cacao/image3.png';
+
+// Alex Olivier
+import alexLogo from '../../cases/alex-olivier/logo.svg';
+import alexCover from '../../cases/alex-olivier/cover.jpeg';
+import alexPhoto from '../../cases/alex-olivier/photo.jpg';
+
 export const casesData = [
   {
     id: "pura-frutta",
@@ -127,5 +138,39 @@ export const casesData = [
       "Redução de gargalos na reposição de produtos nas lojas."
     ],
     quote: "Uma verdadeira receita de sucesso. A flexibilidade do Odoo permitiu unificar tudo sob o mesmo teto."
+  },
+  {
+    id: "ah-cacao",
+    company: "Ah Cacao",
+    location: "México 🇲🇽",
+    industry: "Cafeteria (Chocolates)",
+    logo: ahLogo,
+    images: [ahImg1, ahImg2, ahImg3],
+    apps: ["PDV", "Inventário", "Fabricação", "Relatórios"],
+    challenge: "Informações fragmentadas em planilhas e PDVs separados dificultavam o controle de estoque e o planejamento da produção.",
+    solution: "Adoção de uma plataforma de código aberto e flexível, permitindo adaptar processos específicos de PDV e produção.",
+    results: [
+      "Planejamento de produção baseado na demanda histórica para evitar desperdícios.",
+      "Consultas de vendas e estoque de forma totalmente remota.",
+      "Crescimento de 10% no primeiro ano de uso com drástica redução de custos."
+    ],
+    quote: "Com o Odoo não dependemos de sistemas isolados. Tudo está conectado na mesma plataforma, e a comunidade nos ouve."
+  },
+  {
+    id: "alex-olivier",
+    company: "Alex Olivier",
+    location: "França 🇫🇷",
+    industry: "Chocolates Artesanais",
+    logo: alexLogo,
+    images: [alexCover, alexPhoto],
+    apps: ["Fabricação", "Inventário", "Vendas", "PDV", "Compras", "Manutenção"],
+    challenge: "O uso de vários softwares e arquivos Excel impossibilitava otimizar o fluxo de trabalho e rastrear ingredientes.",
+    solution: "Centralização em uma interface unificada, implementando Gestão de Produção Auxiliada (CAPM) e um sistema Pick to Light.",
+    results: [
+      "Rastreabilidade completa de cada ingrediente e embalagem do produto final.",
+      "Economia de tempo operacional reinvestida em análises e novos desenvolvimentos.",
+      "Todos os colaboradores usam Odoo diariamente com facilidade."
+    ],
+    quote: "Temos uma ferramenta eficaz que todos usam, útil para calcular necessidades e muito confiável para gerenciar o estoque."
   }
 ];

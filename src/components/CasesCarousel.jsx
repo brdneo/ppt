@@ -3,12 +3,14 @@ import { casesData } from '../data/casesData';
 import { ChevronLeft, ChevronRight, CheckCircle2, Quote } from 'lucide-react';
 import '../index.css';
 
-const CasesCarousel = ({ isActive }) => {
+const CasesCarousel = ({ isActive, onNavigateSlide }) => {
   const [activeIndex, setActiveIndex] = useState(0);
   const [isVisible, setIsVisible] = useState(false);
   const sectionRef = useRef(null);
   
-  const currentCase = casesData[activeIndex];
+  // Safely get current case to prevent crashes if index temporarily goes out of bounds
+  const safeIndex = Math.max(0, Math.min(activeIndex, casesData.length - 1));
+  const currentCase = casesData[safeIndex];
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -32,12 +34,35 @@ const CasesCarousel = ({ isActive }) => {
   }, []);
 
   const nextCase = () => {
-    setActiveIndex((prev) => (prev + 1) % casesData.length);
+    if (activeIndex >= casesData.length - 1) {
+      if (onNavigateSlide) onNavigateSlide('next');
+    } else {
+      setActiveIndex((prev) => prev + 1);
+    }
   };
 
   const prevCase = () => {
-    setActiveIndex((prev) => (prev - 1 + casesData.length) % casesData.length);
+    if (activeIndex <= 0) {
+      if (onNavigateSlide) onNavigateSlide('prev');
+    } else {
+      setActiveIndex((prev) => prev - 1);
+    }
   };
+
+  useEffect(() => {
+    if (!isActive) return;
+
+    const handleKeyDown = (e) => {
+      if (e.key === 'ArrowRight') {
+        nextCase();
+      } else if (e.key === 'ArrowLeft') {
+        prevCase();
+      }
+    };
+
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [isActive, activeIndex, nextCase, prevCase]);
 
   // Background style using the first image blurred
   const bgImage = currentCase.images && currentCase.images.length > 0 ? currentCase.images[0] : '';

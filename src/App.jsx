@@ -386,6 +386,13 @@ function App() {
   // Keyboard navigation for presentation remote (Arrow Keys, PageUp/PageDown)
   useEffect(() => {
     const handleKeyDown = (e) => {
+      const isCasesSlide = slides[activeSlide]?.id === 'cases';
+      
+      // Se estiver no slide de cases, ignora setas para os lados para o carrossel usar
+      if (isCasesSlide && ['ArrowRight', 'ArrowLeft'].includes(e.key)) {
+        return;
+      }
+
       if (['ArrowDown', 'PageDown', 'ArrowRight'].includes(e.key)) {
         e.preventDefault();
         if (activeSlide < slides.length - 1) {
@@ -401,7 +408,7 @@ function App() {
 
     window.addEventListener('keydown', handleKeyDown);
     return () => window.removeEventListener('keydown', handleKeyDown);
-  }, [activeSlide, slides.length]);
+  }, [activeSlide, slides]);
 
   const sections = [
     { name: "VISÃO GERAL", activeColor: "#94a3b8", startIndex: 0, endIndex: 3 },
@@ -444,17 +451,30 @@ function App() {
       </div>
 
       <div className="presentation-container" ref={containerRef}>
-        {slides.map((slide, index) => (
-          slide.id === 'cases' ? (
-            <CasesCarousel key={slide.id} isActive={index === activeSlide} />
-          ) : (
+        {slides.map((slide, index) => {
+          if (slide.id === 'cases') {
+            return (
+              <CasesCarousel 
+                key={slide.id} 
+                isActive={index === activeSlide} 
+                onNavigateSlide={(direction) => {
+                  if (direction === 'prev' && activeSlide > 0) {
+                    scrollToSlide(activeSlide - 1);
+                  } else if (direction === 'next' && activeSlide < slides.length - 1) {
+                    scrollToSlide(activeSlide + 1);
+                  }
+                }}
+              />
+            );
+          }
+          return (
             <Slide
               key={slide.id}
               {...slide}
               isActive={index === activeSlide}
             />
-          )
-        ))}
+          );
+        })}
       </div>
     </>
   );
